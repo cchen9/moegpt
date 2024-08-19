@@ -1,5 +1,7 @@
 
 import os
+os.environ['HF_HOME'] = '/home/ubuntu/USERS/clareche/cache'
+os.environ['PYTORCH_CUDA_ALLOC_CONF'] = 'expandable_segments:True'
 import sys
 import json
 import random

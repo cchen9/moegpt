@@ -4,6 +4,10 @@ so nothing in this file really has anything to do with GPT specifically.
 """
 
 import time
+import os
+os.environ['HF_HOME'] = '/home/ubuntu/USERS/clareche/cache'
+os.environ['PYTORCH_CUDA_ALLOC_CONF'] = 'expandable_segments:True'
+
 from collections import defaultdict
 
 import torch
@@ -35,6 +39,8 @@ class Trainer:
         self.model = model
         self.optimizer = None
         self.train_dataset = train_dataset
+        # The callbacks attribute is a dictionary of lists, allowing for the registration of 
+        # multiple callback functions that can be triggered at specific events during training.
         self.callbacks = defaultdict(list)
 
         # determine the device we'll train on
@@ -55,7 +61,8 @@ class Trainer:
 
     def set_callback(self, onevent: str, callback):
         self.callbacks[onevent] = [callback]
-
+    
+    # method used to execute all callbacks associated with a given event
     def trigger_callbacks(self, onevent: str):
         for callback in self.callbacks.get(onevent, []):
             callback(self)
@@ -98,6 +105,7 @@ class Trainer:
             # backprop and update the parameters
             model.zero_grad(set_to_none=True)
             self.loss.backward()
+            # applied to prevent exploding gradients, ensuring that gradients do not exceed a specified norm
             torch.nn.utils.clip_grad_norm_(model.parameters(), config.grad_norm_clip)
             self.optimizer.step()
 
@@ -110,7 +118,11 @@ class Trainer:
             # termination conditions
             if config.max_iters is not None and self.iter_num >= config.max_iters:
                 break
-            
+           
+            # If a 'sparse_switch' is configured, the loop checks if the iteration count has reached this point
+            # and if so, switches the model to sparse mode. This is particularly useful for models using a
+            # mixture of experts (MoE) architecture where sparse mode can reduce computation by activating only
+            # a subset of experts
             if config.sparse_switch is not None and self.iter_num >= config.sparse_switch:
                 if not sparse_mode:
                     print("switching to sparse mode")

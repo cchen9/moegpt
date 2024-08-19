@@ -79,6 +79,8 @@ class SoftMoE(nn.Module):
         self.dropout = nn.Dropout(dropout)  # dropout at the end
 
     def forward(self, x):
+        import pdb
+        pdb.set_trace()
         sparse = SoftMoE.sparse  # global state for all objects
         # there is no separate call for it, changing here
         # When sparse mode is enabled, the router is set to evaluation mode, and its gradients are frozen,

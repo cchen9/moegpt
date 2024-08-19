@@ -1,0 +1,4217 @@
+system:
+    seed: 3407
+    work_dir: ./out/chargpt
+data:
+    block_size: 128
+model:
+    model_type: gpt-mini
+    n_layer: None
+    n_head: None
+    n_embd: None
+    moe_nums: (8, 2)
+    vocab_size: None
+    block_size: None
+    embd_pdrop: 0.1
+    resid_pdrop: 0.1
+    attn_pdrop: 0.1
+trainer:
+    device: auto
+    num_workers: 4
+    max_iters: 30002
+    sparse_switch: 5100
+    batch_size: 64
+    learning_rate: 0.0005
+    betas: (0.9, 0.95)
+    weight_decay: 0.1
+    grad_norm_clip: 1.0
+
+data has 1115394 characters, 65 unique.
+number of parameters: 15.14M
+running on device cuda
+iter_dt 0.00ms; iter 0: train loss 4.20430
+O God, O God! e f  fhsoree oioS''
+CC
+Ts l'  f
+ophav t a  w the ou osirs llee' s'isarssr
+ee s a a ani s o'hais is 
+Tti
+e  e t ts 
+Ii soo 
+T she eC pts t pIoo p t t
+sth
+oe 
+
+ 
+
+s ioe 
+oe are ad pthe t 
+
+
+ICt'd'd' o es
+'oe'os
+e p  t wIh
+t  tii
+i odoedst'et ssT
+ t
+ sha e
+To odo'dCsosie 
+T'
+od
+
+t
+
+ e aooe
+ss'ouid
+I io  poe ti
+o'' ao oo woootee 
+e
+ 
+e sie' s
+'e'oe
+ o
+ieCoo peoo thoudooussed s s
+
+ wI e  a
+Ie  eCsToth wtPosTs  o it t p a e as e
+t th'e e'h 
+e  o iou e  wIT s' t id s 
+Tt
+ths o t ood t ad 
+I w
+  o w ed
+saving model
+iter_dt 134.49ms; iter 10: train loss 3.04813
+iter_dt 134.40ms; iter 20: train loss 2.76692
+iter_dt 134.34ms; iter 30: train loss 2.63948
+iter_dt 134.15ms; iter 40: train loss 2.60807
+iter_dt 134.74ms; iter 50: train loss 2.53678
+iter_dt 134.70ms; iter 60: train loss 2.51638
+iter_dt 134.32ms; iter 70: train loss 2.47597
+iter_dt 134.50ms; iter 80: train loss 2.51804
+iter_dt 134.65ms; iter 90: train loss 2.45115
+iter_dt 134.72ms; iter 100: train loss 2.46182
+iter_dt 134.45ms; iter 110: train loss 2.45957
+iter_dt 134.32ms; iter 120: train loss 2.41089
+iter_dt 134.12ms; iter 130: train loss 2.43477
+iter_dt 134.37ms; iter 140: train loss 2.40743
+iter_dt 134.33ms; iter 150: train loss 2.38876
+iter_dt 134.66ms; iter 160: train loss 2.37137
+iter_dt 134.24ms; iter 170: train loss 2.37533
+iter_dt 134.77ms; iter 180: train loss 2.35287
+iter_dt 134.80ms; iter 190: train loss 2.32512
+iter_dt 134.00ms; iter 200: train loss 2.29592
+iter_dt 134.46ms; iter 210: train loss 2.26106
+iter_dt 134.59ms; iter 220: train loss 2.28330
+iter_dt 134.42ms; iter 230: train loss 2.29965
+iter_dt 134.52ms; iter 240: train loss 2.26992
+iter_dt 134.64ms; iter 250: train loss 2.23516
+iter_dt 134.61ms; iter 260: train loss 2.23876
+iter_dt 134.41ms; iter 270: train loss 2.21611
+iter_dt 134.50ms; iter 280: train loss 2.20251
+iter_dt 134.51ms; iter 290: train loss 2.16338
+iter_dt 134.71ms; iter 300: train loss 2.17071
+iter_dt 134.59ms; iter 310: train loss 2.17456
+iter_dt 134.47ms; iter 320: train loss 2.11496
+iter_dt 134.79ms; iter 330: train loss 2.10803
+iter_dt 134.40ms; iter 340: train loss 2.11140
+iter_dt 134.67ms; iter 350: train loss 2.13382
+iter_dt 134.00ms; iter 360: train loss 2.08428
+iter_dt 134.66ms; iter 370: train loss 2.08486
+iter_dt 134.60ms; iter 380: train loss 2.06078
+iter_dt 134.94ms; iter 390: train loss 2.05936
+iter_dt 134.67ms; iter 400: train loss 2.03971
+iter_dt 134.46ms; iter 410: train loss 1.97066
+iter_dt 135.69ms; iter 420: train loss 2.00706
+iter_dt 134.60ms; iter 430: train loss 1.97965
+iter_dt 134.06ms; iter 440: train loss 1.96478
+iter_dt 134.53ms; iter 450: train loss 1.93478
+iter_dt 134.27ms; iter 460: train loss 1.91027
+iter_dt 134.99ms; iter 470: train loss 1.93750
+iter_dt 134.26ms; iter 480: train loss 1.91107
+iter_dt 134.62ms; iter 490: train loss 1.88375
+iter_dt 134.46ms; iter 500: train loss 1.90581
+O God, O God! But to
+Ty camion throw how hy many bese thim my leath:
+Which maing wy sturn'd murking
+Word she this, silds, shall think my to dath thend,
+Ontiming my so somentles.--
+
+BIOCKE
+
+GLOUCESTET:
+Thos what hell brives my dacker.
+
+MENENIUS:
+MADWAR:
+Ifter and me to for be mot is as the her funthar
+Things to heary, with as to womain, I mught
+And there bestisud thy spracent thy hand of our benevers,
+And faremelatizent.
+
+RORTEO:
+Selve town this be hisen a thenow and as teatherd thrus?
+
+MADNCA:
+It as sworke t
+saving model
+iter_dt 134.47ms; iter 510: train loss 1.84812
+iter_dt 134.60ms; iter 520: train loss 1.87580
+iter_dt 134.75ms; iter 530: train loss 1.84708
+iter_dt 134.62ms; iter 540: train loss 1.79676
+iter_dt 134.32ms; iter 550: train loss 1.81376
+iter_dt 134.76ms; iter 560: train loss 1.81382
+iter_dt 134.72ms; iter 570: train loss 1.83451
+iter_dt 134.69ms; iter 580: train loss 1.80629
+iter_dt 134.02ms; iter 590: train loss 1.75956
+iter_dt 134.77ms; iter 600: train loss 1.75358
+iter_dt 134.46ms; iter 610: train loss 1.80408
+iter_dt 134.97ms; iter 620: train loss 1.76165
+iter_dt 134.14ms; iter 630: train loss 1.74730
+iter_dt 134.63ms; iter 640: train loss 1.72450
+iter_dt 134.97ms; iter 650: train loss 1.67579
+iter_dt 134.63ms; iter 660: train loss 1.70174
+iter_dt 134.12ms; iter 670: train loss 1.71004
+iter_dt 134.45ms; iter 680: train loss 1.68450
+iter_dt 134.95ms; iter 690: train loss 1.71962
+iter_dt 134.88ms; iter 700: train loss 1.72270
+iter_dt 134.24ms; iter 710: train loss 1.73247
+iter_dt 134.60ms; iter 720: train loss 1.71190
+iter_dt 134.76ms; iter 730: train loss 1.68264
+iter_dt 134.92ms; iter 740: train loss 1.66067
+iter_dt 135.62ms; iter 750: train loss 1.62646
+iter_dt 134.59ms; iter 760: train loss 1.65223
+iter_dt 134.25ms; iter 770: train loss 1.63016
+iter_dt 134.52ms; iter 780: train loss 1.68471
+iter_dt 134.97ms; iter 790: train loss 1.61700
+iter_dt 134.49ms; iter 800: train loss 1.61437
+iter_dt 134.69ms; iter 810: train loss 1.64426
+iter_dt 134.59ms; iter 820: train loss 1.61720
+iter_dt 134.05ms; iter 830: train loss 1.62948
+iter_dt 134.84ms; iter 840: train loss 1.61524
+iter_dt 134.94ms; iter 850: train loss 1.64177
+iter_dt 134.47ms; iter 860: train loss 1.57479
+iter_dt 134.64ms; iter 870: train loss 1.58843
+iter_dt 134.72ms; iter 880: train loss 1.59898
+iter_dt 134.82ms; iter 890: train loss 1.60504
+iter_dt 134.62ms; iter 900: train loss 1.61846
+iter_dt 134.39ms; iter 910: train loss 1.58039
+iter_dt 134.71ms; iter 920: train loss 1.55041
+iter_dt 134.52ms; iter 930: train loss 1.56892
+iter_dt 134.72ms; iter 940: train loss 1.58331
+iter_dt 134.74ms; iter 950: train loss 1.56835
+iter_dt 134.75ms; iter 960: train loss 1.55641
+iter_dt 135.04ms; iter 970: train loss 1.52331
+iter_dt 134.69ms; iter 980: train loss 1.55173
+iter_dt 134.23ms; iter 990: train loss 1.52653
+iter_dt 134.52ms; iter 1000: train loss 1.50581
+O God, O God! Warwick, I may man sights one tright
+Which she had nought and craved strangs beits words
+Which a suppoted blow as with more thy trawn,
+And widowed when my master him will him,
+The make his for arlits of thy fortune.
+
+HENRY BOLINGBROKE:
+Ay, I here to let our be toght told sit,
+To much happy of the father'st, looks of a head:
+Therefore sweet you wast, my stworth here: you, let to but
+And yet my heart in brother, and so death.
+
+HASTINGS:
+I will so a mintal my busing to your caunt tignerant.
+
+KING 
+saving model
+iter_dt 134.54ms; iter 1010: train loss 1.47610
+iter_dt 134.67ms; iter 1020: train loss 1.51519
+iter_dt 134.64ms; iter 1030: train loss 1.54667
+iter_dt 134.53ms; iter 1040: train loss 1.50514
+iter_dt 134.75ms; iter 1050: train loss 1.48044
+iter_dt 134.38ms; iter 1060: train loss 1.51762
+iter_dt 134.11ms; iter 1070: train loss 1.51219
+iter_dt 134.61ms; iter 1080: train loss 1.49033
+iter_dt 134.76ms; iter 1090: train loss 1.55382
+iter_dt 134.88ms; iter 1100: train loss 1.48312
+iter_dt 134.51ms; iter 1110: train loss 1.48982
+iter_dt 134.28ms; iter 1120: train loss 1.52289
+iter_dt 134.50ms; iter 1130: train loss 1.50506
+iter_dt 134.66ms; iter 1140: train loss 1.51651
+iter_dt 134.75ms; iter 1150: train loss 1.48228
+iter_dt 135.00ms; iter 1160: train loss 1.49491
+iter_dt 134.51ms; iter 1170: train loss 1.49089
+iter_dt 134.67ms; iter 1180: train loss 1.45984
+iter_dt 134.65ms; iter 1190: train loss 1.47464
+iter_dt 134.70ms; iter 1200: train loss 1.48029
+iter_dt 134.65ms; iter 1210: train loss 1.47093
+iter_dt 134.76ms; iter 1220: train loss 1.46818
+iter_dt 134.48ms; iter 1230: train loss 1.48054
+iter_dt 134.63ms; iter 1240: train loss 1.49335
+iter_dt 134.61ms; iter 1250: train loss 1.46227
+iter_dt 134.96ms; iter 1260: train loss 1.44975
+iter_dt 134.63ms; iter 1270: train loss 1.45033
+iter_dt 135.17ms; iter 1280: train loss 1.47887
+iter_dt 134.57ms; iter 1290: train loss 1.44958
+iter_dt 134.64ms; iter 1300: train loss 1.42101
+iter_dt 134.07ms; iter 1310: train loss 1.42357
+iter_dt 134.73ms; iter 1320: train loss 1.43277
+iter_dt 134.71ms; iter 1330: train loss 1.44267
+iter_dt 134.95ms; iter 1340: train loss 1.45544
+iter_dt 134.86ms; iter 1350: train loss 1.41835
+iter_dt 134.29ms; iter 1360: train loss 1.41262
+iter_dt 134.31ms; iter 1370: train loss 1.42129
+iter_dt 134.75ms; iter 1380: train loss 1.42715
+iter_dt 134.64ms; iter 1390: train loss 1.37476
+iter_dt 134.67ms; iter 1400: train loss 1.39604
+iter_dt 134.66ms; iter 1410: train loss 1.40685
+iter_dt 135.02ms; iter 1420: train loss 1.39063
+iter_dt 134.26ms; iter 1430: train loss 1.40831
+iter_dt 134.65ms; iter 1440: train loss 1.43523
+iter_dt 134.17ms; iter 1450: train loss 1.39229
+iter_dt 134.52ms; iter 1460: train loss 1.38334
+iter_dt 134.51ms; iter 1470: train loss 1.39636
+iter_dt 134.53ms; iter 1480: train loss 1.40080
+iter_dt 134.91ms; iter 1490: train loss 1.38421
+iter_dt 134.97ms; iter 1500: train loss 1.39115
+O God, O God! What is that am
+He they thigh in a trumpt of you.
+
+BALTHAS MOF MARCY PUNE:
+I am the man as above most of a house: ah!
+Then had a man tidiest, that I shall should withal.
+
+AUFIDIUS:
+He meet them, and what wouldst you attended
+This tongue in somely; but touch me sort am.
+
+ANGELO:
+So women, by him! I am I my father; that ten
+Officer this wimer a beging and dear sword and are ill to have.
+Why thou then that to be aliked or head this fuel wrong,
+And then, that we'll beg and hearing on secret the dee
+saving model
+iter_dt 134.55ms; iter 1510: train loss 1.40851
+iter_dt 134.66ms; iter 1520: train loss 1.39556
+iter_dt 134.81ms; iter 1530: train loss 1.38250
+iter_dt 134.74ms; iter 1540: train loss 1.39883
+iter_dt 135.02ms; iter 1550: train loss 1.39652
+iter_dt 134.46ms; iter 1560: train loss 1.41900
+iter_dt 134.48ms; iter 1570: train loss 1.39817
+iter_dt 134.74ms; iter 1580: train loss 1.38224
+iter_dt 134.77ms; iter 1590: train loss 1.36583
+iter_dt 135.15ms; iter 1600: train loss 1.36157
+iter_dt 134.35ms; iter 1610: train loss 1.36203
+iter_dt 134.70ms; iter 1620: train loss 1.37511
+iter_dt 134.57ms; iter 1630: train loss 1.38797
+iter_dt 134.62ms; iter 1640: train loss 1.35101
+iter_dt 134.93ms; iter 1650: train loss 1.36790
+iter_dt 134.71ms; iter 1660: train loss 1.34958
+iter_dt 134.45ms; iter 1670: train loss 1.36593
+iter_dt 134.62ms; iter 1680: train loss 1.34722
+iter_dt 134.79ms; iter 1690: train loss 1.38123
+iter_dt 134.73ms; iter 1700: train loss 1.35542
+iter_dt 134.68ms; iter 1710: train loss 1.37871
+iter_dt 134.83ms; iter 1720: train loss 1.36152
+iter_dt 134.34ms; iter 1730: train loss 1.35500
+iter_dt 134.15ms; iter 1740: train loss 1.35545
+iter_dt 134.72ms; iter 1750: train loss 1.35621
+iter_dt 134.85ms; iter 1760: train loss 1.40010
+iter_dt 135.11ms; iter 1770: train loss 1.33864
+iter_dt 134.57ms; iter 1780: train loss 1.37946
+iter_dt 134.25ms; iter 1790: train loss 1.34433
+iter_dt 134.49ms; iter 1800: train loss 1.37771
+iter_dt 134.40ms; iter 1810: train loss 1.33520
+iter_dt 134.58ms; iter 1820: train loss 1.32835
+iter_dt 134.82ms; iter 1830: train loss 1.36101
+iter_dt 134.58ms; iter 1840: train loss 1.34888
+iter_dt 134.60ms; iter 1850: train loss 1.36130
+iter_dt 135.01ms; iter 1860: train loss 1.33805
+iter_dt 134.56ms; iter 1870: train loss 1.35290
+iter_dt 134.32ms; iter 1880: train loss 1.30692
+iter_dt 134.12ms; iter 1890: train loss 1.32144
+iter_dt 134.75ms; iter 1900: train loss 1.33244
+iter_dt 134.59ms; iter 1910: train loss 1.33251
+iter_dt 134.60ms; iter 1920: train loss 1.31024
+iter_dt 135.10ms; iter 1930: train loss 1.28264
+iter_dt 134.60ms; iter 1940: train loss 1.31416
+iter_dt 134.39ms; iter 1950: train loss 1.33698
+iter_dt 134.68ms; iter 1960: train loss 1.31709
+iter_dt 134.66ms; iter 1970: train loss 1.29774
+iter_dt 134.85ms; iter 1980: train loss 1.33439
+iter_dt 134.60ms; iter 1990: train loss 1.31189
+iter_dt 134.92ms; iter 2000: train loss 1.33907
+O God, O God!
+What, think, for his death, be sad as ham?
+
+PETRUCHIO:
+That's madam to your likes; were you never than to a
+day of the corst sword and paradvise
+As the force manner of me by things: when these
+concliness and say more
+A wreck father's daughter body with tears.
+Spoke me in the better merry to chair;
+And, in spart of heavens the days of the sons
+From hath powering to make or his deep.
+
+DUKE OF YORK:
+Our sovereign presently music ten him,
+That, that I may he is much a leave, to have a did thought,
+
+saving model
+iter_dt 134.46ms; iter 2010: train loss 1.35662
+iter_dt 134.72ms; iter 2020: train loss 1.30540
+iter_dt 134.47ms; iter 2030: train loss 1.29822
+iter_dt 134.82ms; iter 2040: train loss 1.28220
+iter_dt 134.54ms; iter 2050: train loss 1.32288
+iter_dt 134.68ms; iter 2060: train loss 1.30565
+iter_dt 134.59ms; iter 2070: train loss 1.33516
+iter_dt 134.55ms; iter 2080: train loss 1.30674
+iter_dt 134.75ms; iter 2090: train loss 1.30654
+iter_dt 134.56ms; iter 2100: train loss 1.30151
+iter_dt 134.61ms; iter 2110: train loss 1.27694
+iter_dt 134.81ms; iter 2120: train loss 1.30905
+iter_dt 134.44ms; iter 2130: train loss 1.28726
+iter_dt 134.61ms; iter 2140: train loss 1.31093
+iter_dt 134.85ms; iter 2150: train loss 1.29257
+iter_dt 134.32ms; iter 2160: train loss 1.27974
+iter_dt 134.60ms; iter 2170: train loss 1.29542
+iter_dt 135.14ms; iter 2180: train loss 1.28249
+iter_dt 134.16ms; iter 2190: train loss 1.27844
+iter_dt 134.65ms; iter 2200: train loss 1.29139
+iter_dt 134.47ms; iter 2210: train loss 1.28849
+iter_dt 134.53ms; iter 2220: train loss 1.26640
+iter_dt 134.90ms; iter 2230: train loss 1.26442
+iter_dt 134.16ms; iter 2240: train loss 1.24991
+iter_dt 134.96ms; iter 2250: train loss 1.26692
+iter_dt 134.36ms; iter 2260: train loss 1.29427
+iter_dt 134.57ms; iter 2270: train loss 1.28658
+iter_dt 134.84ms; iter 2280: train loss 1.27440
+iter_dt 134.42ms; iter 2290: train loss 1.25320
+iter_dt 134.55ms; iter 2300: train loss 1.28276
+iter_dt 134.88ms; iter 2310: train loss 1.29134
+iter_dt 134.73ms; iter 2320: train loss 1.24899
+iter_dt 134.10ms; iter 2330: train loss 1.29317
+iter_dt 134.69ms; iter 2340: train loss 1.31338
+iter_dt 135.17ms; iter 2350: train loss 1.22567
+iter_dt 134.58ms; iter 2360: train loss 1.29687
+iter_dt 134.95ms; iter 2370: train loss 1.24146
+iter_dt 134.41ms; iter 2380: train loss 1.26663
+iter_dt 134.57ms; iter 2390: train loss 1.25607
+iter_dt 134.75ms; iter 2400: train loss 1.27013
+iter_dt 134.30ms; iter 2410: train loss 1.25247
+iter_dt 134.73ms; iter 2420: train loss 1.24631
+iter_dt 134.92ms; iter 2430: train loss 1.28991
+iter_dt 134.41ms; iter 2440: train loss 1.22789
+iter_dt 134.71ms; iter 2450: train loss 1.23667
+iter_dt 134.96ms; iter 2460: train loss 1.23474
+iter_dt 134.39ms; iter 2470: train loss 1.23811
+iter_dt 134.63ms; iter 2480: train loss 1.24284
+iter_dt 134.69ms; iter 2490: train loss 1.28048
+iter_dt 134.27ms; iter 2500: train loss 1.25237
+O God, O God!
+I could had that wash'd and the pitieous sick,
+To his seal father, should be piercing him and bone;
+To sile he command the scorns of tempty of such
+and happiers
+Shall be a curaffier threthen and woman a perfect deed,
+So say, thou shalt see them together, so in
+thine than thee what thou wert alive of me to be:
+And, and though 'tis seen the wall of death!
+
+HENRY BOLINGBROKE:
+But this secret hither,
+To his pardon, and heavens tender hence in the book
+That hell firm in thee hangs slain to her chari
+saving model
+iter_dt 134.43ms; iter 2510: train loss 1.26864
+iter_dt 134.94ms; iter 2520: train loss 1.23897
+iter_dt 134.26ms; iter 2530: train loss 1.27240
+iter_dt 134.69ms; iter 2540: train loss 1.27426
+iter_dt 134.39ms; iter 2550: train loss 1.26559
+iter_dt 134.82ms; iter 2560: train loss 1.25412
+iter_dt 134.38ms; iter 2570: train loss 1.25732
+iter_dt 134.54ms; iter 2580: train loss 1.26500
+iter_dt 134.43ms; iter 2590: train loss 1.27316
+iter_dt 134.47ms; iter 2600: train loss 1.27380
+iter_dt 134.64ms; iter 2610: train loss 1.22696
+iter_dt 134.61ms; iter 2620: train loss 1.21530
+iter_dt 134.51ms; iter 2630: train loss 1.24652
+iter_dt 134.54ms; iter 2640: train loss 1.23875
+iter_dt 134.91ms; iter 2650: train loss 1.24788
+iter_dt 134.42ms; iter 2660: train loss 1.22192
+iter_dt 134.46ms; iter 2670: train loss 1.27356
+iter_dt 134.64ms; iter 2680: train loss 1.26370
+iter_dt 134.43ms; iter 2690: train loss 1.25507
+iter_dt 134.97ms; iter 2700: train loss 1.21711
+iter_dt 134.17ms; iter 2710: train loss 1.24793
+iter_dt 134.80ms; iter 2720: train loss 1.22964
+iter_dt 134.58ms; iter 2730: train loss 1.21215
+iter_dt 134.60ms; iter 2740: train loss 1.23845
+iter_dt 134.33ms; iter 2750: train loss 1.21161
+iter_dt 134.42ms; iter 2760: train loss 1.23350
+iter_dt 134.54ms; iter 2770: train loss 1.23111
+iter_dt 134.14ms; iter 2780: train loss 1.23616
+iter_dt 134.73ms; iter 2790: train loss 1.17722
+iter_dt 134.49ms; iter 2800: train loss 1.22378
+iter_dt 134.49ms; iter 2810: train loss 1.21573
+iter_dt 134.67ms; iter 2820: train loss 1.22517
+iter_dt 133.96ms; iter 2830: train loss 1.23844
+iter_dt 134.80ms; iter 2840: train loss 1.21043
+iter_dt 134.65ms; iter 2850: train loss 1.21406
+iter_dt 134.20ms; iter 2860: train loss 1.22907
+iter_dt 134.58ms; iter 2870: train loss 1.21563
+iter_dt 134.43ms; iter 2880: train loss 1.21021
+iter_dt 134.53ms; iter 2890: train loss 1.21834
+iter_dt 134.72ms; iter 2900: train loss 1.26383
+iter_dt 134.36ms; iter 2910: train loss 1.20791
+iter_dt 134.44ms; iter 2920: train loss 1.24276
+iter_dt 135.04ms; iter 2930: train loss 1.18851
+iter_dt 134.07ms; iter 2940: train loss 1.23774
+iter_dt 134.61ms; iter 2950: train loss 1.22029
+iter_dt 134.56ms; iter 2960: train loss 1.19742
+iter_dt 134.55ms; iter 2970: train loss 1.19014
+iter_dt 134.72ms; iter 2980: train loss 1.21562
+iter_dt 134.44ms; iter 2990: train loss 1.24250
+iter_dt 134.64ms; iter 3000: train loss 1.22792
+O God, O God! O, shriek and ways;
+Bring me before thee with the depth.
+
+GLOUCESTER:
+Those woes; indeed, let us all, I thank you.
+
+LADY ANNE:
+Why then, and best you all and will I cannot;
+The crown is so bury oft their colours and
+cross their frowns: you might be a good
+beast with blood, which most war here and humour'd,
+As soundly blustic into blemish the parent,
+And his bourn and the strength of heaven,
+Or whether, and think he will break it for my sire;
+Because we have heard too, swear him, worthy swords:
+
+saving model
+iter_dt 134.47ms; iter 3010: train loss 1.22262
+iter_dt 134.52ms; iter 3020: train loss 1.22182
+iter_dt 134.83ms; iter 3030: train loss 1.21708
+iter_dt 134.34ms; iter 3040: train loss 1.21420
+iter_dt 134.57ms; iter 3050: train loss 1.19217
+iter_dt 134.65ms; iter 3060: train loss 1.19385
+iter_dt 134.17ms; iter 3070: train loss 1.20233
+iter_dt 134.46ms; iter 3080: train loss 1.16396
+iter_dt 134.44ms; iter 3090: train loss 1.19265
+iter_dt 134.47ms; iter 3100: train loss 1.20318
+iter_dt 134.93ms; iter 3110: train loss 1.21494
+iter_dt 134.81ms; iter 3120: train loss 1.19787
+iter_dt 135.11ms; iter 3130: train loss 1.19849
+iter_dt 134.54ms; iter 3140: train loss 1.18597
+iter_dt 134.89ms; iter 3150: train loss 1.16780
+iter_dt 134.40ms; iter 3160: train loss 1.19182
+iter_dt 134.63ms; iter 3170: train loss 1.17538
+iter_dt 134.65ms; iter 3180: train loss 1.15873
+iter_dt 134.47ms; iter 3190: train loss 1.18175
+iter_dt 134.60ms; iter 3200: train loss 1.16468
+iter_dt 134.78ms; iter 3210: train loss 1.21940
+iter_dt 134.49ms; iter 3220: train loss 1.19366
+iter_dt 134.77ms; iter 3230: train loss 1.17190
+iter_dt 134.68ms; iter 3240: train loss 1.16801
+iter_dt 134.77ms; iter 3250: train loss 1.16710
+iter_dt 134.11ms; iter 3260: train loss 1.15071
+iter_dt 134.58ms; iter 3270: train loss 1.16052
+iter_dt 134.59ms; iter 3280: train loss 1.16186
+iter_dt 134.62ms; iter 3290: train loss 1.17908
+iter_dt 134.10ms; iter 3300: train loss 1.17174
+iter_dt 134.86ms; iter 3310: train loss 1.14940
+iter_dt 134.74ms; iter 3320: train loss 1.17868
+iter_dt 135.06ms; iter 3330: train loss 1.18575
+iter_dt 134.58ms; iter 3340: train loss 1.15947
+iter_dt 134.51ms; iter 3350: train loss 1.17672
+iter_dt 134.58ms; iter 3360: train loss 1.20389
+iter_dt 134.95ms; iter 3370: train loss 1.18767
+iter_dt 134.88ms; iter 3380: train loss 1.13625
+iter_dt 134.15ms; iter 3390: train loss 1.20181
+iter_dt 134.29ms; iter 3400: train loss 1.15070
+iter_dt 134.49ms; iter 3410: train loss 1.14106
+iter_dt 134.71ms; iter 3420: train loss 1.16495
+iter_dt 134.62ms; iter 3430: train loss 1.19411
+iter_dt 134.29ms; iter 3440: train loss 1.17221
+iter_dt 134.74ms; iter 3450: train loss 1.17705
+iter_dt 134.85ms; iter 3460: train loss 1.16378
+iter_dt 135.08ms; iter 3470: train loss 1.13283
+iter_dt 134.13ms; iter 3480: train loss 1.17541
+iter_dt 134.47ms; iter 3490: train loss 1.15438
+iter_dt 134.42ms; iter 3500: train loss 1.17065
+O God, O God!
+To his hearts, thus shall be put on thee,
+That in the foulastice of the hopes at once!
+
+QUEEN ELIZABETH:
+Ay, if I will to the Tower loving husband.
+
+KING RICHARD III:
+Hortensio, my mother, if the world give us good?
+
+GLOUCESTER:
+Believe me, how oft I have subtled my ball
+My gods, throw dearer and fearing and being so;
+And I will consent this thing to do I.
+I am a pieced to me on thy dish: speak as thou duty!
+Where thou wouldst be most hang'd father rags,
+For meet on pehpice where thou hast been
+saving model
+iter_dt 134.27ms; iter 3510: train loss 1.14624
+iter_dt 134.50ms; iter 3520: train loss 1.17620
+iter_dt 134.62ms; iter 3530: train loss 1.15950
+iter_dt 134.49ms; iter 3540: train loss 1.18893
+iter_dt 134.88ms; iter 3550: train loss 1.17135
+iter_dt 134.53ms; iter 3560: train loss 1.16091
+iter_dt 133.91ms; iter 3570: train loss 1.15349
+iter_dt 134.76ms; iter 3580: train loss 1.13591
+iter_dt 134.90ms; iter 3590: train loss 1.16230
+iter_dt 135.06ms; iter 3600: train loss 1.17524
+iter_dt 134.36ms; iter 3610: train loss 1.16581
+iter_dt 134.51ms; iter 3620: train loss 1.18042
+iter_dt 134.64ms; iter 3630: train loss 1.14822
+iter_dt 135.11ms; iter 3640: train loss 1.10092
+iter_dt 134.57ms; iter 3650: train loss 1.17756
+iter_dt 134.59ms; iter 3660: train loss 1.20297
+iter_dt 134.58ms; iter 3670: train loss 1.19322
+iter_dt 134.52ms; iter 3680: train loss 1.16274
+iter_dt 134.38ms; iter 3690: train loss 1.10811
+iter_dt 134.52ms; iter 3700: train loss 1.13507
+iter_dt 134.66ms; iter 3710: train loss 1.15425
+iter_dt 134.86ms; iter 3720: train loss 1.14970
+iter_dt 134.67ms; iter 3730: train loss 1.15983
+iter_dt 134.55ms; iter 3740: train loss 1.13060
+iter_dt 134.73ms; iter 3750: train loss 1.12781
+iter_dt 134.71ms; iter 3760: train loss 1.11836
+iter_dt 134.71ms; iter 3770: train loss 1.14676
+iter_dt 134.59ms; iter 3780: train loss 1.14817
+iter_dt 134.89ms; iter 3790: train loss 1.08179
+iter_dt 135.09ms; iter 3800: train loss 1.14726
+iter_dt 134.65ms; iter 3810: train loss 1.17129
+iter_dt 134.68ms; iter 3820: train loss 1.13682
+iter_dt 134.62ms; iter 3830: train loss 1.14952
+iter_dt 135.11ms; iter 3840: train loss 1.12177
+iter_dt 134.42ms; iter 3850: train loss 1.15451
+iter_dt 134.25ms; iter 3860: train loss 1.12802
+iter_dt 134.63ms; iter 3870: train loss 1.11656
+iter_dt 134.72ms; iter 3880: train loss 1.14724
+iter_dt 134.99ms; iter 3890: train loss 1.12118
+iter_dt 135.20ms; iter 3900: train loss 1.15776
+iter_dt 134.35ms; iter 3910: train loss 1.12512
+iter_dt 134.00ms; iter 3920: train loss 1.15920
+iter_dt 134.82ms; iter 3930: train loss 1.11790
+iter_dt 134.77ms; iter 3940: train loss 1.12446
+iter_dt 134.70ms; iter 3950: train loss 1.14825
+iter_dt 134.68ms; iter 3960: train loss 1.11385
+iter_dt 135.05ms; iter 3970: train loss 1.11397
+iter_dt 134.83ms; iter 3980: train loss 1.10792
+iter_dt 134.23ms; iter 3990: train loss 1.12359
+iter_dt 134.37ms; iter 4000: train loss 1.09865
+O God, O God! forbid! so were the king!
+
+ROMEO:
+My gentleman, my letter hath a fretting tapster may;
+Harp and spirit, whom I have as by hand,
+And heaven mistrusty to the world's feast.
+Torments him of a walls; and therefore, good lord.
+
+GLOUCESTER:
+And will I then a more in the chamber?
+
+YORK:
+Ay, if not her be a husband?
+
+RICHARD:
+Withdraw of Enrich grant? I am sorry for that;
+Therefore comes no house: I will not do:
+And, to the queen, the world, sweet Earl of God,
+And love to the bonnet friends, and hath a
+saving model
+iter_dt 134.45ms; iter 4010: train loss 1.11405
+iter_dt 134.18ms; iter 4020: train loss 1.13201
+iter_dt 134.61ms; iter 4030: train loss 1.13322
+iter_dt 134.85ms; iter 4040: train loss 1.08985
+iter_dt 134.66ms; iter 4050: train loss 1.09287
+iter_dt 134.51ms; iter 4060: train loss 1.15290
+iter_dt 134.69ms; iter 4070: train loss 1.11828
+iter_dt 135.41ms; iter 4080: train loss 1.09148
+iter_dt 135.12ms; iter 4090: train loss 1.12399
+iter_dt 134.64ms; iter 4100: train loss 1.11436
+iter_dt 134.28ms; iter 4110: train loss 1.09563
+iter_dt 134.85ms; iter 4120: train loss 1.11829
+iter_dt 134.95ms; iter 4130: train loss 1.12798
+iter_dt 134.96ms; iter 4140: train loss 1.09097
+iter_dt 134.50ms; iter 4150: train loss 1.10751
+iter_dt 134.25ms; iter 4160: train loss 1.09486
+iter_dt 134.45ms; iter 4170: train loss 1.11483
+iter_dt 134.78ms; iter 4180: train loss 1.09482
+iter_dt 135.06ms; iter 4190: train loss 1.07732
+iter_dt 134.53ms; iter 4200: train loss 1.09742
+iter_dt 134.46ms; iter 4210: train loss 1.07704
+iter_dt 135.06ms; iter 4220: train loss 1.07770
+iter_dt 134.48ms; iter 4230: train loss 1.11930
+iter_dt 134.57ms; iter 4240: train loss 1.08563
+iter_dt 134.62ms; iter 4250: train loss 1.10809
+iter_dt 134.50ms; iter 4260: train loss 1.11173
+iter_dt 135.13ms; iter 4270: train loss 1.08526
+iter_dt 134.47ms; iter 4280: train loss 1.09259
+iter_dt 134.64ms; iter 4290: train loss 1.07859
+iter_dt 134.62ms; iter 4300: train loss 1.12180
+iter_dt 134.59ms; iter 4310: train loss 1.06884
+iter_dt 134.70ms; iter 4320: train loss 1.09897
+iter_dt 134.49ms; iter 4330: train loss 1.09853
+iter_dt 134.84ms; iter 4340: train loss 1.10133
+iter_dt 134.98ms; iter 4350: train loss 1.05996
+iter_dt 134.63ms; iter 4360: train loss 1.13492
+iter_dt 134.45ms; iter 4370: train loss 1.08244
+iter_dt 134.59ms; iter 4380: train loss 1.09013
+iter_dt 134.68ms; iter 4390: train loss 1.05574
+iter_dt 134.65ms; iter 4400: train loss 1.07375
+iter_dt 134.90ms; iter 4410: train loss 1.11095
+iter_dt 134.55ms; iter 4420: train loss 1.12343
+iter_dt 134.71ms; iter 4430: train loss 1.08892
+iter_dt 134.23ms; iter 4440: train loss 1.07012
+iter_dt 134.78ms; iter 4450: train loss 1.05372
+iter_dt 134.61ms; iter 4460: train loss 1.05352
+iter_dt 134.79ms; iter 4470: train loss 1.07453
+iter_dt 134.96ms; iter 4480: train loss 1.06652
+iter_dt 134.27ms; iter 4490: train loss 1.02235
+iter_dt 134.13ms; iter 4500: train loss 1.10243
+O God, O God! that we fear thee, art thou too,
+To have thee down: and to-day, those gentlemen,
+Let's manhood has horse been creditors, make thy course
+A fearful house. Now, a broken prince: what manner
+Would the waves of my darkness' friends?
+
+PROSPERO:
+Had I never confirm in what speeds
+To be feeded in dection. Come, come on, let's away.
+O my liege, that thou droop'st must be done with so!
+
+Third Citizen:
+You have butchers led upon my face i' the hand
+Which I crave a throw-brain'd Bianca's crumps; within my
+saving model
+iter_dt 134.64ms; iter 4510: train loss 1.06731
+iter_dt 134.87ms; iter 4520: train loss 1.06376
+iter_dt 134.55ms; iter 4530: train loss 1.07021
+iter_dt 134.48ms; iter 4540: train loss 1.08000
+iter_dt 134.94ms; iter 4550: train loss 1.05430
+iter_dt 135.00ms; iter 4560: train loss 1.06636
+iter_dt 134.30ms; iter 4570: train loss 1.03415
+iter_dt 134.62ms; iter 4580: train loss 1.10006
+iter_dt 134.68ms; iter 4590: train loss 1.08752
+iter_dt 134.44ms; iter 4600: train loss 1.05132
+iter_dt 134.58ms; iter 4610: train loss 1.07086
+iter_dt 134.67ms; iter 4620: train loss 1.06012
+iter_dt 134.55ms; iter 4630: train loss 1.05059
+iter_dt 134.18ms; iter 4640: train loss 1.07353
+iter_dt 134.56ms; iter 4650: train loss 1.06066
+iter_dt 134.63ms; iter 4660: train loss 1.03024
+iter_dt 135.30ms; iter 4670: train loss 1.05415
+iter_dt 133.93ms; iter 4680: train loss 1.06199
+iter_dt 134.65ms; iter 4690: train loss 1.03959
+iter_dt 134.95ms; iter 4700: train loss 1.02999
+iter_dt 134.63ms; iter 4710: train loss 1.05725
+iter_dt 134.63ms; iter 4720: train loss 1.04904
+iter_dt 134.57ms; iter 4730: train loss 1.01492
+iter_dt 134.90ms; iter 4740: train loss 1.03914
+iter_dt 134.50ms; iter 4750: train loss 1.02336
+iter_dt 134.38ms; iter 4760: train loss 1.06932
+iter_dt 134.51ms; iter 4770: train loss 1.05021
+iter_dt 134.47ms; iter 4780: train loss 1.06227
+iter_dt 134.77ms; iter 4790: train loss 1.00010
+iter_dt 134.70ms; iter 4800: train loss 1.02693
+iter_dt 134.75ms; iter 4810: train loss 1.07502
+iter_dt 134.60ms; iter 4820: train loss 1.04032
+iter_dt 134.64ms; iter 4830: train loss 1.08437
+iter_dt 134.60ms; iter 4840: train loss 1.06648
+iter_dt 134.30ms; iter 4850: train loss 1.03073
+iter_dt 134.49ms; iter 4860: train loss 1.05842
+iter_dt 134.69ms; iter 4870: train loss 1.01394
+iter_dt 134.80ms; iter 4880: train loss 1.01114
+iter_dt 134.63ms; iter 4890: train loss 1.03190
+iter_dt 134.04ms; iter 4900: train loss 1.03754
+iter_dt 134.45ms; iter 4910: train loss 1.04742
+iter_dt 134.43ms; iter 4920: train loss 1.00393
+iter_dt 135.87ms; iter 4930: train loss 1.01763
+iter_dt 134.31ms; iter 4940: train loss 1.02873
+iter_dt 134.35ms; iter 4950: train loss 1.05367
+iter_dt 134.47ms; iter 4960: train loss 1.01608
+iter_dt 134.60ms; iter 4970: train loss 1.01922
+iter_dt 134.69ms; iter 4980: train loss 1.01049
+iter_dt 134.60ms; iter 4990: train loss 1.01752
+iter_dt 134.52ms; iter 5000: train loss 0.99707
+O God, O God! alas!--I that let's fly:
+My business I swear thy throat was a soldier.
+
+JULIET:
+Nay, come, thou art a sinner than a kind how to hear
+our spirits. I'll hence to save the crown, to gird us to
+your excellent and under a bank of pricket,
+that this seal of us all the poece of your complices
+Against the white surge of our faith;
+Think not that what you do find the hires,
+That which in a stale and a fear's son:
+Is it so lost and should I, being dead?
+
+JOHN OF GAUNT:
+God sleep, do I tell the thing I mi
+saving model
+iter_dt 134.26ms; iter 5010: train loss 1.02036
+iter_dt 134.51ms; iter 5020: train loss 1.00628
+iter_dt 135.21ms; iter 5030: train loss 1.01919
+iter_dt 134.34ms; iter 5040: train loss 1.02326
+iter_dt 134.57ms; iter 5050: train loss 1.04874
+iter_dt 134.86ms; iter 5060: train loss 1.03789
+iter_dt 134.89ms; iter 5070: train loss 1.00824
+iter_dt 134.63ms; iter 5080: train loss 1.03691
+iter_dt 134.52ms; iter 5090: train loss 1.05061
+switching to sparse mode
+SoftMoE setting sparse mode to 'True', MoE params: (8, 2)
+iter_dt 134.78ms; iter 5100: train loss 1.16477
+iter_dt 187.24ms; iter 5110: train loss 1.10702
+iter_dt 186.79ms; iter 5120: train loss 1.06913
+iter_dt 185.55ms; iter 5130: train loss 1.05252
+iter_dt 187.01ms; iter 5140: train loss 1.03857
+iter_dt 191.24ms; iter 5150: train loss 1.05582
+iter_dt 188.24ms; iter 5160: train loss 1.06292
+iter_dt 189.38ms; iter 5170: train loss 1.00187
+iter_dt 189.92ms; iter 5180: train loss 1.03276
+iter_dt 188.57ms; iter 5190: train loss 1.05279
+iter_dt 189.17ms; iter 5200: train loss 1.08251
+iter_dt 189.58ms; iter 5210: train loss 1.03200
+iter_dt 189.01ms; iter 5220: train loss 1.05273
+iter_dt 192.08ms; iter 5230: train loss 1.02765
+iter_dt 190.89ms; iter 5240: train loss 1.01425
+iter_dt 187.16ms; iter 5250: train loss 1.02347
+iter_dt 189.73ms; iter 5260: train loss 1.02699
+iter_dt 189.76ms; iter 5270: train loss 0.99694
+iter_dt 188.57ms; iter 5280: train loss 1.03582
+iter_dt 187.92ms; iter 5290: train loss 1.03711
+iter_dt 191.91ms; iter 5300: train loss 0.99604
+iter_dt 187.25ms; iter 5310: train loss 1.02057
+iter_dt 192.71ms; iter 5320: train loss 1.02503
+iter_dt 192.51ms; iter 5330: train loss 1.00521
+iter_dt 188.30ms; iter 5340: train loss 1.01177
+iter_dt 191.04ms; iter 5350: train loss 1.02154
+iter_dt 189.90ms; iter 5360: train loss 0.98210
+iter_dt 189.48ms; iter 5370: train loss 0.98581
+iter_dt 188.92ms; iter 5380: train loss 1.00814
+iter_dt 188.28ms; iter 5390: train loss 0.98201
+iter_dt 192.64ms; iter 5400: train loss 1.00065
+iter_dt 187.83ms; iter 5410: train loss 1.01304
+iter_dt 190.79ms; iter 5420: train loss 1.01397
+iter_dt 190.72ms; iter 5430: train loss 1.03415
+iter_dt 190.86ms; iter 5440: train loss 0.97669
+iter_dt 188.95ms; iter 5450: train loss 0.99424
+iter_dt 189.20ms; iter 5460: train loss 1.00761
+iter_dt 190.82ms; iter 5470: train loss 0.98010
+iter_dt 189.62ms; iter 5480: train loss 1.00429
+iter_dt 192.23ms; iter 5490: train loss 1.02040
+iter_dt 193.60ms; iter 5500: train loss 1.00403
+O God, O God! thy father was a poor in'n good,
+And weakling of the blood of our princely father's languish!
+
+HENRY PERCY:
+Harry and Hereford, and his full of war;
+Within the reckless lady of thy father's dead,
+Ascend thy blood. I cry thy feet, let the traitor fortune
+And frame help out this forest my wrath:
+The valiant divine hill-hack'd told the goes;
+Or I, in the common did speak from the bier!
+But since every been cordial: weep, if help
+These fresh doings was a charge of fingers, threon
+Still ask him when
+saving model
+iter_dt 193.99ms; iter 5510: train loss 1.00026
+iter_dt 192.49ms; iter 5520: train loss 1.00340
+iter_dt 192.83ms; iter 5530: train loss 1.04117
+iter_dt 192.42ms; iter 5540: train loss 0.99355
+iter_dt 191.40ms; iter 5550: train loss 1.00613
+iter_dt 190.72ms; iter 5560: train loss 1.00241
+iter_dt 187.75ms; iter 5570: train loss 0.99435
+iter_dt 192.57ms; iter 5580: train loss 0.99091
+iter_dt 188.36ms; iter 5590: train loss 0.99147
+iter_dt 191.85ms; iter 5600: train loss 0.99978
+iter_dt 195.24ms; iter 5610: train loss 1.00892
+iter_dt 189.45ms; iter 5620: train loss 1.01148
+iter_dt 194.06ms; iter 5630: train loss 1.00094
+iter_dt 191.87ms; iter 5640: train loss 0.98109
+iter_dt 191.73ms; iter 5650: train loss 0.95969
+iter_dt 191.05ms; iter 5660: train loss 0.97391
+iter_dt 185.80ms; iter 5670: train loss 0.97103
+iter_dt 188.46ms; iter 5680: train loss 0.98862
+iter_dt 188.38ms; iter 5690: train loss 0.99748
+iter_dt 192.82ms; iter 5700: train loss 1.02088
+iter_dt 189.93ms; iter 5710: train loss 0.99689
+iter_dt 192.42ms; iter 5720: train loss 0.99969
+iter_dt 193.00ms; iter 5730: train loss 0.97977
+iter_dt 192.74ms; iter 5740: train loss 0.99350
+iter_dt 192.28ms; iter 5750: train loss 0.96866
+iter_dt 193.13ms; iter 5760: train loss 0.97816
+iter_dt 192.50ms; iter 5770: train loss 0.95812
+iter_dt 192.28ms; iter 5780: train loss 0.97269
+iter_dt 188.82ms; iter 5790: train loss 0.99296
+iter_dt 196.46ms; iter 5800: train loss 0.98658
+iter_dt 189.65ms; iter 5810: train loss 0.96893
+iter_dt 191.03ms; iter 5820: train loss 1.01817
+iter_dt 190.19ms; iter 5830: train loss 0.94732
+iter_dt 195.31ms; iter 5840: train loss 1.01467
+iter_dt 190.59ms; iter 5850: train loss 1.01478
+iter_dt 188.84ms; iter 5860: train loss 0.97344
+iter_dt 190.23ms; iter 5870: train loss 0.98195
+iter_dt 190.91ms; iter 5880: train loss 0.98440
+iter_dt 190.61ms; iter 5890: train loss 0.97840
+iter_dt 192.70ms; iter 5900: train loss 0.97189
+iter_dt 193.32ms; iter 5910: train loss 0.95724
+iter_dt 192.22ms; iter 5920: train loss 1.00297
+iter_dt 196.12ms; iter 5930: train loss 0.95209
+iter_dt 194.79ms; iter 5940: train loss 0.94791
+iter_dt 191.51ms; iter 5950: train loss 0.94284
+iter_dt 191.36ms; iter 5960: train loss 0.94713
+iter_dt 195.09ms; iter 5970: train loss 0.96209
+iter_dt 191.82ms; iter 5980: train loss 0.96472
+iter_dt 194.00ms; iter 5990: train loss 0.96066
+iter_dt 187.73ms; iter 6000: train loss 0.94404
+O God, O God! my heart's ass!
+Alas, I say! the heavens have gone forbear'd,
+And beg the tide unfold in the direst counter
+Of our more: only forsooth and honour and honours
+Would proclaim this framed, whilst now she be dead;
+In hewigh, whereof, after ever, now how hast thou flect'st,
+As are parcel for an oath? Did I not thee gone?
+Hark, why now hast thou that wound it? where's there?
+Came he none of my marriage; then, sword, peace!
+
+PETRUCHIO:
+Tut, as the which a scare doth usurp.
+
+PETRUCHIO:
+Nine, I come, sh
+saving model
+iter_dt 196.42ms; iter 6010: train loss 0.89546
+iter_dt 193.69ms; iter 6020: train loss 0.95462
+iter_dt 195.83ms; iter 6030: train loss 0.94345
+iter_dt 196.09ms; iter 6040: train loss 0.95677
+iter_dt 189.78ms; iter 6050: train loss 0.93138
+iter_dt 191.10ms; iter 6060: train loss 0.96060
+iter_dt 191.28ms; iter 6070: train loss 0.93842
+iter_dt 191.49ms; iter 6080: train loss 0.92087
+iter_dt 190.29ms; iter 6090: train loss 0.95973
+iter_dt 192.53ms; iter 6100: train loss 0.94559
+iter_dt 193.96ms; iter 6110: train loss 0.93633
+iter_dt 192.85ms; iter 6120: train loss 0.93896
+iter_dt 191.52ms; iter 6130: train loss 0.93522
+iter_dt 189.83ms; iter 6140: train loss 0.95232
+iter_dt 192.88ms; iter 6150: train loss 0.88507
+iter_dt 195.71ms; iter 6160: train loss 0.93468
+iter_dt 189.26ms; iter 6170: train loss 0.90585
+iter_dt 192.08ms; iter 6180: train loss 0.92910
+iter_dt 192.81ms; iter 6190: train loss 0.92033
+iter_dt 196.41ms; iter 6200: train loss 0.93146
+iter_dt 195.98ms; iter 6210: train loss 0.93322
+iter_dt 193.99ms; iter 6220: train loss 0.94056
+iter_dt 189.58ms; iter 6230: train loss 0.94215
+iter_dt 193.11ms; iter 6240: train loss 0.90727
+iter_dt 196.90ms; iter 6250: train loss 0.92450
+iter_dt 193.91ms; iter 6260: train loss 0.91432
+iter_dt 191.63ms; iter 6270: train loss 0.92292
+iter_dt 195.04ms; iter 6280: train loss 0.92752
+iter_dt 188.82ms; iter 6290: train loss 0.90127
+iter_dt 191.52ms; iter 6300: train loss 0.91360
+iter_dt 195.68ms; iter 6310: train loss 0.93575
+iter_dt 194.84ms; iter 6320: train loss 0.89570
+iter_dt 189.54ms; iter 6330: train loss 0.90738
+iter_dt 195.84ms; iter 6340: train loss 0.91261
+iter_dt 192.55ms; iter 6350: train loss 0.92957
+iter_dt 192.80ms; iter 6360: train loss 0.91115
+iter_dt 188.41ms; iter 6370: train loss 0.90976
+iter_dt 190.40ms; iter 6380: train loss 0.90394
+iter_dt 191.37ms; iter 6390: train loss 0.89184
+iter_dt 191.24ms; iter 6400: train loss 0.95446
+iter_dt 193.84ms; iter 6410: train loss 0.91011
+iter_dt 195.41ms; iter 6420: train loss 0.89336
+iter_dt 194.01ms; iter 6430: train loss 0.94803
+iter_dt 195.87ms; iter 6440: train loss 0.93357
+iter_dt 193.84ms; iter 6450: train loss 0.90558
+iter_dt 195.81ms; iter 6460: train loss 0.90464
+iter_dt 194.04ms; iter 6470: train loss 0.91028
+iter_dt 193.06ms; iter 6480: train loss 0.91783
+iter_dt 190.81ms; iter 6490: train loss 0.89982
+iter_dt 194.18ms; iter 6500: train loss 0.90204
+O God, O God! methinks I have had been
+An undoubtful tomb of a wall: who late thee good
+That I am constant by my brother's gain,
+And made before 'em to have a woman as
+Longed to hearing him in his shroud
+Whereof he hastily words. Who's that?
+Your cares not the mire
+Of what curs in him: had he been laid, my lord
+Make haste; they know you know, a nobler man.
+
+DUKE VINCENTIO:
+Is it not that good is to him wife.
+
+Provost:
+How now! when you speak as much with this people
+But not be the bloody canour wave in hand
+
+saving model
+iter_dt 197.68ms; iter 6510: train loss 0.88785
+iter_dt 197.94ms; iter 6520: train loss 0.88868
+iter_dt 195.30ms; iter 6530: train loss 0.92903
+iter_dt 197.27ms; iter 6540: train loss 0.90092
+iter_dt 194.43ms; iter 6550: train loss 0.91094
+iter_dt 191.30ms; iter 6560: train loss 0.91416
+iter_dt 192.73ms; iter 6570: train loss 0.90219
+iter_dt 194.84ms; iter 6580: train loss 0.92350
+iter_dt 195.04ms; iter 6590: train loss 0.89290
+iter_dt 197.49ms; iter 6600: train loss 0.86736
+iter_dt 191.81ms; iter 6610: train loss 0.87554
+iter_dt 194.85ms; iter 6620: train loss 0.88896
+iter_dt 195.78ms; iter 6630: train loss 0.85899
+iter_dt 195.92ms; iter 6640: train loss 0.89703
+iter_dt 196.49ms; iter 6650: train loss 0.89134
+iter_dt 195.08ms; iter 6660: train loss 0.91277
+iter_dt 190.79ms; iter 6670: train loss 0.90151
+iter_dt 195.60ms; iter 6680: train loss 0.90851
+iter_dt 194.98ms; iter 6690: train loss 0.87499
+iter_dt 198.15ms; iter 6700: train loss 0.91914
+iter_dt 192.54ms; iter 6710: train loss 0.90301
+iter_dt 195.98ms; iter 6720: train loss 0.90834
+iter_dt 191.60ms; iter 6730: train loss 0.89289
+iter_dt 191.68ms; iter 6740: train loss 0.88576
+iter_dt 193.49ms; iter 6750: train loss 0.87096
+iter_dt 192.21ms; iter 6760: train loss 0.91163
+iter_dt 194.47ms; iter 6770: train loss 0.90506
+iter_dt 194.46ms; iter 6780: train loss 0.87771
+iter_dt 195.28ms; iter 6790: train loss 0.86142
+iter_dt 192.22ms; iter 6800: train loss 0.90122
+iter_dt 196.35ms; iter 6810: train loss 0.83501
+iter_dt 191.62ms; iter 6820: train loss 0.86939
+iter_dt 194.12ms; iter 6830: train loss 0.84712
+iter_dt 194.14ms; iter 6840: train loss 0.88130
+iter_dt 197.55ms; iter 6850: train loss 0.88470
+iter_dt 192.15ms; iter 6860: train loss 0.91063
+iter_dt 193.83ms; iter 6870: train loss 0.86547
+iter_dt 198.24ms; iter 6880: train loss 0.86555
+iter_dt 198.60ms; iter 6890: train loss 0.88942
+iter_dt 197.87ms; iter 6900: train loss 0.84551
+iter_dt 198.13ms; iter 6910: train loss 0.84885
+iter_dt 194.15ms; iter 6920: train loss 0.90510
+iter_dt 189.03ms; iter 6930: train loss 0.85438
+iter_dt 187.85ms; iter 6940: train loss 0.86342
+iter_dt 194.58ms; iter 6950: train loss 0.89998
+iter_dt 198.30ms; iter 6960: train loss 0.88905
+iter_dt 192.30ms; iter 6970: train loss 0.86724
+iter_dt 195.03ms; iter 6980: train loss 0.87579
+iter_dt 195.04ms; iter 6990: train loss 0.87311
+iter_dt 195.67ms; iter 7000: train loss 0.86776
+O God, O God! where's Rose?
+
+GLOUCESTER:
+How do you pronounce a troublous world?
+
+YORK:
+Ay, believe me, there towards London kiss your state.
+
+GLOUCESTER:
+So to the king, towards Chertsey, with some bond
+Of merry's parting wife, and myself with his hands
+Have the tune of an imqath'd him with words.
+Thou art not certainly; therefore follow me,
+As I dull unwillingly daughter out of words,
+And make good home, I'll pardon thee to thy harm.
+
+GLOUCESTER:
+But I will believe it. Here's no more of you.
+
+LADY GREY:
+Se
+saving model
+iter_dt 192.89ms; iter 7010: train loss 0.86646
+iter_dt 196.32ms; iter 7020: train loss 0.87351
+iter_dt 197.88ms; iter 7030: train loss 0.85094
+iter_dt 194.44ms; iter 7040: train loss 0.88764
+iter_dt 192.43ms; iter 7050: train loss 0.85422
+iter_dt 194.66ms; iter 7060: train loss 0.83653
+iter_dt 192.87ms; iter 7070: train loss 0.84436
+iter_dt 198.44ms; iter 7080: train loss 0.85318
+iter_dt 192.78ms; iter 7090: train loss 0.85607
+iter_dt 195.12ms; iter 7100: train loss 0.85769
+iter_dt 191.43ms; iter 7110: train loss 0.82708
+iter_dt 191.98ms; iter 7120: train loss 0.87117
+iter_dt 196.46ms; iter 7130: train loss 0.85415
+iter_dt 191.22ms; iter 7140: train loss 0.82331
+iter_dt 194.26ms; iter 7150: train loss 0.83878
+iter_dt 194.74ms; iter 7160: train loss 0.81626
+iter_dt 192.81ms; iter 7170: train loss 0.84072
+iter_dt 192.80ms; iter 7180: train loss 0.85917
+iter_dt 196.95ms; iter 7190: train loss 0.86765
+iter_dt 193.53ms; iter 7200: train loss 0.85105
+iter_dt 196.23ms; iter 7210: train loss 0.86878
+iter_dt 192.85ms; iter 7220: train loss 0.84229
+iter_dt 196.95ms; iter 7230: train loss 0.82383
+iter_dt 194.75ms; iter 7240: train loss 0.85350
+iter_dt 197.09ms; iter 7250: train loss 0.86238
+iter_dt 198.15ms; iter 7260: train loss 0.83525
+iter_dt 193.38ms; iter 7270: train loss 0.85934
+iter_dt 194.07ms; iter 7280: train loss 0.84125
+iter_dt 198.46ms; iter 7290: train loss 0.85655
+iter_dt 194.10ms; iter 7300: train loss 0.87800
+iter_dt 194.63ms; iter 7310: train loss 0.82162
+iter_dt 196.24ms; iter 7320: train loss 0.87463
+iter_dt 194.64ms; iter 7330: train loss 0.85965
+iter_dt 196.60ms; iter 7340: train loss 0.83173
+iter_dt 192.77ms; iter 7350: train loss 0.82526
+iter_dt 196.54ms; iter 7360: train loss 0.86329
+iter_dt 192.31ms; iter 7370: train loss 0.84180
+iter_dt 196.20ms; iter 7380: train loss 0.80922
+iter_dt 192.59ms; iter 7390: train loss 0.81965
+iter_dt 196.76ms; iter 7400: train loss 0.78744
+iter_dt 192.66ms; iter 7410: train loss 0.80140
+iter_dt 196.77ms; iter 7420: train loss 0.82928
+iter_dt 197.46ms; iter 7430: train loss 0.83118
+iter_dt 193.03ms; iter 7440: train loss 0.84336
+iter_dt 192.68ms; iter 7450: train loss 0.79296
+iter_dt 194.81ms; iter 7460: train loss 0.82681
+iter_dt 195.53ms; iter 7470: train loss 0.82491
+iter_dt 192.71ms; iter 7480: train loss 0.83629
+iter_dt 193.54ms; iter 7490: train loss 0.82775
+iter_dt 192.43ms; iter 7500: train loss 0.82535
+O God, O God!
+God, she must not; let us go;
+If I do fight with fue tribunes, for time
+My woes will again upon one day ago.
+I know the lusty George for the right,
+I keep our droop. But whereby youthful cousin?
+
+MARIANA:
+Not shall I have.
+
+DUKE VINCENTIO:
+O lady day! Belike the dam
+And the duke hath removed the duke of York;
+And satisfy not, who shall seem from mine!
+
+FRIAR LAURENCE:
+O, true! shall we strong to the baker
+Be my daughter before I thank thee?
+
+ROMEO:
+Give me thy hand:
+For all this same in this wi
+saving model
+iter_dt 195.66ms; iter 7510: train loss 0.78864
+iter_dt 198.33ms; iter 7520: train loss 0.79708
+iter_dt 202.37ms; iter 7530: train loss 0.81360
+iter_dt 196.23ms; iter 7540: train loss 0.81007
+iter_dt 197.52ms; iter 7550: train loss 0.80744
+iter_dt 193.07ms; iter 7560: train loss 0.84141
+iter_dt 196.80ms; iter 7570: train loss 0.79758
+iter_dt 193.13ms; iter 7580: train loss 0.82655
+iter_dt 196.01ms; iter 7590: train loss 0.81079
+iter_dt 193.75ms; iter 7600: train loss 0.80364
+iter_dt 196.92ms; iter 7610: train loss 0.81015
+iter_dt 195.37ms; iter 7620: train loss 0.77719
+iter_dt 197.01ms; iter 7630: train loss 0.78240
+iter_dt 197.53ms; iter 7640: train loss 0.77922
+iter_dt 190.41ms; iter 7650: train loss 0.82023
+iter_dt 196.61ms; iter 7660: train loss 0.82231
+iter_dt 198.10ms; iter 7670: train loss 0.81804
+iter_dt 194.05ms; iter 7680: train loss 0.79596
+iter_dt 198.24ms; iter 7690: train loss 0.81856
+iter_dt 196.03ms; iter 7700: train loss 0.79309
+iter_dt 192.49ms; iter 7710: train loss 0.79920
+iter_dt 190.60ms; iter 7720: train loss 0.78371
+iter_dt 196.91ms; iter 7730: train loss 0.80617
+iter_dt 196.91ms; iter 7740: train loss 0.78967
+iter_dt 192.20ms; iter 7750: train loss 0.81225
+iter_dt 196.29ms; iter 7760: train loss 0.79177
+iter_dt 191.22ms; iter 7770: train loss 0.78210
+iter_dt 197.14ms; iter 7780: train loss 0.81715
+iter_dt 196.79ms; iter 7790: train loss 0.78439
+iter_dt 195.96ms; iter 7800: train loss 0.79567
+iter_dt 196.41ms; iter 7810: train loss 0.79058
+iter_dt 195.31ms; iter 7820: train loss 0.81799
+iter_dt 197.46ms; iter 7830: train loss 0.76265
+iter_dt 191.97ms; iter 7840: train loss 0.82250
+iter_dt 195.85ms; iter 7850: train loss 0.80940
+iter_dt 197.52ms; iter 7860: train loss 0.81697
+iter_dt 194.27ms; iter 7870: train loss 0.78093
+iter_dt 189.19ms; iter 7880: train loss 0.78830
+iter_dt 197.01ms; iter 7890: train loss 0.80829
+iter_dt 193.71ms; iter 7900: train loss 0.80589
+iter_dt 198.13ms; iter 7910: train loss 0.81132
+iter_dt 198.04ms; iter 7920: train loss 0.78686
+iter_dt 193.59ms; iter 7930: train loss 0.74942
+iter_dt 198.20ms; iter 7940: train loss 0.79490
+iter_dt 193.48ms; iter 7950: train loss 0.78149
+iter_dt 195.20ms; iter 7960: train loss 0.74960
+iter_dt 192.91ms; iter 7970: train loss 0.81645
+iter_dt 192.39ms; iter 7980: train loss 0.78270
+iter_dt 196.00ms; iter 7990: train loss 0.79162
+iter_dt 197.75ms; iter 8000: train loss 0.79509
+O God, O God! why comes the queen?
+
+Lord:
+Here in the voice: the wisdom of this conscience is
+The third that time should be made a fellow where he is
+aboard and spur to his consent and stain all in
+Be round in the earth. Come, come, Camillo,
+Take up your charge and learn some.
+
+PERDITA:
+No baby-brother and un sharps.
+What's I say?
+
+CAPULET:
+No, good sweet my lord.
+
+Nurse:
+Yes;--
+
+Nurse:
+Nay, sir, can we lie to put the market-port?
+
+ROMEO:
+Nurse!
+
+Nurse:
+Peter, sir, the mustard is, and I have heard
+them my fa
+saving model
+iter_dt 197.36ms; iter 8010: train loss 0.77935
+iter_dt 199.31ms; iter 8020: train loss 0.78696
+iter_dt 200.61ms; iter 8030: train loss 0.78481
+iter_dt 196.33ms; iter 8040: train loss 0.74109
+iter_dt 195.63ms; iter 8050: train loss 0.79363
+iter_dt 197.15ms; iter 8060: train loss 0.78398
+iter_dt 192.68ms; iter 8070: train loss 0.76413
+iter_dt 198.01ms; iter 8080: train loss 0.75621
+iter_dt 197.34ms; iter 8090: train loss 0.74483
+iter_dt 193.96ms; iter 8100: train loss 0.74259
+iter_dt 195.76ms; iter 8110: train loss 0.76032
+iter_dt 198.66ms; iter 8120: train loss 0.73807
+iter_dt 196.91ms; iter 8130: train loss 0.80203
+iter_dt 198.44ms; iter 8140: train loss 0.76624
+iter_dt 196.90ms; iter 8150: train loss 0.74569
+iter_dt 199.59ms; iter 8160: train loss 0.76023
+iter_dt 195.67ms; iter 8170: train loss 0.76628
+iter_dt 193.49ms; iter 8180: train loss 0.72505
+iter_dt 196.84ms; iter 8190: train loss 0.76978
+iter_dt 196.04ms; iter 8200: train loss 0.75119
+iter_dt 191.63ms; iter 8210: train loss 0.75285
+iter_dt 199.42ms; iter 8220: train loss 0.75191
+iter_dt 194.66ms; iter 8230: train loss 0.75005
+iter_dt 197.42ms; iter 8240: train loss 0.74613
+iter_dt 197.03ms; iter 8250: train loss 0.76711
+iter_dt 196.65ms; iter 8260: train loss 0.75168
+iter_dt 196.03ms; iter 8270: train loss 0.74361
+iter_dt 194.11ms; iter 8280: train loss 0.76546
+iter_dt 191.81ms; iter 8290: train loss 0.74609
+iter_dt 196.74ms; iter 8300: train loss 0.73977
+iter_dt 189.54ms; iter 8310: train loss 0.74163
+iter_dt 189.40ms; iter 8320: train loss 0.74080
+iter_dt 190.81ms; iter 8330: train loss 0.76451
+iter_dt 195.33ms; iter 8340: train loss 0.75096
+iter_dt 196.17ms; iter 8350: train loss 0.74579
+iter_dt 193.60ms; iter 8360: train loss 0.72184
+iter_dt 190.32ms; iter 8370: train loss 0.72459
+iter_dt 192.51ms; iter 8380: train loss 0.78020
+iter_dt 194.89ms; iter 8390: train loss 0.71781
+iter_dt 196.20ms; iter 8400: train loss 0.75498
+iter_dt 197.83ms; iter 8410: train loss 0.72844
+iter_dt 196.94ms; iter 8420: train loss 0.76818
+iter_dt 196.80ms; iter 8430: train loss 0.76233
+iter_dt 193.23ms; iter 8440: train loss 0.76374
+iter_dt 197.53ms; iter 8450: train loss 0.74715
+iter_dt 197.23ms; iter 8460: train loss 0.73554
+iter_dt 200.24ms; iter 8470: train loss 0.80548
+iter_dt 199.01ms; iter 8480: train loss 0.74970
+iter_dt 191.60ms; iter 8490: train loss 0.76238
+iter_dt 200.89ms; iter 8500: train loss 0.75693
+O God, O God! that must be possessor?
+
+GLOUCESTER:
+The mayor's son marriment I cursed my heart
+Upon that hast thought to have to got a dish
+That thought affords my husband Henry shall pardon me.
+
+WARWICK:
+I wonder how thy mother's pardon shall pompt.
+O, how far off lives you on my soul's defence!
+Death and heirful blood, bating in her bed,
+Am sure broke; back-villain, the pridest that shook in sleep
+That in my mind behalf in his best.
+
+KING RICHARD III:
+What fair such powers have this best wed,
+Which we live
+saving model
+iter_dt 201.12ms; iter 8510: train loss 0.73264
+iter_dt 198.30ms; iter 8520: train loss 0.73871
+iter_dt 197.56ms; iter 8530: train loss 0.71319
+iter_dt 195.91ms; iter 8540: train loss 0.74293
+iter_dt 196.86ms; iter 8550: train loss 0.73051
+iter_dt 197.46ms; iter 8560: train loss 0.71246
+iter_dt 191.76ms; iter 8570: train loss 0.73350
+iter_dt 198.50ms; iter 8580: train loss 0.71006
+iter_dt 197.91ms; iter 8590: train loss 0.72211
+iter_dt 192.78ms; iter 8600: train loss 0.73239
+iter_dt 195.44ms; iter 8610: train loss 0.74571
+iter_dt 196.07ms; iter 8620: train loss 0.69433
+iter_dt 197.50ms; iter 8630: train loss 0.70571
+iter_dt 196.61ms; iter 8640: train loss 0.74240
+iter_dt 198.17ms; iter 8650: train loss 0.70115
+iter_dt 195.26ms; iter 8660: train loss 0.73214
+iter_dt 199.27ms; iter 8670: train loss 0.72033
+iter_dt 197.91ms; iter 8680: train loss 0.73731
+iter_dt 196.74ms; iter 8690: train loss 0.74385
+iter_dt 195.39ms; iter 8700: train loss 0.70838
+iter_dt 197.19ms; iter 8710: train loss 0.70985
+iter_dt 197.60ms; iter 8720: train loss 0.70285
+iter_dt 193.00ms; iter 8730: train loss 0.73228
+iter_dt 199.21ms; iter 8740: train loss 0.70926
+iter_dt 198.63ms; iter 8750: train loss 0.73540
+iter_dt 197.78ms; iter 8760: train loss 0.74735
+iter_dt 199.72ms; iter 8770: train loss 0.71406
+iter_dt 197.73ms; iter 8780: train loss 0.72041
+iter_dt 193.55ms; iter 8790: train loss 0.71761
+iter_dt 194.04ms; iter 8800: train loss 0.71132
+iter_dt 193.73ms; iter 8810: train loss 0.67251
+iter_dt 197.16ms; iter 8820: train loss 0.69370
+iter_dt 194.77ms; iter 8830: train loss 0.74729
+iter_dt 193.70ms; iter 8840: train loss 0.69300
+iter_dt 190.34ms; iter 8850: train loss 0.72814
+iter_dt 197.27ms; iter 8860: train loss 0.70132
+iter_dt 194.51ms; iter 8870: train loss 0.72317
+iter_dt 194.22ms; iter 8880: train loss 0.69675
+iter_dt 197.68ms; iter 8890: train loss 0.72794
+iter_dt 197.70ms; iter 8900: train loss 0.71149
+iter_dt 194.24ms; iter 8910: train loss 0.70832
+iter_dt 195.05ms; iter 8920: train loss 0.72870
+iter_dt 195.82ms; iter 8930: train loss 0.69688
+iter_dt 199.84ms; iter 8940: train loss 0.70789
+iter_dt 194.17ms; iter 8950: train loss 0.71680
+iter_dt 196.67ms; iter 8960: train loss 0.70100
+iter_dt 198.60ms; iter 8970: train loss 0.69478
+iter_dt 193.30ms; iter 8980: train loss 0.68004
+iter_dt 197.27ms; iter 8990: train loss 0.69224
+iter_dt 195.93ms; iter 9000: train loss 0.68209
+O God, O God! that never more shall I shall deliver,
+And he shall stand for me and to my kindred;
+And, seldom where once it shall be obstinate,
+He should have letter to the occasion;
+And so perpett in full proportion from our lives,
+But from my true love this noble dukin care of her;
+And let it not, and in the honour of our dreadful singular.
+
+First Citizen:
+Faith, I know not what I pleased: if you do, and I do pause;
+I speak any proportion with me: for all the world
+Is all as I loved to do the good on morro
+saving model
+iter_dt 198.39ms; iter 9010: train loss 0.69951
+iter_dt 198.34ms; iter 9020: train loss 0.73541
+iter_dt 197.11ms; iter 9030: train loss 0.71493
+iter_dt 197.36ms; iter 9040: train loss 0.69268
+iter_dt 195.96ms; iter 9050: train loss 0.69617
+iter_dt 197.70ms; iter 9060: train loss 0.70812
+iter_dt 196.85ms; iter 9070: train loss 0.71593
+iter_dt 194.63ms; iter 9080: train loss 0.69112
+iter_dt 193.67ms; iter 9090: train loss 0.68673
+iter_dt 194.97ms; iter 9100: train loss 0.68510
+iter_dt 197.72ms; iter 9110: train loss 0.68839
+iter_dt 195.73ms; iter 9120: train loss 0.69896
+iter_dt 192.37ms; iter 9130: train loss 0.69894
+iter_dt 193.45ms; iter 9140: train loss 0.66222
+iter_dt 197.63ms; iter 9150: train loss 0.70211
+iter_dt 195.76ms; iter 9160: train loss 0.68719
+iter_dt 193.25ms; iter 9170: train loss 0.67500
+iter_dt 203.00ms; iter 9180: train loss 0.67510
+iter_dt 192.71ms; iter 9190: train loss 0.67762
+iter_dt 198.72ms; iter 9200: train loss 0.69576
+iter_dt 196.76ms; iter 9210: train loss 0.68323
+iter_dt 193.95ms; iter 9220: train loss 0.67251
+iter_dt 194.38ms; iter 9230: train loss 0.65487
+iter_dt 193.20ms; iter 9240: train loss 0.68103
+iter_dt 196.54ms; iter 9250: train loss 0.67482
+iter_dt 196.14ms; iter 9260: train loss 0.69625
+iter_dt 195.49ms; iter 9270: train loss 0.65331
+iter_dt 195.37ms; iter 9280: train loss 0.67524
+iter_dt 199.59ms; iter 9290: train loss 0.66608
+iter_dt 196.84ms; iter 9300: train loss 0.65353
+iter_dt 194.10ms; iter 9310: train loss 0.69773
+iter_dt 196.25ms; iter 9320: train loss 0.64588
+iter_dt 197.76ms; iter 9330: train loss 0.69368
+iter_dt 194.34ms; iter 9340: train loss 0.65668
+iter_dt 197.89ms; iter 9350: train loss 0.69084
+iter_dt 195.74ms; iter 9360: train loss 0.68937
+iter_dt 195.56ms; iter 9370: train loss 0.66603
+iter_dt 197.25ms; iter 9380: train loss 0.66800
+iter_dt 197.82ms; iter 9390: train loss 0.65495
+iter_dt 198.91ms; iter 9400: train loss 0.69952
+iter_dt 194.49ms; iter 9410: train loss 0.66101
+iter_dt 190.51ms; iter 9420: train loss 0.68361
+iter_dt 199.79ms; iter 9430: train loss 0.65270
+iter_dt 194.89ms; iter 9440: train loss 0.67148
+iter_dt 194.34ms; iter 9450: train loss 0.64749
+iter_dt 194.58ms; iter 9460: train loss 0.66384
+iter_dt 195.13ms; iter 9470: train loss 0.69378
+iter_dt 196.85ms; iter 9480: train loss 0.67039
+iter_dt 192.48ms; iter 9490: train loss 0.64324
+iter_dt 197.27ms; iter 9500: train loss 0.66847
+O God, O God! how sweat is dead!
+Thy father hath but a lute for this face
+Beyond chaming here: the gods prove welcome!
+
+VOLUMNIA:
+You have, sir? I have heard of such distressful words
+That no princely hefts, but laws far from Buckingham.
+Worse hrivers have murdered the charge his limbs,
+And he that intends him out. The wounds have rung,
+Slew Montague, for his painted sake
+The very boy is of service. Romeo,
+Suppose our services have stood up and pluck'd forth,
+With rival-vitory dragon, something steeds
+To sto
+saving model
+iter_dt 197.03ms; iter 9510: train loss 0.64374
+iter_dt 201.39ms; iter 9520: train loss 0.64609
+iter_dt 200.67ms; iter 9530: train loss 0.68085
+iter_dt 199.12ms; iter 9540: train loss 0.69542
+iter_dt 197.30ms; iter 9550: train loss 0.66659
+iter_dt 195.29ms; iter 9560: train loss 0.64670
+iter_dt 191.05ms; iter 9570: train loss 0.65927
+iter_dt 193.16ms; iter 9580: train loss 0.65994
+iter_dt 194.00ms; iter 9590: train loss 0.68321
+iter_dt 194.60ms; iter 9600: train loss 0.66444
+iter_dt 199.43ms; iter 9610: train loss 0.66683
+iter_dt 195.35ms; iter 9620: train loss 0.65107
+iter_dt 199.65ms; iter 9630: train loss 0.65055
+iter_dt 193.34ms; iter 9640: train loss 0.64855
+iter_dt 195.28ms; iter 9650: train loss 0.63281
+iter_dt 198.13ms; iter 9660: train loss 0.66031
+iter_dt 196.48ms; iter 9670: train loss 0.66121
+iter_dt 196.19ms; iter 9680: train loss 0.68099
+iter_dt 199.97ms; iter 9690: train loss 0.64932
+iter_dt 198.04ms; iter 9700: train loss 0.63824
+iter_dt 203.71ms; iter 9710: train loss 0.61899
+iter_dt 199.95ms; iter 9720: train loss 0.64144
+iter_dt 197.38ms; iter 9730: train loss 0.64738
+iter_dt 195.59ms; iter 9740: train loss 0.62836
+iter_dt 203.41ms; iter 9750: train loss 0.64462
+iter_dt 197.95ms; iter 9760: train loss 0.65768
+iter_dt 196.32ms; iter 9770: train loss 0.65457
+iter_dt 201.31ms; iter 9780: train loss 0.66475
+iter_dt 201.11ms; iter 9790: train loss 0.65579
+iter_dt 198.77ms; iter 9800: train loss 0.63552
+iter_dt 193.37ms; iter 9810: train loss 0.64028
+iter_dt 195.01ms; iter 9820: train loss 0.61967
+iter_dt 198.68ms; iter 9830: train loss 0.66586
+iter_dt 199.01ms; iter 9840: train loss 0.66911
+iter_dt 196.53ms; iter 9850: train loss 0.64726
+iter_dt 202.14ms; iter 9860: train loss 0.66945
+iter_dt 197.09ms; iter 9870: train loss 0.65993
+iter_dt 195.71ms; iter 9880: train loss 0.61375
+iter_dt 194.34ms; iter 9890: train loss 0.65144
+iter_dt 194.62ms; iter 9900: train loss 0.64422
+iter_dt 193.64ms; iter 9910: train loss 0.64857
+iter_dt 197.18ms; iter 9920: train loss 0.65464
+iter_dt 198.89ms; iter 9930: train loss 0.65233
+iter_dt 196.06ms; iter 9940: train loss 0.68024
+iter_dt 200.05ms; iter 9950: train loss 0.66048
+iter_dt 197.07ms; iter 9960: train loss 0.63603
+iter_dt 194.67ms; iter 9970: train loss 0.63296
+iter_dt 196.29ms; iter 9980: train loss 0.64758
+iter_dt 192.48ms; iter 9990: train loss 0.65135
+iter_dt 197.92ms; iter 10000: train loss 0.62274
+O God, O God! that e'er this tongue!
+More light save and lover's rights, and may's noble queen!
+That shall become of the noble duke appeal,
+And twenty-days in a disgrace all haunt
+Till she bids up the office o' the two five and water:
+Sometimes how he did went in want her like a sea,
+Till he did call me Kate thy bondage and her love,
+I should not be a quarrel for twelve.
+I'll sent conclude away. But, call you,
+When you have bad eaten me; nay, all seeing me
+And never sport air, worse definities and guards
+Hav
+saving model
+iter_dt 201.15ms; iter 10010: train loss 0.65704
+iter_dt 202.78ms; iter 10020: train loss 0.62373
+iter_dt 201.76ms; iter 10030: train loss 0.64373
+iter_dt 198.52ms; iter 10040: train loss 0.61549
+iter_dt 197.09ms; iter 10050: train loss 0.61650
+iter_dt 194.17ms; iter 10060: train loss 0.61381
+iter_dt 199.81ms; iter 10070: train loss 0.63249
+iter_dt 196.87ms; iter 10080: train loss 0.59696
+iter_dt 194.63ms; iter 10090: train loss 0.64256
+iter_dt 193.71ms; iter 10100: train loss 0.61208
+iter_dt 200.55ms; iter 10110: train loss 0.62480
+iter_dt 200.42ms; iter 10120: train loss 0.60683
+iter_dt 194.90ms; iter 10130: train loss 0.60845
+iter_dt 195.34ms; iter 10140: train loss 0.61565
+iter_dt 195.25ms; iter 10150: train loss 0.59804
+iter_dt 194.52ms; iter 10160: train loss 0.62027
+iter_dt 198.68ms; iter 10170: train loss 0.64723
+iter_dt 198.83ms; iter 10180: train loss 0.59971
+iter_dt 195.86ms; iter 10190: train loss 0.60370
+iter_dt 196.26ms; iter 10200: train loss 0.59215
+iter_dt 192.10ms; iter 10210: train loss 0.64799
+iter_dt 195.41ms; iter 10220: train loss 0.61730
+iter_dt 199.22ms; iter 10230: train loss 0.59690
+iter_dt 199.51ms; iter 10240: train loss 0.64427
+iter_dt 199.72ms; iter 10250: train loss 0.61485
+iter_dt 195.32ms; iter 10260: train loss 0.60530
+iter_dt 197.37ms; iter 10270: train loss 0.62266
+iter_dt 194.31ms; iter 10280: train loss 0.60552
+iter_dt 201.53ms; iter 10290: train loss 0.61924
+iter_dt 194.95ms; iter 10300: train loss 0.62142
+iter_dt 198.14ms; iter 10310: train loss 0.60182
+iter_dt 197.17ms; iter 10320: train loss 0.65002
+iter_dt 199.01ms; iter 10330: train loss 0.63742
+iter_dt 194.64ms; iter 10340: train loss 0.62477
+iter_dt 194.15ms; iter 10350: train loss 0.61630
+iter_dt 194.05ms; iter 10360: train loss 0.59929
+iter_dt 194.46ms; iter 10370: train loss 0.61411
+iter_dt 195.01ms; iter 10380: train loss 0.63724
+iter_dt 191.17ms; iter 10390: train loss 0.63288
+iter_dt 194.46ms; iter 10400: train loss 0.57485
+iter_dt 195.07ms; iter 10410: train loss 0.62439
+iter_dt 197.61ms; iter 10420: train loss 0.60787
+iter_dt 195.04ms; iter 10430: train loss 0.63079
+iter_dt 195.79ms; iter 10440: train loss 0.62558
+iter_dt 198.34ms; iter 10450: train loss 0.60963
+iter_dt 196.39ms; iter 10460: train loss 0.62392
+iter_dt 196.77ms; iter 10470: train loss 0.58679
+iter_dt 195.52ms; iter 10480: train loss 0.59823
+iter_dt 199.27ms; iter 10490: train loss 0.61878
+iter_dt 195.18ms; iter 10500: train loss 0.59752
+O God, O God! for thy wife! what may I call thee?
+
+ROMEO:
+Not so; thou art deceived.
+
+JULIET:
+I will not know this merry in this,
+But that 'emrept this silver hours here,
+And in posterity never write him subdue
+The swealts of what we think. This feel it were
+As the pleasure as the time of show. To pluck
+No beinging foot that wants for Henry's wit;
+And in winkings, and thus his waits fair burns
+Have bent as so cong as to Braken
+As does chaste, to stand, I'll lean upon one person.
+The duke, that Angelo is aliv
+saving model
+iter_dt 194.35ms; iter 10510: train loss 0.61206
+iter_dt 197.99ms; iter 10520: train loss 0.65951
+iter_dt 201.59ms; iter 10530: train loss 0.59564
+iter_dt 196.97ms; iter 10540: train loss 0.60168
+iter_dt 195.75ms; iter 10550: train loss 0.63123
+iter_dt 194.16ms; iter 10560: train loss 0.59486
+iter_dt 196.96ms; iter 10570: train loss 0.59868
+iter_dt 195.27ms; iter 10580: train loss 0.63049
+iter_dt 198.27ms; iter 10590: train loss 0.58772
+iter_dt 195.49ms; iter 10600: train loss 0.60304
+iter_dt 196.97ms; iter 10610: train loss 0.58151
+iter_dt 195.01ms; iter 10620: train loss 0.63111
+iter_dt 195.58ms; iter 10630: train loss 0.62503
+iter_dt 191.33ms; iter 10640: train loss 0.62916
+iter_dt 201.32ms; iter 10650: train loss 0.57946
+iter_dt 192.13ms; iter 10660: train loss 0.60503
+iter_dt 195.79ms; iter 10670: train loss 0.60005
+iter_dt 277.90ms; iter 10680: train loss 0.59344
+iter_dt 197.96ms; iter 10690: train loss 0.56418
+iter_dt 196.21ms; iter 10700: train loss 0.61380
+iter_dt 193.19ms; iter 10710: train loss 0.59963
+iter_dt 195.76ms; iter 10720: train loss 0.57005
+iter_dt 197.40ms; iter 10730: train loss 0.58277
+iter_dt 196.15ms; iter 10740: train loss 0.59951
+iter_dt 194.48ms; iter 10750: train loss 0.59377
+iter_dt 195.53ms; iter 10760: train loss 0.58282
+iter_dt 197.80ms; iter 10770: train loss 0.60599
+iter_dt 197.34ms; iter 10780: train loss 0.58273
+iter_dt 203.23ms; iter 10790: train loss 0.58301
+iter_dt 196.38ms; iter 10800: train loss 0.63007
+iter_dt 200.19ms; iter 10810: train loss 0.59351
+iter_dt 193.01ms; iter 10820: train loss 0.59153
+iter_dt 194.31ms; iter 10830: train loss 0.59018
+iter_dt 199.27ms; iter 10840: train loss 0.63159
+iter_dt 196.06ms; iter 10850: train loss 0.57837
+iter_dt 197.24ms; iter 10860: train loss 0.59464
+iter_dt 198.57ms; iter 10870: train loss 0.59427
+iter_dt 198.61ms; iter 10880: train loss 0.62606
+iter_dt 193.52ms; iter 10890: train loss 0.58700
+iter_dt 196.86ms; iter 10900: train loss 0.58510
+iter_dt 194.06ms; iter 10910: train loss 0.56700
+iter_dt 199.14ms; iter 10920: train loss 0.62255
+iter_dt 194.21ms; iter 10930: train loss 0.57028
+iter_dt 195.03ms; iter 10940: train loss 0.59352
+iter_dt 194.10ms; iter 10950: train loss 0.62507
+iter_dt 197.31ms; iter 10960: train loss 0.59655
+iter_dt 200.32ms; iter 10970: train loss 0.57716
+iter_dt 193.20ms; iter 10980: train loss 0.57353
+iter_dt 192.52ms; iter 10990: train loss 0.58767
+iter_dt 198.12ms; iter 11000: train loss 0.57854
+O God, O God! that some for my sin and second
+several sweet success, they are all forsworn;
+And hast thou, Signior Gremio: but a word, I pray.
+Though the nature of our more I cannot do thee good,
+And yet we are more incuredor of your content,
+Than those conn'd my part than an argosy
+Than my master's fault: I must need the worshipp's heart;
+For I my husband on his blessing womb last
+Ariel towards London with bloody crowns,
+As mistrust none but by nose and me;
+No, not for a man could stay for Rome,
+Thinking ou
+saving model
+iter_dt 201.31ms; iter 11010: train loss 0.56362
+iter_dt 205.41ms; iter 11020: train loss 0.60472
+iter_dt 197.01ms; iter 11030: train loss 0.59032
+iter_dt 197.83ms; iter 11040: train loss 0.55977
+iter_dt 197.26ms; iter 11050: train loss 0.56915
+iter_dt 201.05ms; iter 11060: train loss 0.59161
+iter_dt 193.77ms; iter 11070: train loss 0.57285
+iter_dt 194.33ms; iter 11080: train loss 0.56824
+iter_dt 196.24ms; iter 11090: train loss 0.58320
+iter_dt 203.02ms; iter 11100: train loss 0.59169
+iter_dt 197.54ms; iter 11110: train loss 0.57135
+iter_dt 192.75ms; iter 11120: train loss 0.55409
+iter_dt 198.46ms; iter 11130: train loss 0.58430
+iter_dt 193.15ms; iter 11140: train loss 0.57213
+iter_dt 196.01ms; iter 11150: train loss 0.57492
+iter_dt 197.61ms; iter 11160: train loss 0.57226
+iter_dt 195.58ms; iter 11170: train loss 0.56528
+iter_dt 194.22ms; iter 11180: train loss 0.59816
+iter_dt 194.28ms; iter 11190: train loss 0.57364
+iter_dt 196.29ms; iter 11200: train loss 0.55839
+iter_dt 196.10ms; iter 11210: train loss 0.56659
+iter_dt 196.77ms; iter 11220: train loss 0.60189
+iter_dt 193.03ms; iter 11230: train loss 0.60622
+iter_dt 196.95ms; iter 11240: train loss 0.55624
+iter_dt 199.46ms; iter 11250: train loss 0.57682
+iter_dt 196.80ms; iter 11260: train loss 0.56276
+iter_dt 198.76ms; iter 11270: train loss 0.57573
+iter_dt 197.72ms; iter 11280: train loss 0.59197
+iter_dt 196.97ms; iter 11290: train loss 0.54601
+iter_dt 196.45ms; iter 11300: train loss 0.59617
+iter_dt 193.40ms; iter 11310: train loss 0.54976
+iter_dt 193.65ms; iter 11320: train loss 0.56397
+iter_dt 197.08ms; iter 11330: train loss 0.56033
+iter_dt 194.76ms; iter 11340: train loss 0.56395
+iter_dt 197.75ms; iter 11350: train loss 0.53811
+iter_dt 200.45ms; iter 11360: train loss 0.56016
+iter_dt 199.45ms; iter 11370: train loss 0.56851
+iter_dt 194.76ms; iter 11380: train loss 0.53569
+iter_dt 196.99ms; iter 11390: train loss 0.57061
+iter_dt 198.02ms; iter 11400: train loss 0.57623
+iter_dt 197.88ms; iter 11410: train loss 0.55467
+iter_dt 198.22ms; iter 11420: train loss 0.58719
+iter_dt 193.28ms; iter 11430: train loss 0.57733
+iter_dt 197.10ms; iter 11440: train loss 0.55961
+iter_dt 195.83ms; iter 11450: train loss 0.58969
+iter_dt 195.43ms; iter 11460: train loss 0.55250
+iter_dt 200.72ms; iter 11470: train loss 0.56264
+iter_dt 194.51ms; iter 11480: train loss 0.54432
+iter_dt 192.44ms; iter 11490: train loss 0.55024
+iter_dt 198.98ms; iter 11500: train loss 0.51802
+O God, O God! he mine, how something hours hast
+disposite enriched. If any so bear my
+bones the whole talk of Menenius as he does, I must perfer;
+you shall perceive them again.
+
+BRUTUS:
+Lay
+A fault on us. We'll to Coriolanus.
+
+CORIOLANUS:
+Well, officer: I would kill thee with Camillo,
+Whom thou comest to know thy mind: but I would
+Say thou lie all in reason mild behavior,--
+For, how now, you know me, you know not no he;
+There is no sin, no sin, Bohemia,
+On Lord Angelo.
+
+DUKE VINCENTIO:
+In saying the state
+Af
+saving model
+iter_dt 199.59ms; iter 11510: train loss 0.55048
+iter_dt 200.51ms; iter 11520: train loss 0.56611
+iter_dt 198.42ms; iter 11530: train loss 0.52538
+iter_dt 199.58ms; iter 11540: train loss 0.58047
+iter_dt 198.70ms; iter 11550: train loss 0.58177
+iter_dt 194.48ms; iter 11560: train loss 0.56015
+iter_dt 198.32ms; iter 11570: train loss 0.55263
+iter_dt 194.70ms; iter 11580: train loss 0.56032
+iter_dt 197.62ms; iter 11590: train loss 0.54665
+iter_dt 195.54ms; iter 11600: train loss 0.53736
+iter_dt 194.94ms; iter 11610: train loss 0.54680
+iter_dt 191.76ms; iter 11620: train loss 0.55609
+iter_dt 194.14ms; iter 11630: train loss 0.55014
+iter_dt 197.02ms; iter 11640: train loss 0.55257
+iter_dt 193.36ms; iter 11650: train loss 0.56263
+iter_dt 196.47ms; iter 11660: train loss 0.55967
+iter_dt 194.24ms; iter 11670: train loss 0.51375
+iter_dt 197.40ms; iter 11680: train loss 0.58201
+iter_dt 196.77ms; iter 11690: train loss 0.56929
+iter_dt 194.43ms; iter 11700: train loss 0.55740
+iter_dt 199.31ms; iter 11710: train loss 0.56718
+iter_dt 190.84ms; iter 11720: train loss 0.54102
+iter_dt 194.61ms; iter 11730: train loss 0.56310
+iter_dt 195.55ms; iter 11740: train loss 0.53439
+iter_dt 194.10ms; iter 11750: train loss 0.56105
+iter_dt 201.39ms; iter 11760: train loss 0.55617
+iter_dt 200.89ms; iter 11770: train loss 0.56228
+iter_dt 198.25ms; iter 11780: train loss 0.56433
+iter_dt 199.80ms; iter 11790: train loss 0.54181
+iter_dt 195.41ms; iter 11800: train loss 0.52958
+iter_dt 194.45ms; iter 11810: train loss 0.55174
+iter_dt 199.02ms; iter 11820: train loss 0.58274
+iter_dt 194.56ms; iter 11830: train loss 0.56433
+iter_dt 200.57ms; iter 11840: train loss 0.53003
+iter_dt 196.40ms; iter 11850: train loss 0.54294
+iter_dt 196.18ms; iter 11860: train loss 0.52317
+iter_dt 195.10ms; iter 11870: train loss 0.55173
+iter_dt 198.11ms; iter 11880: train loss 0.55217
+iter_dt 194.95ms; iter 11890: train loss 0.55048
+iter_dt 196.46ms; iter 11900: train loss 0.53045
+iter_dt 202.75ms; iter 11910: train loss 0.53573
+iter_dt 200.13ms; iter 11920: train loss 0.53633
+iter_dt 197.51ms; iter 11930: train loss 0.51501
+iter_dt 193.74ms; iter 11940: train loss 0.55700
+iter_dt 200.68ms; iter 11950: train loss 0.55939
+iter_dt 196.40ms; iter 11960: train loss 0.55056
+iter_dt 194.76ms; iter 11970: train loss 0.52808
+iter_dt 193.46ms; iter 11980: train loss 0.52605
+iter_dt 196.94ms; iter 11990: train loss 0.52184
+iter_dt 199.75ms; iter 12000: train loss 0.53041
+O God, O God! how and welcome!
+I must needs wake her. Madam, madam!
+Ay, let the county take you in all doing:
+Here comes your waist;
+You have slept cross'd, it faith and not prepared
+To do myself; for there must I wish out
+When some harm man may be, being gone, much write about terms
+By so much words and merriment as these
+Bows so disbered withal.
+
+FRIAR LAURENCE:
+Come, come with me, and here I dead.
+This is too forl: true, if all this is not so.
+How fares my brother did break,
+And thou lovest swallow in thi
+saving model
+iter_dt 202.02ms; iter 12010: train loss 0.50659
+iter_dt 199.54ms; iter 12020: train loss 0.54352
+iter_dt 202.18ms; iter 12030: train loss 0.53169
+iter_dt 194.79ms; iter 12040: train loss 0.57142
+iter_dt 196.34ms; iter 12050: train loss 0.56931
+iter_dt 198.72ms; iter 12060: train loss 0.52539
+iter_dt 198.94ms; iter 12070: train loss 0.53145
+iter_dt 199.55ms; iter 12080: train loss 0.53846
+iter_dt 198.62ms; iter 12090: train loss 0.54050
+iter_dt 198.36ms; iter 12100: train loss 0.51683
+iter_dt 198.09ms; iter 12110: train loss 0.51827
+iter_dt 196.29ms; iter 12120: train loss 0.53914
+iter_dt 197.55ms; iter 12130: train loss 0.52297
+iter_dt 197.03ms; iter 12140: train loss 0.53773
+iter_dt 200.23ms; iter 12150: train loss 0.51897
+iter_dt 196.93ms; iter 12160: train loss 0.53091
+iter_dt 195.27ms; iter 12170: train loss 0.56174
+iter_dt 197.47ms; iter 12180: train loss 0.56370
+iter_dt 201.76ms; iter 12190: train loss 0.51515
+iter_dt 195.28ms; iter 12200: train loss 0.52786
+iter_dt 197.50ms; iter 12210: train loss 0.53562
+iter_dt 198.49ms; iter 12220: train loss 0.53040
+iter_dt 194.34ms; iter 12230: train loss 0.52057
+iter_dt 193.76ms; iter 12240: train loss 0.51500
+iter_dt 195.96ms; iter 12250: train loss 0.53176
+iter_dt 197.53ms; iter 12260: train loss 0.52091
+iter_dt 199.22ms; iter 12270: train loss 0.50809
+iter_dt 197.70ms; iter 12280: train loss 0.54465
+iter_dt 198.08ms; iter 12290: train loss 0.52131
+iter_dt 195.19ms; iter 12300: train loss 0.50600
+iter_dt 197.19ms; iter 12310: train loss 0.51896
+iter_dt 198.94ms; iter 12320: train loss 0.52945
+iter_dt 197.46ms; iter 12330: train loss 0.53917
+iter_dt 198.36ms; iter 12340: train loss 0.51555
+iter_dt 197.09ms; iter 12350: train loss 0.49920
+iter_dt 198.48ms; iter 12360: train loss 0.51838
+iter_dt 199.44ms; iter 12370: train loss 0.52233
+iter_dt 201.57ms; iter 12380: train loss 0.50208
+iter_dt 194.48ms; iter 12390: train loss 0.53868
+iter_dt 196.41ms; iter 12400: train loss 0.51664
+iter_dt 195.34ms; iter 12410: train loss 0.50069
+iter_dt 194.33ms; iter 12420: train loss 0.50388
+iter_dt 195.45ms; iter 12430: train loss 0.52893
+iter_dt 197.72ms; iter 12440: train loss 0.49831
+iter_dt 195.19ms; iter 12450: train loss 0.51579
+iter_dt 194.00ms; iter 12460: train loss 0.49891
+iter_dt 197.32ms; iter 12470: train loss 0.49109
+iter_dt 196.47ms; iter 12480: train loss 0.51107
+iter_dt 199.33ms; iter 12490: train loss 0.52355
+iter_dt 196.69ms; iter 12500: train loss 0.54332
+O God, O God! methinks repair to us!
+
+GLOUCESTER:
+If I may have to fall the window's worthiness,
+A crown and crows for woman! come forth!
+I, come, good den: a word man adieu!
+And more unlikely battle to end;
+And here I'll be Romeo: by my father's blood;
+It was so fond as the sepherd's moon
+As he that lost me down the officer.
+Here, take the untainted eyes of the earth,
+To take thing at once, saw him far home,
+Where weep. I am committed that he sits possess'd
+For him that honour did bescreen: how he grieve
+De
+saving model
+iter_dt 199.67ms; iter 12510: train loss 0.52850
+iter_dt 203.96ms; iter 12520: train loss 0.51405
+iter_dt 201.98ms; iter 12530: train loss 0.50049
+iter_dt 197.04ms; iter 12540: train loss 0.50314
+iter_dt 194.73ms; iter 12550: train loss 0.51582
+iter_dt 193.82ms; iter 12560: train loss 0.50140
+iter_dt 199.40ms; iter 12570: train loss 0.49924
+iter_dt 194.92ms; iter 12580: train loss 0.51670
+iter_dt 196.98ms; iter 12590: train loss 0.53547
+iter_dt 196.90ms; iter 12600: train loss 0.49794
+iter_dt 194.45ms; iter 12610: train loss 0.53192
+iter_dt 201.61ms; iter 12620: train loss 0.51510
+iter_dt 196.70ms; iter 12630: train loss 0.52811
+iter_dt 200.36ms; iter 12640: train loss 0.51153
+iter_dt 199.58ms; iter 12650: train loss 0.50235
+iter_dt 194.81ms; iter 12660: train loss 0.51882
+iter_dt 197.40ms; iter 12670: train loss 0.50783
+iter_dt 195.87ms; iter 12680: train loss 0.49206
+iter_dt 194.80ms; iter 12690: train loss 0.52408
+iter_dt 193.83ms; iter 12700: train loss 0.52261
+iter_dt 200.30ms; iter 12710: train loss 0.49208
+iter_dt 197.72ms; iter 12720: train loss 0.51665
+iter_dt 193.42ms; iter 12730: train loss 0.48619
+iter_dt 202.01ms; iter 12740: train loss 0.53326
+iter_dt 196.96ms; iter 12750: train loss 0.51283
+iter_dt 196.13ms; iter 12760: train loss 0.49190
+iter_dt 198.36ms; iter 12770: train loss 0.50861
+iter_dt 197.01ms; iter 12780: train loss 0.48131
+iter_dt 199.29ms; iter 12790: train loss 0.49056
+iter_dt 195.43ms; iter 12800: train loss 0.49647
+iter_dt 196.07ms; iter 12810: train loss 0.49150
+iter_dt 198.23ms; iter 12820: train loss 0.49361
+iter_dt 195.40ms; iter 12830: train loss 0.51883
+iter_dt 196.52ms; iter 12840: train loss 0.49363
+iter_dt 189.81ms; iter 12850: train loss 0.52770
+iter_dt 197.70ms; iter 12860: train loss 0.49743
+iter_dt 198.36ms; iter 12870: train loss 0.50352
+iter_dt 202.13ms; iter 12880: train loss 0.51118
+iter_dt 197.59ms; iter 12890: train loss 0.50078
+iter_dt 196.28ms; iter 12900: train loss 0.46890
+iter_dt 196.22ms; iter 12910: train loss 0.50312
+iter_dt 202.33ms; iter 12920: train loss 0.49689
+iter_dt 196.34ms; iter 12930: train loss 0.50896
+iter_dt 202.18ms; iter 12940: train loss 0.49237
+iter_dt 194.07ms; iter 12950: train loss 0.51871
+iter_dt 194.33ms; iter 12960: train loss 0.49410
+iter_dt 192.80ms; iter 12970: train loss 0.48715
+iter_dt 197.60ms; iter 12980: train loss 0.51263
+iter_dt 198.40ms; iter 12990: train loss 0.50477
+iter_dt 192.99ms; iter 13000: train loss 0.50896
+O God, O God! that rebels made thy tongue,
+On Thursday next be married to all the world:
+Have I done myself?  This do I will advance you,
+Which finds it out but a part, and so loves me
+To wash them and my poor lord from them thence,
+But, death pity not that please your love.
+
+JOHN OF GAUNT:
+To some villain, further than it is there.
+
+KING RICHARD II:
+Stay, madam; I must speak to my word:
+I am more amazed an envious friends, thou must of wit.
+
+GLOUCESTER:
+See how the country, where the beard sorter?
+
+BUCKINGH
+saving model
+iter_dt 203.78ms; iter 13010: train loss 0.49968
+iter_dt 204.19ms; iter 13020: train loss 0.50210
+iter_dt 205.83ms; iter 13030: train loss 0.46647
+iter_dt 198.65ms; iter 13040: train loss 0.48600
+iter_dt 199.03ms; iter 13050: train loss 0.48001
+iter_dt 195.60ms; iter 13060: train loss 0.50075
+iter_dt 198.20ms; iter 13070: train loss 0.52014
+iter_dt 196.61ms; iter 13080: train loss 0.48178
+iter_dt 198.04ms; iter 13090: train loss 0.47516
+iter_dt 196.99ms; iter 13100: train loss 0.50644
+iter_dt 195.95ms; iter 13110: train loss 0.49307
+iter_dt 198.03ms; iter 13120: train loss 0.49787
+iter_dt 199.07ms; iter 13130: train loss 0.47965
+iter_dt 195.41ms; iter 13140: train loss 0.47334
+iter_dt 195.19ms; iter 13150: train loss 0.48610
+iter_dt 197.61ms; iter 13160: train loss 0.49058
+iter_dt 198.84ms; iter 13170: train loss 0.50106
+iter_dt 196.45ms; iter 13180: train loss 0.45511
+iter_dt 195.29ms; iter 13190: train loss 0.51772
+iter_dt 196.70ms; iter 13200: train loss 0.49782
+iter_dt 195.87ms; iter 13210: train loss 0.49961
+iter_dt 194.10ms; iter 13220: train loss 0.51269
+iter_dt 193.51ms; iter 13230: train loss 0.49582
+iter_dt 192.48ms; iter 13240: train loss 0.47825
+iter_dt 195.65ms; iter 13250: train loss 0.49693
+iter_dt 196.78ms; iter 13260: train loss 0.46007
+iter_dt 195.17ms; iter 13270: train loss 0.49106
+iter_dt 199.03ms; iter 13280: train loss 0.48279
+iter_dt 195.86ms; iter 13290: train loss 0.49063
+iter_dt 196.76ms; iter 13300: train loss 0.48310
+iter_dt 197.88ms; iter 13310: train loss 0.49326
+iter_dt 195.60ms; iter 13320: train loss 0.49986
+iter_dt 193.51ms; iter 13330: train loss 0.50539
+iter_dt 196.50ms; iter 13340: train loss 0.49168
+iter_dt 197.08ms; iter 13350: train loss 0.48411
+iter_dt 193.60ms; iter 13360: train loss 0.46321
+iter_dt 194.24ms; iter 13370: train loss 0.46712
+iter_dt 198.56ms; iter 13380: train loss 0.49463
+iter_dt 204.71ms; iter 13390: train loss 0.48339
+iter_dt 197.12ms; iter 13400: train loss 0.46584
+iter_dt 193.56ms; iter 13410: train loss 0.48162
+iter_dt 195.03ms; iter 13420: train loss 0.48460
+iter_dt 197.26ms; iter 13430: train loss 0.46263
+iter_dt 197.30ms; iter 13440: train loss 0.45982
+iter_dt 195.56ms; iter 13450: train loss 0.49335
+iter_dt 199.01ms; iter 13460: train loss 0.51438
+iter_dt 197.78ms; iter 13470: train loss 0.47692
+iter_dt 197.95ms; iter 13480: train loss 0.47982
+iter_dt 196.83ms; iter 13490: train loss 0.49912
+iter_dt 195.02ms; iter 13500: train loss 0.47478
+O God, O God! that eff forgot!
+
+LADY ANNE:
+What now is here?
+
+GLOUCESTER:
+The queen is valued thirty thousand strong,
+And therein was weak and hand abhorr'd commands.
+
+BAMSOT:
+To me with wonderful, you repair that you made
+But drop him stay: and if he be a wife, sir,
+Hearing the souls of geen receive
+But was suggest of force suppression: that we came,
+Without countenance to make us breathe to us
+And with a little postern of this noble earth:
+You understand me.
+
+LUCENTIO:
+Saw me her?
+
+BIONDELLO:
+Master, a hur
+saving model
+iter_dt 201.28ms; iter 13510: train loss 0.44843
+iter_dt 205.09ms; iter 13520: train loss 0.48991
+iter_dt 203.04ms; iter 13530: train loss 0.48261
+iter_dt 193.59ms; iter 13540: train loss 0.49613
+iter_dt 195.88ms; iter 13550: train loss 0.47379
+iter_dt 198.59ms; iter 13560: train loss 0.49497
+iter_dt 194.87ms; iter 13570: train loss 0.46601
+iter_dt 194.67ms; iter 13580: train loss 0.49264
+iter_dt 194.23ms; iter 13590: train loss 0.49314
+iter_dt 197.90ms; iter 13600: train loss 0.48416
+iter_dt 200.03ms; iter 13610: train loss 0.46375
+iter_dt 198.55ms; iter 13620: train loss 0.49579
+iter_dt 199.00ms; iter 13630: train loss 0.48255
+iter_dt 193.93ms; iter 13640: train loss 0.46794
+iter_dt 196.71ms; iter 13650: train loss 0.46863
+iter_dt 198.32ms; iter 13660: train loss 0.45779
+iter_dt 199.57ms; iter 13670: train loss 0.49180
+iter_dt 198.33ms; iter 13680: train loss 0.46648
+iter_dt 196.26ms; iter 13690: train loss 0.46111
+iter_dt 198.48ms; iter 13700: train loss 0.46267
+iter_dt 197.72ms; iter 13710: train loss 0.48303
+iter_dt 198.50ms; iter 13720: train loss 0.47042
+iter_dt 195.99ms; iter 13730: train loss 0.46180
+iter_dt 199.97ms; iter 13740: train loss 0.48818
+iter_dt 196.73ms; iter 13750: train loss 0.46930
+iter_dt 194.98ms; iter 13760: train loss 0.46548
+iter_dt 201.87ms; iter 13770: train loss 0.46406
+iter_dt 195.46ms; iter 13780: train loss 0.46001
+iter_dt 198.13ms; iter 13790: train loss 0.48661
+iter_dt 195.43ms; iter 13800: train loss 0.48085
+iter_dt 198.24ms; iter 13810: train loss 0.48184
+iter_dt 199.45ms; iter 13820: train loss 0.47282
+iter_dt 199.17ms; iter 13830: train loss 0.46158
+iter_dt 193.98ms; iter 13840: train loss 0.46969
+iter_dt 197.17ms; iter 13850: train loss 0.47729
+iter_dt 197.05ms; iter 13860: train loss 0.47008
+iter_dt 198.41ms; iter 13870: train loss 0.45997
+iter_dt 191.38ms; iter 13880: train loss 0.45619
+iter_dt 190.12ms; iter 13890: train loss 0.47098
+iter_dt 197.70ms; iter 13900: train loss 0.45897
+iter_dt 202.04ms; iter 13910: train loss 0.48674
+iter_dt 195.38ms; iter 13920: train loss 0.46420
+iter_dt 197.51ms; iter 13930: train loss 0.46078
+iter_dt 195.23ms; iter 13940: train loss 0.47820
+iter_dt 198.66ms; iter 13950: train loss 0.46069
+iter_dt 197.77ms; iter 13960: train loss 0.46162
+iter_dt 195.32ms; iter 13970: train loss 0.48861
+iter_dt 195.10ms; iter 13980: train loss 0.46163
+iter_dt 197.69ms; iter 13990: train loss 0.48762
+iter_dt 195.57ms; iter 14000: train loss 0.45102
+O God, O God! that ever, that dost thou mean me!
+
+KING RICHARD II:
+Needs must I speak; and leave me speak with me.
+Thou know'st my lodging: methinks you from the world:
+Had he done why, Because to lour honour with him,
+And that I'll do him of doom merry at home:
+The hour brokes impant them, like a bowl of wine,
+That raught at mouth of what have beat prolled by him and home,
+The roots of his general king:
+For which shall I have writ to thee, to make thee mine,
+And bring these complexions to the eye?
+
+CURTIS:
+
+saving model
+iter_dt 202.32ms; iter 14010: train loss 0.46303
+iter_dt 201.80ms; iter 14020: train loss 0.47592
+iter_dt 205.99ms; iter 14030: train loss 0.47352
+iter_dt 198.23ms; iter 14040: train loss 0.46373
+iter_dt 193.04ms; iter 14050: train loss 0.46234
+iter_dt 194.94ms; iter 14060: train loss 0.45715
+iter_dt 196.09ms; iter 14070: train loss 0.46458
+iter_dt 197.93ms; iter 14080: train loss 0.48087
+iter_dt 199.03ms; iter 14090: train loss 0.47809
+iter_dt 204.24ms; iter 14100: train loss 0.45533
+iter_dt 198.12ms; iter 14110: train loss 0.45595
+iter_dt 199.25ms; iter 14120: train loss 0.48479
+iter_dt 195.20ms; iter 14130: train loss 0.46537
+iter_dt 200.19ms; iter 14140: train loss 0.46968
+iter_dt 195.47ms; iter 14150: train loss 0.45806
+iter_dt 196.07ms; iter 14160: train loss 0.46553
+iter_dt 197.52ms; iter 14170: train loss 0.44960
+iter_dt 192.93ms; iter 14180: train loss 0.49185
+iter_dt 198.03ms; iter 14190: train loss 0.46339
+iter_dt 195.67ms; iter 14200: train loss 0.47401
+iter_dt 198.08ms; iter 14210: train loss 0.45763
+iter_dt 199.69ms; iter 14220: train loss 0.45154
+iter_dt 196.82ms; iter 14230: train loss 0.45056
+iter_dt 197.84ms; iter 14240: train loss 0.46675
+iter_dt 196.47ms; iter 14250: train loss 0.45312
+iter_dt 201.83ms; iter 14260: train loss 0.45685
+iter_dt 195.83ms; iter 14270: train loss 0.46969
+iter_dt 197.19ms; iter 14280: train loss 0.46332
+iter_dt 198.76ms; iter 14290: train loss 0.47177
+iter_dt 195.86ms; iter 14300: train loss 0.43222
+iter_dt 197.67ms; iter 14310: train loss 0.46261
+iter_dt 198.60ms; iter 14320: train loss 0.44263
+iter_dt 195.65ms; iter 14330: train loss 0.43986
+iter_dt 194.74ms; iter 14340: train loss 0.44535
+iter_dt 197.34ms; iter 14350: train loss 0.46429
+iter_dt 196.41ms; iter 14360: train loss 0.46224
+iter_dt 199.58ms; iter 14370: train loss 0.46400
+iter_dt 199.34ms; iter 14380: train loss 0.44138
+iter_dt 198.92ms; iter 14390: train loss 0.43493
+iter_dt 198.63ms; iter 14400: train loss 0.43340
+iter_dt 198.93ms; iter 14410: train loss 0.47908
+iter_dt 199.45ms; iter 14420: train loss 0.46992
+iter_dt 193.46ms; iter 14430: train loss 0.46280
+iter_dt 199.78ms; iter 14440: train loss 0.44399
+iter_dt 197.46ms; iter 14450: train loss 0.47320
+iter_dt 197.57ms; iter 14460: train loss 0.44358
+iter_dt 197.84ms; iter 14470: train loss 0.47349
+iter_dt 200.26ms; iter 14480: train loss 0.45787
+iter_dt 197.82ms; iter 14490: train loss 0.42635
+iter_dt 199.44ms; iter 14500: train loss 0.46259
+O God, O God! that ever I was a fault of me
+To death my master new with my stale,
+Which, till my is my employ'd wear like face,
+And thou wilt break thy power in my sleep,
+Unless thou wilt take it and with thy praises.
+
+CAPULET:
+What say you, Juliet? how is it with her?
+Doth she not think me so much on that?
+Is the apen that the number of her own?
+Ah, could'st thou not on my knife doth she be me.
+And who should hath that saw you, I am sure,
+My households striple my prayer to my brother:
+This is the utterest o
+saving model
+iter_dt 201.55ms; iter 14510: train loss 0.47816
+iter_dt 205.97ms; iter 14520: train loss 0.44322
+iter_dt 207.74ms; iter 14530: train loss 0.45507
+iter_dt 198.86ms; iter 14540: train loss 0.43055
+iter_dt 193.73ms; iter 14550: train loss 0.43806
+iter_dt 198.32ms; iter 14560: train loss 0.45881
+iter_dt 195.35ms; iter 14570: train loss 0.42762
+iter_dt 197.35ms; iter 14580: train loss 0.48062
+iter_dt 199.27ms; iter 14590: train loss 0.45305
+iter_dt 196.10ms; iter 14600: train loss 0.45269
+iter_dt 194.53ms; iter 14610: train loss 0.41686
+iter_dt 197.11ms; iter 14620: train loss 0.44663
+iter_dt 193.56ms; iter 14630: train loss 0.46224
+iter_dt 197.13ms; iter 14640: train loss 0.45171
+iter_dt 199.96ms; iter 14650: train loss 0.44099
+iter_dt 197.20ms; iter 14660: train loss 0.42846
+iter_dt 196.60ms; iter 14670: train loss 0.44756
+iter_dt 197.38ms; iter 14680: train loss 0.45494
+iter_dt 197.89ms; iter 14690: train loss 0.46501
+iter_dt 201.89ms; iter 14700: train loss 0.44140
+iter_dt 200.75ms; iter 14710: train loss 0.45714
+iter_dt 195.96ms; iter 14720: train loss 0.42135
+iter_dt 196.75ms; iter 14730: train loss 0.43519
+iter_dt 200.22ms; iter 14740: train loss 0.44209
+iter_dt 192.16ms; iter 14750: train loss 0.43470
+iter_dt 199.36ms; iter 14760: train loss 0.45841
+iter_dt 195.87ms; iter 14770: train loss 0.45776
+iter_dt 196.43ms; iter 14780: train loss 0.44618
+iter_dt 198.51ms; iter 14790: train loss 0.43945
+iter_dt 195.18ms; iter 14800: train loss 0.43935
+iter_dt 199.00ms; iter 14810: train loss 0.42037
+iter_dt 197.98ms; iter 14820: train loss 0.44700
+iter_dt 196.32ms; iter 14830: train loss 0.43421
+iter_dt 198.59ms; iter 14840: train loss 0.45578
+iter_dt 199.92ms; iter 14850: train loss 0.43114
+iter_dt 190.46ms; iter 14860: train loss 0.44295
+iter_dt 195.68ms; iter 14870: train loss 0.46664
+iter_dt 194.99ms; iter 14880: train loss 0.41529
+iter_dt 191.03ms; iter 14890: train loss 0.44404
+iter_dt 196.78ms; iter 14900: train loss 0.43660
+iter_dt 195.55ms; iter 14910: train loss 0.42559
+iter_dt 198.25ms; iter 14920: train loss 0.44278
+iter_dt 194.85ms; iter 14930: train loss 0.42316
+iter_dt 196.46ms; iter 14940: train loss 0.43457
+iter_dt 197.77ms; iter 14950: train loss 0.46747
+iter_dt 196.40ms; iter 14960: train loss 0.44501
+iter_dt 197.71ms; iter 14970: train loss 0.44788
+iter_dt 197.80ms; iter 14980: train loss 0.44027
+iter_dt 192.04ms; iter 14990: train loss 0.41365
+iter_dt 198.44ms; iter 15000: train loss 0.45165
+O God, O God! what means this scene,
+Which with unstood effect I have endured
+The dangerous sap of marriage in Leicestershire,
+Steads to drops of foul moon, and safeguard
+Equal with fire extire the antic of his cause,
+That he shuts up himself, imagine me,
+Gentle spectators, that I now may be
+In foul words after Tybalt's death,
+And therefore, Turkents: learn not it, now day.
+
+LADY CAPULET:
+Good night:
+Get that you give me leave to repent the sin
+Of Phoebus' burning kiss and child!
+
+TRANIO:
+Sir, to the fashion
+saving model
+iter_dt 203.97ms; iter 15010: train loss 0.43025
+iter_dt 196.59ms; iter 15020: train loss 0.46208
+iter_dt 198.93ms; iter 15030: train loss 0.41514
+iter_dt 202.78ms; iter 15040: train loss 0.41929
+iter_dt 191.84ms; iter 15050: train loss 0.44517
+iter_dt 198.68ms; iter 15060: train loss 0.43056
+iter_dt 200.61ms; iter 15070: train loss 0.41347
+iter_dt 195.88ms; iter 15080: train loss 0.43604
+iter_dt 200.21ms; iter 15090: train loss 0.43399
+iter_dt 193.11ms; iter 15100: train loss 0.43780
+iter_dt 193.22ms; iter 15110: train loss 0.43838
+iter_dt 200.72ms; iter 15120: train loss 0.43165
+iter_dt 196.47ms; iter 15130: train loss 0.45199
+iter_dt 195.60ms; iter 15140: train loss 0.44276
+iter_dt 200.53ms; iter 15150: train loss 0.43283
+iter_dt 196.29ms; iter 15160: train loss 0.44363
+iter_dt 194.33ms; iter 15170: train loss 0.44076
+iter_dt 194.62ms; iter 15180: train loss 0.41056
+iter_dt 197.09ms; iter 15190: train loss 0.43646
+iter_dt 199.26ms; iter 15200: train loss 0.43443
+iter_dt 191.22ms; iter 15210: train loss 0.43086
+iter_dt 200.16ms; iter 15220: train loss 0.42218
+iter_dt 190.91ms; iter 15230: train loss 0.43327
+iter_dt 199.23ms; iter 15240: train loss 0.45159
+iter_dt 201.01ms; iter 15250: train loss 0.43581
+iter_dt 198.48ms; iter 15260: train loss 0.43936
+iter_dt 196.59ms; iter 15270: train loss 0.42699
+iter_dt 199.52ms; iter 15280: train loss 0.46603
+iter_dt 193.10ms; iter 15290: train loss 0.40561
+iter_dt 194.86ms; iter 15300: train loss 0.45954
+iter_dt 195.00ms; iter 15310: train loss 0.42439
+iter_dt 196.82ms; iter 15320: train loss 0.42375
+iter_dt 192.49ms; iter 15330: train loss 0.43080
+iter_dt 197.22ms; iter 15340: train loss 0.41892
+iter_dt 194.81ms; iter 15350: train loss 0.43902
+iter_dt 197.24ms; iter 15360: train loss 0.43861
+iter_dt 199.55ms; iter 15370: train loss 0.44860
+iter_dt 203.25ms; iter 15380: train loss 0.41589
+iter_dt 204.82ms; iter 15390: train loss 0.42868
+iter_dt 195.43ms; iter 15400: train loss 0.43569
+iter_dt 194.58ms; iter 15410: train loss 0.41526
+iter_dt 201.71ms; iter 15420: train loss 0.45346
+iter_dt 196.88ms; iter 15430: train loss 0.42465
+iter_dt 194.99ms; iter 15440: train loss 0.41353
+iter_dt 195.41ms; iter 15450: train loss 0.39352
+iter_dt 196.38ms; iter 15460: train loss 0.46931
+iter_dt 197.15ms; iter 15470: train loss 0.43623
+iter_dt 196.99ms; iter 15480: train loss 0.40154
+iter_dt 193.71ms; iter 15490: train loss 0.41489
+iter_dt 202.61ms; iter 15500: train loss 0.40936
+O God, O God! holy faith, for I must die,
+Or else die with such a boltle weed!
+O, would the deep--mouth'd brach thee have sworn said!
+Bruthen, I pray; say, go with him; and find up:
+Though he be all too leathed for meat to joy but so;
+I was a man very for lance.
+
+Nurse:
+Peter, stay at the farlood:
+Just heavy still, and go with me;
+And go, but I was I not here:
+Go home to bed, and go we know your men.
+
+LADY GREY:
+Then, nover budding pardon of a dower
+More than it is envious?
+
+ISABELLA:
+Believe me, fe seen, es
+saving model
+iter_dt 201.73ms; iter 15510: train loss 0.42742
+iter_dt 196.79ms; iter 15520: train loss 0.41763
+iter_dt 201.45ms; iter 15530: train loss 0.43526
+iter_dt 202.86ms; iter 15540: train loss 0.44841
+iter_dt 195.07ms; iter 15550: train loss 0.42105
+iter_dt 197.78ms; iter 15560: train loss 0.42937
+iter_dt 198.38ms; iter 15570: train loss 0.42786
+iter_dt 197.42ms; iter 15580: train loss 0.42393
+iter_dt 194.52ms; iter 15590: train loss 0.43067
+iter_dt 196.52ms; iter 15600: train loss 0.44413
+iter_dt 194.93ms; iter 15610: train loss 0.41240
+iter_dt 197.32ms; iter 15620: train loss 0.43899
+iter_dt 192.85ms; iter 15630: train loss 0.43066
+iter_dt 195.93ms; iter 15640: train loss 0.40685
+iter_dt 195.85ms; iter 15650: train loss 0.43319
+iter_dt 191.36ms; iter 15660: train loss 0.41053
+iter_dt 195.36ms; iter 15670: train loss 0.42908
+iter_dt 202.04ms; iter 15680: train loss 0.42196
+iter_dt 198.19ms; iter 15690: train loss 0.43061
+iter_dt 200.08ms; iter 15700: train loss 0.41108
+iter_dt 199.45ms; iter 15710: train loss 0.44064
+iter_dt 198.94ms; iter 15720: train loss 0.41355
+iter_dt 198.49ms; iter 15730: train loss 0.40821
+iter_dt 198.42ms; iter 15740: train loss 0.43644
+iter_dt 196.91ms; iter 15750: train loss 0.41540
+iter_dt 196.30ms; iter 15760: train loss 0.42762
+iter_dt 197.63ms; iter 15770: train loss 0.42263
+iter_dt 198.02ms; iter 15780: train loss 0.42334
+iter_dt 195.08ms; iter 15790: train loss 0.45219
+iter_dt 197.66ms; iter 15800: train loss 0.41788
+iter_dt 195.17ms; iter 15810: train loss 0.43148
+iter_dt 200.54ms; iter 15820: train loss 0.43242
+iter_dt 189.90ms; iter 15830: train loss 0.42412
+iter_dt 199.59ms; iter 15840: train loss 0.41469
+iter_dt 192.99ms; iter 15850: train loss 0.42186
+iter_dt 196.41ms; iter 15860: train loss 0.41939
+iter_dt 192.96ms; iter 15870: train loss 0.42010
+iter_dt 197.00ms; iter 15880: train loss 0.43414
+iter_dt 201.45ms; iter 15890: train loss 0.43388
+iter_dt 192.58ms; iter 15900: train loss 0.42228
+iter_dt 195.39ms; iter 15910: train loss 0.42959
+iter_dt 202.88ms; iter 15920: train loss 0.42010
+iter_dt 197.67ms; iter 15930: train loss 0.39126
+iter_dt 196.60ms; iter 15940: train loss 0.42056
+iter_dt 194.07ms; iter 15950: train loss 0.41251
+iter_dt 196.28ms; iter 15960: train loss 0.41868
+iter_dt 201.69ms; iter 15970: train loss 0.40576
+iter_dt 202.37ms; iter 15980: train loss 0.42770
+iter_dt 200.86ms; iter 15990: train loss 0.41536
+iter_dt 198.25ms; iter 16000: train loss 0.43896
+O God, O God! what might they have met.
+
+GLOUCESTER:
+They must not now, so deliver in this:
+The queen is very short in their behalf
+Armies of pestilence; and my raiming Beneti
+On Bohemia, and the Lucio marriage me,
+As if you married to me the master looked
+Betwixt the penure of this earth's tomb,
+And graced thy father liveth to the bottom of deceit?
+And art thou poor both and tender for that word?
+
+KING RICHARD II:
+What said Northumberland? wilt thou so?
+
+NORTHUMBERLAND:
+How far off the gates of York fetcome
+saving model
+iter_dt 202.68ms; iter 16010: train loss 0.39245
+iter_dt 208.64ms; iter 16020: train loss 0.41719
+iter_dt 201.37ms; iter 16030: train loss 0.42876
+iter_dt 194.74ms; iter 16040: train loss 0.41159
+iter_dt 200.88ms; iter 16050: train loss 0.44762
+iter_dt 198.06ms; iter 16060: train loss 0.42572
+iter_dt 200.28ms; iter 16070: train loss 0.42173
+iter_dt 191.25ms; iter 16080: train loss 0.39669
+iter_dt 200.77ms; iter 16090: train loss 0.41990
+iter_dt 204.84ms; iter 16100: train loss 0.41486
+iter_dt 202.06ms; iter 16110: train loss 0.41474
+iter_dt 201.78ms; iter 16120: train loss 0.42722
+iter_dt 198.98ms; iter 16130: train loss 0.40319
+iter_dt 197.21ms; iter 16140: train loss 0.41064
+iter_dt 196.71ms; iter 16150: train loss 0.41221
+iter_dt 194.94ms; iter 16160: train loss 0.41580
+iter_dt 195.01ms; iter 16170: train loss 0.41371
+iter_dt 196.73ms; iter 16180: train loss 0.42408
+iter_dt 195.79ms; iter 16190: train loss 0.41898
+iter_dt 194.28ms; iter 16200: train loss 0.43262
+iter_dt 193.88ms; iter 16210: train loss 0.39933
+iter_dt 196.72ms; iter 16220: train loss 0.41619
+iter_dt 196.98ms; iter 16230: train loss 0.40824
+iter_dt 199.66ms; iter 16240: train loss 0.43101
+iter_dt 199.80ms; iter 16250: train loss 0.43494
+iter_dt 195.23ms; iter 16260: train loss 0.39775
+iter_dt 196.00ms; iter 16270: train loss 0.39677
+iter_dt 196.53ms; iter 16280: train loss 0.42495
+iter_dt 198.36ms; iter 16290: train loss 0.40561
+iter_dt 194.82ms; iter 16300: train loss 0.41098
+iter_dt 198.08ms; iter 16310: train loss 0.40691
+iter_dt 194.79ms; iter 16320: train loss 0.42410
+iter_dt 198.46ms; iter 16330: train loss 0.37714
+iter_dt 198.50ms; iter 16340: train loss 0.38534
+iter_dt 195.92ms; iter 16350: train loss 0.41155
+iter_dt 196.46ms; iter 16360: train loss 0.40327
+iter_dt 198.41ms; iter 16370: train loss 0.42246
+iter_dt 190.12ms; iter 16380: train loss 0.40865
+iter_dt 193.97ms; iter 16390: train loss 0.41807
+iter_dt 195.62ms; iter 16400: train loss 0.40973
+iter_dt 199.33ms; iter 16410: train loss 0.40727
+iter_dt 196.26ms; iter 16420: train loss 0.40123
+iter_dt 194.10ms; iter 16430: train loss 0.40178
+iter_dt 189.80ms; iter 16440: train loss 0.41880
+iter_dt 193.95ms; iter 16450: train loss 0.39540
+iter_dt 198.08ms; iter 16460: train loss 0.40272
+iter_dt 195.93ms; iter 16470: train loss 0.41053
+iter_dt 198.36ms; iter 16480: train loss 0.38275
+iter_dt 197.14ms; iter 16490: train loss 0.40827
+iter_dt 194.23ms; iter 16500: train loss 0.40517
+O God, O God! that e'er this tongue's load,
+Is our fight courage in the soul dig of ourselves
+Are made all endowels for a hermitage.
+See you the father along; and therefore be
+pity to be their throne intents, present
+words you have been afoot.
+
+AUTOLYCUS:
+O, peace! the keepers she mouth with a bottom
+of brown thread: the love of the ombassador,
+The title scandal paths to their trenches driven,
+And then many a spect day which thou livest!
+A cockatrice hast thou woo here butcher'd.
+
+PARIS:
+O, I will to the kin
+saving model
+iter_dt 200.46ms; iter 16510: train loss 0.41635
+iter_dt 202.43ms; iter 16520: train loss 0.41065
+iter_dt 206.42ms; iter 16530: train loss 0.41175
+iter_dt 201.49ms; iter 16540: train loss 0.41015
+iter_dt 191.24ms; iter 16550: train loss 0.42073
+iter_dt 194.84ms; iter 16560: train loss 0.43253
+iter_dt 199.39ms; iter 16570: train loss 0.40530
+iter_dt 195.55ms; iter 16580: train loss 0.41144
+iter_dt 200.19ms; iter 16590: train loss 0.39919
+iter_dt 198.97ms; iter 16600: train loss 0.40224
+iter_dt 196.25ms; iter 16610: train loss 0.39234
+iter_dt 199.21ms; iter 16620: train loss 0.39890
+iter_dt 195.86ms; iter 16630: train loss 0.40432
+iter_dt 201.05ms; iter 16640: train loss 0.40496
+iter_dt 198.49ms; iter 16650: train loss 0.42860
+iter_dt 197.83ms; iter 16660: train loss 0.41589
+iter_dt 196.10ms; iter 16670: train loss 0.40588
+iter_dt 198.09ms; iter 16680: train loss 0.40606
+iter_dt 197.96ms; iter 16690: train loss 0.40703
+iter_dt 199.26ms; iter 16700: train loss 0.42790
+iter_dt 198.58ms; iter 16710: train loss 0.43797
+iter_dt 204.21ms; iter 16720: train loss 0.41037
+iter_dt 197.89ms; iter 16730: train loss 0.42354
+iter_dt 198.60ms; iter 16740: train loss 0.41486
+iter_dt 199.12ms; iter 16750: train loss 0.39121
+iter_dt 195.33ms; iter 16760: train loss 0.42268
+iter_dt 197.46ms; iter 16770: train loss 0.40665
+iter_dt 198.15ms; iter 16780: train loss 0.39549
+iter_dt 194.43ms; iter 16790: train loss 0.37340
+iter_dt 199.55ms; iter 16800: train loss 0.41640
+iter_dt 196.75ms; iter 16810: train loss 0.38248
+iter_dt 197.22ms; iter 16820: train loss 0.41992
+iter_dt 197.16ms; iter 16830: train loss 0.40410
+iter_dt 200.54ms; iter 16840: train loss 0.39291
+iter_dt 197.84ms; iter 16850: train loss 0.37159
+iter_dt 201.29ms; iter 16860: train loss 0.40020
+iter_dt 199.96ms; iter 16870: train loss 0.39251
+iter_dt 197.44ms; iter 16880: train loss 0.39856
+iter_dt 196.89ms; iter 16890: train loss 0.39408
+iter_dt 196.49ms; iter 16900: train loss 0.40759
+iter_dt 192.90ms; iter 16910: train loss 0.41407
+iter_dt 198.56ms; iter 16920: train loss 0.40441
+iter_dt 195.82ms; iter 16930: train loss 0.39151
+iter_dt 194.81ms; iter 16940: train loss 0.39393
+iter_dt 195.16ms; iter 16950: train loss 0.38567
+iter_dt 194.54ms; iter 16960: train loss 0.41565
+iter_dt 194.80ms; iter 16970: train loss 0.40276
+iter_dt 199.55ms; iter 16980: train loss 0.40164
+iter_dt 199.28ms; iter 16990: train loss 0.41038
+iter_dt 194.78ms; iter 17000: train loss 0.38661
+O God, O God! that's the quarrel all the sun?
+And thou shalt quickly know the issue of it.
+
+KING EDWARD IV:
+Tyrrel, I have my dainty dukedom scaled.
+
+GLOUCESTER:
+
+CLARENCE:
+
+GLOUCESTER:
+
+KING EDWARD IV:
+
+LADY GREY:
+'Tis full three months since I saw him rises,
+With whom above heavy and recreant,
+And watch him with all exempts good.
+
+PERDITA:
+Are they, Ariel,
+And you were they comparent. Let us see the writing.
+Down:
+If that the deed is so well for Kate will be my bed,
+And the King is Kate that must be, if Ka
+saving model
+iter_dt 202.28ms; iter 17010: train loss 0.38653
+iter_dt 202.40ms; iter 17020: train loss 0.40714
+iter_dt 199.90ms; iter 17030: train loss 0.39959
+iter_dt 199.48ms; iter 17040: train loss 0.39150
+iter_dt 200.41ms; iter 17050: train loss 0.39269
+iter_dt 199.81ms; iter 17060: train loss 0.39077
+iter_dt 198.01ms; iter 17070: train loss 0.39495
+iter_dt 199.00ms; iter 17080: train loss 0.39564
+iter_dt 190.99ms; iter 17090: train loss 0.41520
+iter_dt 201.87ms; iter 17100: train loss 0.38715
+iter_dt 197.08ms; iter 17110: train loss 0.38011
+iter_dt 194.48ms; iter 17120: train loss 0.41774
+iter_dt 195.75ms; iter 17130: train loss 0.39119
+iter_dt 198.70ms; iter 17140: train loss 0.42325
+iter_dt 193.58ms; iter 17150: train loss 0.38066
+iter_dt 208.96ms; iter 17160: train loss 0.39877
+iter_dt 197.99ms; iter 17170: train loss 0.40348
+iter_dt 198.88ms; iter 17180: train loss 0.38901
+iter_dt 200.24ms; iter 17190: train loss 0.40029
+iter_dt 196.57ms; iter 17200: train loss 0.39694
+iter_dt 195.11ms; iter 17210: train loss 0.37061
+iter_dt 198.75ms; iter 17220: train loss 0.39748
+iter_dt 198.68ms; iter 17230: train loss 0.37139
+iter_dt 198.51ms; iter 17240: train loss 0.42655
+iter_dt 198.04ms; iter 17250: train loss 0.37047
+iter_dt 199.22ms; iter 17260: train loss 0.35577
+iter_dt 198.01ms; iter 17270: train loss 0.38659
+iter_dt 199.55ms; iter 17280: train loss 0.38855
+iter_dt 196.40ms; iter 17290: train loss 0.38173
+iter_dt 198.05ms; iter 17300: train loss 0.39932
+iter_dt 194.36ms; iter 17310: train loss 0.39245
+iter_dt 199.55ms; iter 17320: train loss 0.39433
+iter_dt 201.22ms; iter 17330: train loss 0.38172
+iter_dt 197.24ms; iter 17340: train loss 0.39408
+iter_dt 198.09ms; iter 17350: train loss 0.40637
+iter_dt 196.48ms; iter 17360: train loss 0.39220
+iter_dt 200.34ms; iter 17370: train loss 0.39260
+iter_dt 202.41ms; iter 17380: train loss 0.37531
+iter_dt 197.59ms; iter 17390: train loss 0.38498
+iter_dt 196.07ms; iter 17400: train loss 0.38803
+iter_dt 197.43ms; iter 17410: train loss 0.38488
+iter_dt 198.70ms; iter 17420: train loss 0.38069
+iter_dt 195.98ms; iter 17430: train loss 0.39583
+iter_dt 201.92ms; iter 17440: train loss 0.38882
+iter_dt 199.47ms; iter 17450: train loss 0.38516
+iter_dt 197.33ms; iter 17460: train loss 0.37031
+iter_dt 198.41ms; iter 17470: train loss 0.39614
+iter_dt 196.58ms; iter 17480: train loss 0.39440
+iter_dt 200.15ms; iter 17490: train loss 0.38811
+iter_dt 193.48ms; iter 17500: train loss 0.40502
+O God, O God! that e'er this tongue of my love:
+And must we be gone to prove a tower our dreams,
+And he shall scant see his chastisement.
+
+JULIET:
+That may be right; but he, you will not be known;
+I live not as little.
+
+CAPULET:
+Go, night, get thee hence, hid with a freal toe.
+
+KING HENRY VI:
+Having both, we'll after this at Bohemia?
+
+HORTENSIO:
+That's a wonder, by your leave, she hath been much amended.
+
+PETRUCHIO:
+Why, that is my father, strike all and gracious.
+
+GREMIO:
+And so done, is well.
+How now, knoc
+saving model
+iter_dt 208.26ms; iter 17510: train loss 0.38480
+iter_dt 206.56ms; iter 17520: train loss 0.39191
+iter_dt 200.06ms; iter 17530: train loss 0.38964
+iter_dt 201.59ms; iter 17540: train loss 0.39120
+iter_dt 197.18ms; iter 17550: train loss 0.39252
+iter_dt 199.40ms; iter 17560: train loss 0.39884
+iter_dt 194.81ms; iter 17570: train loss 0.39644
+iter_dt 199.29ms; iter 17580: train loss 0.38569
+iter_dt 201.66ms; iter 17590: train loss 0.39016
+iter_dt 198.75ms; iter 17600: train loss 0.38734
+iter_dt 195.55ms; iter 17610: train loss 0.40122
+iter_dt 200.72ms; iter 17620: train loss 0.38499
+iter_dt 204.48ms; iter 17630: train loss 0.38318
+iter_dt 204.80ms; iter 17640: train loss 0.39856
+iter_dt 200.05ms; iter 17650: train loss 0.39518
+iter_dt 202.31ms; iter 17660: train loss 0.38975
+iter_dt 194.20ms; iter 17670: train loss 0.40850
+iter_dt 196.44ms; iter 17680: train loss 0.38138
+iter_dt 197.87ms; iter 17690: train loss 0.37837
+iter_dt 195.40ms; iter 17700: train loss 0.37025
+iter_dt 196.64ms; iter 17710: train loss 0.36600
+iter_dt 202.22ms; iter 17720: train loss 0.40943
+iter_dt 204.69ms; iter 17730: train loss 0.38356
+iter_dt 201.51ms; iter 17740: train loss 0.36963
+iter_dt 195.83ms; iter 17750: train loss 0.39592
+iter_dt 197.56ms; iter 17760: train loss 0.37420
+iter_dt 195.78ms; iter 17770: train loss 0.38334
+iter_dt 198.18ms; iter 17780: train loss 0.38041
+iter_dt 199.34ms; iter 17790: train loss 0.37340
+iter_dt 197.64ms; iter 17800: train loss 0.39529
+iter_dt 198.12ms; iter 17810: train loss 0.35923
+iter_dt 202.31ms; iter 17820: train loss 0.39455
+iter_dt 202.52ms; iter 17830: train loss 0.38292
+iter_dt 199.11ms; iter 17840: train loss 0.38884
+iter_dt 200.39ms; iter 17850: train loss 0.38225
+iter_dt 204.38ms; iter 17860: train loss 0.38623
+iter_dt 195.00ms; iter 17870: train loss 0.38277
+iter_dt 198.54ms; iter 17880: train loss 0.38372
+iter_dt 193.98ms; iter 17890: train loss 0.40443
+iter_dt 202.03ms; iter 17900: train loss 0.38794
+iter_dt 203.56ms; iter 17910: train loss 0.39628
+iter_dt 197.88ms; iter 17920: train loss 0.39976
+iter_dt 199.44ms; iter 17930: train loss 0.36152
+iter_dt 196.53ms; iter 17940: train loss 0.36930
+iter_dt 196.62ms; iter 17950: train loss 0.36530
+iter_dt 199.68ms; iter 17960: train loss 0.38262
+iter_dt 194.01ms; iter 17970: train loss 0.35649
+iter_dt 194.08ms; iter 17980: train loss 0.39189
+iter_dt 197.41ms; iter 17990: train loss 0.37983
+iter_dt 200.09ms; iter 18000: train loss 0.38795
+O God, O God! methinks my haste doth deposed;
+But, as I said, the duke, great Bolingbroke,
+Mounted upon a hot and fiery starveth to hide his body,
+And do the bridal to me or a death of worm.
+You are passing out: yet I believe thee,
+Beguile thee on death, grand in the towns about,
+To merit blister cleansing thee in my death,
+Let there with no man here and there and there
+My mate, that's never to be found again,
+Lament till to act her Sizalish thriverd there,
+For come hither, and this fearful time about
+To sca
+saving model
+iter_dt 207.41ms; iter 18010: train loss 0.37796
+iter_dt 205.98ms; iter 18020: train loss 0.36476
+iter_dt 209.17ms; iter 18030: train loss 0.37549
+iter_dt 201.44ms; iter 18040: train loss 0.37363
+iter_dt 201.46ms; iter 18050: train loss 0.37433
+iter_dt 198.03ms; iter 18060: train loss 0.39514
+iter_dt 196.88ms; iter 18070: train loss 0.37976
+iter_dt 200.39ms; iter 18080: train loss 0.38575
+iter_dt 196.20ms; iter 18090: train loss 0.37617
+iter_dt 201.67ms; iter 18100: train loss 0.37856
+iter_dt 196.55ms; iter 18110: train loss 0.38241
+iter_dt 199.86ms; iter 18120: train loss 0.37851
+iter_dt 199.13ms; iter 18130: train loss 0.37960
+iter_dt 203.73ms; iter 18140: train loss 0.37539
+iter_dt 200.23ms; iter 18150: train loss 0.39412
+iter_dt 202.78ms; iter 18160: train loss 0.37473
+iter_dt 193.93ms; iter 18170: train loss 0.37217
+iter_dt 199.15ms; iter 18180: train loss 0.38192
+iter_dt 202.38ms; iter 18190: train loss 0.38292
+iter_dt 199.68ms; iter 18200: train loss 0.39372
+iter_dt 200.50ms; iter 18210: train loss 0.37466
+iter_dt 195.67ms; iter 18220: train loss 0.38332
+iter_dt 197.87ms; iter 18230: train loss 0.37815
+iter_dt 201.58ms; iter 18240: train loss 0.36764
+iter_dt 199.12ms; iter 18250: train loss 0.35655
+iter_dt 205.00ms; iter 18260: train loss 0.37448
+iter_dt 200.58ms; iter 18270: train loss 0.37786
+iter_dt 199.01ms; iter 18280: train loss 0.39196
+iter_dt 192.96ms; iter 18290: train loss 0.37784
+iter_dt 201.09ms; iter 18300: train loss 0.36384
+iter_dt 198.61ms; iter 18310: train loss 0.40425
+iter_dt 197.44ms; iter 18320: train loss 0.37849
+iter_dt 204.28ms; iter 18330: train loss 0.38121
+iter_dt 193.23ms; iter 18340: train loss 0.39247
+iter_dt 196.15ms; iter 18350: train loss 0.37726
+iter_dt 200.92ms; iter 18360: train loss 0.37919
+iter_dt 197.80ms; iter 18370: train loss 0.37912
+iter_dt 205.01ms; iter 18380: train loss 0.38149
+iter_dt 194.13ms; iter 18390: train loss 0.37683
+iter_dt 197.45ms; iter 18400: train loss 0.37692
+iter_dt 198.53ms; iter 18410: train loss 0.39889
+iter_dt 197.87ms; iter 18420: train loss 0.38887
+iter_dt 200.63ms; iter 18430: train loss 0.38566
+iter_dt 199.57ms; iter 18440: train loss 0.38515
+iter_dt 198.34ms; iter 18450: train loss 0.38092
+iter_dt 200.44ms; iter 18460: train loss 0.36601
+iter_dt 197.81ms; iter 18470: train loss 0.35963
+iter_dt 197.19ms; iter 18480: train loss 0.37297
+iter_dt 195.89ms; iter 18490: train loss 0.39623
+iter_dt 198.34ms; iter 18500: train loss 0.36576
+O God, O God! shall mend my master wife
+So sweet is the Lady Bona, with so such wife
+That Henry, sole sort make his base.
+
+First Keeper:
+That charge his state that e'er he had follow me.
+
+KING HENRY VI:
+Out, look'd good for hellow in thy heart's dead;
+There was full assamed: if the time
+Did now hold thee o'er, thou hast awaken us.
+
+SICINIUS:
+Assemble presently the people's mouths,
+With humble hath ternaments or a dolest shadow spoil
+Which he thinks, and is no less his pitiful,
+Lest it be so; there is more me
+saving model
+iter_dt 200.69ms; iter 18510: train loss 0.37981
+iter_dt 203.55ms; iter 18520: train loss 0.36218
+iter_dt 202.82ms; iter 18530: train loss 0.38110
+iter_dt 197.92ms; iter 18540: train loss 0.37735
+iter_dt 203.69ms; iter 18550: train loss 0.38000
+iter_dt 193.30ms; iter 18560: train loss 0.37380
+iter_dt 195.14ms; iter 18570: train loss 0.38484
+iter_dt 196.81ms; iter 18580: train loss 0.36731
+iter_dt 203.64ms; iter 18590: train loss 0.38273
+iter_dt 200.34ms; iter 18600: train loss 0.36994
+iter_dt 204.40ms; iter 18610: train loss 0.37192
+iter_dt 200.40ms; iter 18620: train loss 0.36838
+iter_dt 199.01ms; iter 18630: train loss 0.34801
+iter_dt 204.26ms; iter 18640: train loss 0.36720
+iter_dt 199.68ms; iter 18650: train loss 0.37850
+iter_dt 200.94ms; iter 18660: train loss 0.37602
+iter_dt 204.68ms; iter 18670: train loss 0.39464
+iter_dt 197.56ms; iter 18680: train loss 0.37988
+iter_dt 195.29ms; iter 18690: train loss 0.36121
+iter_dt 200.87ms; iter 18700: train loss 0.36711
+iter_dt 195.18ms; iter 18710: train loss 0.38441
+iter_dt 202.69ms; iter 18720: train loss 0.39487
+iter_dt 198.91ms; iter 18730: train loss 0.38368
+iter_dt 194.44ms; iter 18740: train loss 0.37455
+iter_dt 201.30ms; iter 18750: train loss 0.38907
+iter_dt 198.87ms; iter 18760: train loss 0.33817
+iter_dt 193.98ms; iter 18770: train loss 0.37139
+iter_dt 194.78ms; iter 18780: train loss 0.36805
+iter_dt 193.65ms; iter 18790: train loss 0.37253
+iter_dt 199.31ms; iter 18800: train loss 0.37259
+iter_dt 197.24ms; iter 18810: train loss 0.37137
+iter_dt 196.10ms; iter 18820: train loss 0.37991
+iter_dt 195.37ms; iter 18830: train loss 0.37053
+iter_dt 198.94ms; iter 18840: train loss 0.38395
+iter_dt 193.59ms; iter 18850: train loss 0.36281
+iter_dt 198.06ms; iter 18860: train loss 0.36551
+iter_dt 194.01ms; iter 18870: train loss 0.38545
+iter_dt 195.95ms; iter 18880: train loss 0.36437
+iter_dt 200.20ms; iter 18890: train loss 0.37721
+iter_dt 198.68ms; iter 18900: train loss 0.37342
+iter_dt 202.11ms; iter 18910: train loss 0.35857
+iter_dt 196.27ms; iter 18920: train loss 0.36264
+iter_dt 199.46ms; iter 18930: train loss 0.35532
+iter_dt 196.57ms; iter 18940: train loss 0.38209
+iter_dt 199.15ms; iter 18950: train loss 0.36316
+iter_dt 199.11ms; iter 18960: train loss 0.37243
+iter_dt 199.71ms; iter 18970: train loss 0.37582
+iter_dt 198.65ms; iter 18980: train loss 0.36490
+iter_dt 198.94ms; iter 18990: train loss 0.34783
+iter_dt 196.02ms; iter 19000: train loss 0.37261
+O God, O God! that ever I slew thy brother!
+Lo, this unlook'd-for sport come to joy!
+
+TRANIO:
+Perhaps you have done what with you most upon,
+This hand fully did us here have they
+Deliver'd me to him, and remain with beauty;
+Nor with my duteous lord my shame
+Until the white rose and the redeem from the
+lurking a poison. Stand up the bloody foot.
+
+WARWICK:
+Little lord mayor, there has Tybalt done so much determine
+That bes the time moves, foul and duty!
+
+GLOUCESTER:
+Now is the winter of our discontent.
+
+HASTIN
+saving model
+iter_dt 202.42ms; iter 19010: train loss 0.36202
+iter_dt 207.15ms; iter 19020: train loss 0.35237
+iter_dt 203.01ms; iter 19030: train loss 0.36932
+iter_dt 198.57ms; iter 19040: train loss 0.39667
+iter_dt 199.00ms; iter 19050: train loss 0.37578
+iter_dt 200.71ms; iter 19060: train loss 0.35026
+iter_dt 201.19ms; iter 19070: train loss 0.37440
+iter_dt 200.55ms; iter 19080: train loss 0.37630
+iter_dt 192.96ms; iter 19090: train loss 0.37442
+iter_dt 195.66ms; iter 19100: train loss 0.36322
+iter_dt 192.47ms; iter 19110: train loss 0.37431
+iter_dt 201.95ms; iter 19120: train loss 0.36386
+iter_dt 198.66ms; iter 19130: train loss 0.35474
+iter_dt 199.35ms; iter 19140: train loss 0.36942
+iter_dt 200.21ms; iter 19150: train loss 0.38052
+iter_dt 205.28ms; iter 19160: train loss 0.35323
+iter_dt 199.90ms; iter 19170: train loss 0.38502
+iter_dt 205.50ms; iter 19180: train loss 0.35845
+iter_dt 204.28ms; iter 19190: train loss 0.36499
+iter_dt 194.52ms; iter 19200: train loss 0.35908
+iter_dt 200.53ms; iter 19210: train loss 0.39341
+iter_dt 197.54ms; iter 19220: train loss 0.36813
+iter_dt 199.46ms; iter 19230: train loss 0.37310
+iter_dt 206.09ms; iter 19240: train loss 0.36014
+iter_dt 201.65ms; iter 19250: train loss 0.38042
+iter_dt 199.79ms; iter 19260: train loss 0.37865
+iter_dt 197.33ms; iter 19270: train loss 0.36464
+iter_dt 197.24ms; iter 19280: train loss 0.36537
+iter_dt 200.12ms; iter 19290: train loss 0.37288
+iter_dt 202.23ms; iter 19300: train loss 0.35182
+iter_dt 195.23ms; iter 19310: train loss 0.36017
+iter_dt 196.95ms; iter 19320: train loss 0.35854
+iter_dt 195.93ms; iter 19330: train loss 0.38285
+iter_dt 199.51ms; iter 19340: train loss 0.39098
+iter_dt 200.86ms; iter 19350: train loss 0.38073
+iter_dt 194.26ms; iter 19360: train loss 0.36850
+iter_dt 198.41ms; iter 19370: train loss 0.36912
+iter_dt 197.18ms; iter 19380: train loss 0.37155
+iter_dt 201.06ms; iter 19390: train loss 0.36105
+iter_dt 199.81ms; iter 19400: train loss 0.35770
+iter_dt 201.08ms; iter 19410: train loss 0.34860
+iter_dt 202.95ms; iter 19420: train loss 0.37787
+iter_dt 198.74ms; iter 19430: train loss 0.37159
+iter_dt 203.01ms; iter 19440: train loss 0.36699
+iter_dt 199.57ms; iter 19450: train loss 0.35115
+iter_dt 195.76ms; iter 19460: train loss 0.37365
+iter_dt 198.83ms; iter 19470: train loss 0.36670
+iter_dt 199.87ms; iter 19480: train loss 0.38602
+iter_dt 199.18ms; iter 19490: train loss 0.36194
+iter_dt 199.33ms; iter 19500: train loss 0.34947
+O God, O God! that e'er this tongue of mine,
+That laid the sentence of dread banishment
+On yon proud man, should you stand know no more?
+
+DUKE VINCENTIO:
+What, are you marry?
+
+MARIANA:
+No, my lord.
+
+DUKE VINCENTIO:
+A widow may derive to give him lead for.
+
+GLOUCESTER:
+He is a wonder; looks let's see thee see the writing.
+
+DUKE OF AUMERLE:
+I do beseech your grace to pardon me:
+It is a matter flesh of consents; 'tis them too late.
+
+Lord:
+Huntsman, I pray; bear these my head into
+a cestard: as she shall have no
+saving model
+iter_dt 197.91ms; iter 19510: train loss 0.35350
+iter_dt 204.85ms; iter 19520: train loss 0.34568
+iter_dt 200.22ms; iter 19530: train loss 0.36071
+iter_dt 201.66ms; iter 19540: train loss 0.36074
+iter_dt 200.15ms; iter 19550: train loss 0.35850
+iter_dt 203.60ms; iter 19560: train loss 0.34423
+iter_dt 197.09ms; iter 19570: train loss 0.34826
+iter_dt 195.55ms; iter 19580: train loss 0.36754
+iter_dt 199.74ms; iter 19590: train loss 0.35440
+iter_dt 200.98ms; iter 19600: train loss 0.36534
+iter_dt 200.02ms; iter 19610: train loss 0.34410
+iter_dt 200.84ms; iter 19620: train loss 0.37391
+iter_dt 199.47ms; iter 19630: train loss 0.36740
+iter_dt 196.85ms; iter 19640: train loss 0.35234
+iter_dt 200.63ms; iter 19650: train loss 0.35703
+iter_dt 196.60ms; iter 19660: train loss 0.37367
+iter_dt 198.34ms; iter 19670: train loss 0.36421
+iter_dt 202.29ms; iter 19680: train loss 0.37400
+iter_dt 196.06ms; iter 19690: train loss 0.35386
+iter_dt 199.57ms; iter 19700: train loss 0.34029
+iter_dt 197.72ms; iter 19710: train loss 0.34663
+iter_dt 197.17ms; iter 19720: train loss 0.36418
+iter_dt 196.16ms; iter 19730: train loss 0.37773
+iter_dt 190.74ms; iter 19740: train loss 0.35244
+iter_dt 199.70ms; iter 19750: train loss 0.33459
+iter_dt 206.65ms; iter 19760: train loss 0.37092
+iter_dt 197.15ms; iter 19770: train loss 0.34933
+iter_dt 198.02ms; iter 19780: train loss 0.36760
+iter_dt 201.61ms; iter 19790: train loss 0.36012
+iter_dt 196.23ms; iter 19800: train loss 0.35691
+iter_dt 194.73ms; iter 19810: train loss 0.35877
+iter_dt 200.79ms; iter 19820: train loss 0.36822
+iter_dt 204.37ms; iter 19830: train loss 0.37410
+iter_dt 200.70ms; iter 19840: train loss 0.36276
+iter_dt 200.10ms; iter 19850: train loss 0.35584
+iter_dt 201.26ms; iter 19860: train loss 0.37552
+iter_dt 201.74ms; iter 19870: train loss 0.34975
+iter_dt 202.05ms; iter 19880: train loss 0.35544
+iter_dt 196.20ms; iter 19890: train loss 0.35825
+iter_dt 201.62ms; iter 19900: train loss 0.36420
+iter_dt 201.91ms; iter 19910: train loss 0.36332
+iter_dt 194.31ms; iter 19920: train loss 0.35330
+iter_dt 197.03ms; iter 19930: train loss 0.36361
+iter_dt 196.45ms; iter 19940: train loss 0.36922
+iter_dt 197.92ms; iter 19950: train loss 0.35681
+iter_dt 201.70ms; iter 19960: train loss 0.37364
+iter_dt 197.83ms; iter 19970: train loss 0.35154
+iter_dt 200.85ms; iter 19980: train loss 0.34856
+iter_dt 200.88ms; iter 19990: train loss 0.35044
+iter_dt 199.13ms; iter 20000: train loss 0.36510
+O God, O God!
+
+HASTINGS:
+What is't o'clock?
+
+Messenger:
+Upon the stroke of four.
+
+HASTINGS:
+Cannot thy master sleep these tedious nights?
+
+WARWICK:
+They have sworn to Henry their slaints and handkerches here,
+Upon their fiery cheeks to their way,
+Aid, and in scriples nature, their own way,
+Doing annoyance to the treacherous feet
+Which with the unsatiate words and forsake
+His statues of our sea-sorrow; nay, let's see
+these wounds ado.
+
+Boatswain:
+Is it more to prison?
+
+MISTRESS OVERDONE:
+Good my lord, bear wi
+saving model
+iter_dt 205.48ms; iter 20010: train loss 0.36691
+iter_dt 200.85ms; iter 20020: train loss 0.35677
+iter_dt 199.87ms; iter 20030: train loss 0.35209
+iter_dt 197.69ms; iter 20040: train loss 0.35838
+iter_dt 195.79ms; iter 20050: train loss 0.37092
+iter_dt 198.68ms; iter 20060: train loss 0.34601
+iter_dt 193.49ms; iter 20070: train loss 0.34244
+iter_dt 199.63ms; iter 20080: train loss 0.34860
+iter_dt 200.28ms; iter 20090: train loss 0.37680
+iter_dt 199.00ms; iter 20100: train loss 0.37901
+iter_dt 205.35ms; iter 20110: train loss 0.35423
+iter_dt 203.01ms; iter 20120: train loss 0.36286
+iter_dt 199.05ms; iter 20130: train loss 0.37049
+iter_dt 194.85ms; iter 20140: train loss 0.34864
+iter_dt 195.55ms; iter 20150: train loss 0.36308
+iter_dt 201.80ms; iter 20160: train loss 0.34692
+iter_dt 200.08ms; iter 20170: train loss 0.37826
+iter_dt 195.41ms; iter 20180: train loss 0.34925
+iter_dt 192.90ms; iter 20190: train loss 0.36554
+iter_dt 197.53ms; iter 20200: train loss 0.34792
+iter_dt 200.55ms; iter 20210: train loss 0.37208
+iter_dt 197.72ms; iter 20220: train loss 0.34452
+iter_dt 192.83ms; iter 20230: train loss 0.36161
+iter_dt 196.76ms; iter 20240: train loss 0.34013
+iter_dt 197.92ms; iter 20250: train loss 0.34235
+iter_dt 197.50ms; iter 20260: train loss 0.36282
+iter_dt 193.95ms; iter 20270: train loss 0.36041
+iter_dt 201.85ms; iter 20280: train loss 0.35976
+iter_dt 200.35ms; iter 20290: train loss 0.37114
+iter_dt 199.39ms; iter 20300: train loss 0.36655
+iter_dt 196.21ms; iter 20310: train loss 0.33245
+iter_dt 202.07ms; iter 20320: train loss 0.36063
+iter_dt 195.66ms; iter 20330: train loss 0.36455
+iter_dt 196.31ms; iter 20340: train loss 0.35732
+iter_dt 197.29ms; iter 20350: train loss 0.36145
+iter_dt 202.45ms; iter 20360: train loss 0.34607
+iter_dt 200.51ms; iter 20370: train loss 0.34585
+iter_dt 196.57ms; iter 20380: train loss 0.35109
+iter_dt 198.98ms; iter 20390: train loss 0.35733
+iter_dt 199.11ms; iter 20400: train loss 0.34318
+iter_dt 199.84ms; iter 20410: train loss 0.35915
+iter_dt 199.73ms; iter 20420: train loss 0.34709
+iter_dt 200.54ms; iter 20430: train loss 0.37181
+iter_dt 207.66ms; iter 20440: train loss 0.36806
+iter_dt 196.11ms; iter 20450: train loss 0.36087
+iter_dt 196.76ms; iter 20460: train loss 0.38359
+iter_dt 195.84ms; iter 20470: train loss 0.35147
+iter_dt 197.01ms; iter 20480: train loss 0.34350
+iter_dt 193.41ms; iter 20490: train loss 0.36669
+iter_dt 199.78ms; iter 20500: train loss 0.36715
+O God, O God! thou that base me out
+That I mean no gentleman born.
+
+AUTOLYCUS:
+I must confess the rock, sirrah, and be so sudden;
+For though abundantly they lack discretion,
+Yet are they convented to be a lawful cant:
+The worst is gone or air, that I have done
+Condemn'd the sea that I may entire now.
+
+EXETER:
+Sirrah, be gone unto your royal grace!
+I think there is no less than I,
+That all the rest, and there I think,
+When these same things airs at mine are fairly good,
+So for the moon that is common for you.
+saving model
+iter_dt 204.29ms; iter 20510: train loss 0.37027
+iter_dt 208.31ms; iter 20520: train loss 0.34646
+iter_dt 195.97ms; iter 20530: train loss 0.37311
+iter_dt 195.62ms; iter 20540: train loss 0.35847
+iter_dt 195.58ms; iter 20550: train loss 0.34808
+iter_dt 197.44ms; iter 20560: train loss 0.34993
+iter_dt 204.75ms; iter 20570: train loss 0.33668
+iter_dt 196.40ms; iter 20580: train loss 0.34507
+iter_dt 201.17ms; iter 20590: train loss 0.35478
+iter_dt 197.89ms; iter 20600: train loss 0.36027
+iter_dt 201.88ms; iter 20610: train loss 0.36176
+iter_dt 204.72ms; iter 20620: train loss 0.34396
+iter_dt 198.42ms; iter 20630: train loss 0.35317
+iter_dt 199.47ms; iter 20640: train loss 0.34870
+iter_dt 197.54ms; iter 20650: train loss 0.36022
+iter_dt 200.39ms; iter 20660: train loss 0.35072
+iter_dt 208.70ms; iter 20670: train loss 0.33978
+iter_dt 202.95ms; iter 20680: train loss 0.33663
+iter_dt 199.00ms; iter 20690: train loss 0.36114
+iter_dt 194.56ms; iter 20700: train loss 0.34702
+iter_dt 196.94ms; iter 20710: train loss 0.35191
+iter_dt 199.65ms; iter 20720: train loss 0.33723
+iter_dt 201.80ms; iter 20730: train loss 0.36650
+iter_dt 201.46ms; iter 20740: train loss 0.35702
+iter_dt 197.19ms; iter 20750: train loss 0.34348
+iter_dt 199.12ms; iter 20760: train loss 0.34224
+iter_dt 195.11ms; iter 20770: train loss 0.36243
+iter_dt 200.47ms; iter 20780: train loss 0.35549
+iter_dt 201.88ms; iter 20790: train loss 0.34829
+iter_dt 202.62ms; iter 20800: train loss 0.33459
+iter_dt 202.24ms; iter 20810: train loss 0.33528
+iter_dt 203.43ms; iter 20820: train loss 0.35371
+iter_dt 200.63ms; iter 20830: train loss 0.32506
+iter_dt 196.72ms; iter 20840: train loss 0.36706
+iter_dt 196.90ms; iter 20850: train loss 0.33619
+iter_dt 196.11ms; iter 20860: train loss 0.32546
+iter_dt 199.09ms; iter 20870: train loss 0.33241
+iter_dt 198.26ms; iter 20880: train loss 0.35138
+iter_dt 198.13ms; iter 20890: train loss 0.35467
+iter_dt 197.74ms; iter 20900: train loss 0.36673
+iter_dt 201.81ms; iter 20910: train loss 0.32935
+iter_dt 201.18ms; iter 20920: train loss 0.36672
+iter_dt 203.93ms; iter 20930: train loss 0.35226
+iter_dt 193.69ms; iter 20940: train loss 0.34463
+iter_dt 202.08ms; iter 20950: train loss 0.33956
+iter_dt 198.25ms; iter 20960: train loss 0.35271
+iter_dt 204.11ms; iter 20970: train loss 0.34264
+iter_dt 203.53ms; iter 20980: train loss 0.35273
+iter_dt 199.89ms; iter 20990: train loss 0.35753
+iter_dt 201.81ms; iter 21000: train loss 0.32750
+O God, O God! this was the falcon's flight
+Against a bird, do I with Mowbray fight.
+My loving lord, I hold thee ne'er see
+thy master's father, Vincentio?
+
+BIONDELLO:
+We are the queen's comen and your meaning,
+My love's assistant, is yet less your son.
+
+LUCENTIO:
+I promised we would be glad of our company.
+Is not a Cambious ' king'?
+
+ARCHIDAMUS:
+Where to-morrow?  Well, a gentleman but enter
+You shall find me as well as I hat: see how he be
+deliver the collar thou dance where he is.
+
+GRUMIO:
+I would so.
+
+TRANI
+saving model
+iter_dt 202.52ms; iter 21010: train loss 0.33532
+iter_dt 204.94ms; iter 21020: train loss 0.33713
+iter_dt 203.18ms; iter 21030: train loss 0.35518
+iter_dt 196.83ms; iter 21040: train loss 0.34589
+iter_dt 197.41ms; iter 21050: train loss 0.34657
+iter_dt 201.95ms; iter 21060: train loss 0.32480
+iter_dt 199.28ms; iter 21070: train loss 0.34932
+iter_dt 198.35ms; iter 21080: train loss 0.33568
+iter_dt 196.67ms; iter 21090: train loss 0.34668
+iter_dt 200.87ms; iter 21100: train loss 0.34095
+iter_dt 200.66ms; iter 21110: train loss 0.33984
+iter_dt 199.95ms; iter 21120: train loss 0.34977
+iter_dt 200.80ms; iter 21130: train loss 0.34350
+iter_dt 198.05ms; iter 21140: train loss 0.32378
+iter_dt 200.05ms; iter 21150: train loss 0.34132
+iter_dt 196.72ms; iter 21160: train loss 0.34209
+iter_dt 199.11ms; iter 21170: train loss 0.32888
+iter_dt 200.07ms; iter 21180: train loss 0.35883
+iter_dt 200.45ms; iter 21190: train loss 0.33464
+iter_dt 198.65ms; iter 21200: train loss 0.34286
+iter_dt 200.56ms; iter 21210: train loss 0.34660
+iter_dt 196.74ms; iter 21220: train loss 0.34004
+iter_dt 202.56ms; iter 21230: train loss 0.33521
+iter_dt 199.37ms; iter 21240: train loss 0.36249
+iter_dt 196.93ms; iter 21250: train loss 0.33960
+iter_dt 197.56ms; iter 21260: train loss 0.34152
+iter_dt 201.18ms; iter 21270: train loss 0.35152
+iter_dt 195.07ms; iter 21280: train loss 0.34556
+iter_dt 199.00ms; iter 21290: train loss 0.36771
+iter_dt 200.96ms; iter 21300: train loss 0.33627
+iter_dt 196.79ms; iter 21310: train loss 0.32306
+iter_dt 197.52ms; iter 21320: train loss 0.35183
+iter_dt 193.34ms; iter 21330: train loss 0.35267
+iter_dt 204.11ms; iter 21340: train loss 0.34712
+iter_dt 198.17ms; iter 21350: train loss 0.34746
+iter_dt 201.66ms; iter 21360: train loss 0.36154
+iter_dt 199.96ms; iter 21370: train loss 0.31420
+iter_dt 194.30ms; iter 21380: train loss 0.32857
+iter_dt 198.55ms; iter 21390: train loss 0.34691
+iter_dt 193.42ms; iter 21400: train loss 0.32900
+iter_dt 198.70ms; iter 21410: train loss 0.32185
+iter_dt 197.83ms; iter 21420: train loss 0.35593
+iter_dt 201.99ms; iter 21430: train loss 0.35326
+iter_dt 199.65ms; iter 21440: train loss 0.34820
+iter_dt 205.05ms; iter 21450: train loss 0.33440
+iter_dt 203.34ms; iter 21460: train loss 0.34463
+iter_dt 198.18ms; iter 21470: train loss 0.34008
+iter_dt 202.38ms; iter 21480: train loss 0.35059
+iter_dt 201.60ms; iter 21490: train loss 0.35064
+iter_dt 197.46ms; iter 21500: train loss 0.34412
+O God, O God! that ever tell me of my heart,
+What thy death is blound in thy descent,
+Comp a shame kept and all this din breason.
+Ah, king, there is my king, King Richard hold;
+And what think'st thou, then is thy tail.
+
+GLOUCESTER:
+
+KING EDWARD IV:
+Poor Clarence, be thou fortunate!
+
+MONTAGUE:
+Comfort, my lord; I have broke the gates of York.
+Thus high fortune bids us as we are stepp'd;
+And sits they indeed: shall not be so unknown;
+And pardon us the mrovers unto Long-lane end;
+There was we transported thing 
+saving model
+iter_dt 206.12ms; iter 21510: train loss 0.33291
+iter_dt 205.53ms; iter 21520: train loss 0.34120
+iter_dt 207.20ms; iter 21530: train loss 0.33570
+iter_dt 209.78ms; iter 21540: train loss 0.33091
+iter_dt 195.60ms; iter 21550: train loss 0.32676
+iter_dt 199.81ms; iter 21560: train loss 0.33734
+iter_dt 201.46ms; iter 21570: train loss 0.34201
+iter_dt 197.82ms; iter 21580: train loss 0.32834
+iter_dt 191.24ms; iter 21590: train loss 0.34309
+iter_dt 200.64ms; iter 21600: train loss 0.32397
+iter_dt 199.08ms; iter 21610: train loss 0.34832
+iter_dt 205.96ms; iter 21620: train loss 0.34556
+iter_dt 203.51ms; iter 21630: train loss 0.34638
+iter_dt 200.56ms; iter 21640: train loss 0.36292
+iter_dt 196.67ms; iter 21650: train loss 0.34079
+iter_dt 204.54ms; iter 21660: train loss 0.34689
+iter_dt 202.62ms; iter 21670: train loss 0.35226
+iter_dt 201.52ms; iter 21680: train loss 0.32889
+iter_dt 198.22ms; iter 21690: train loss 0.33980
+iter_dt 202.08ms; iter 21700: train loss 0.34737
+iter_dt 202.90ms; iter 21710: train loss 0.34547
+iter_dt 199.66ms; iter 21720: train loss 0.33950
+iter_dt 196.36ms; iter 21730: train loss 0.35024
+iter_dt 199.98ms; iter 21740: train loss 0.33223
+iter_dt 202.74ms; iter 21750: train loss 0.33201
+iter_dt 198.34ms; iter 21760: train loss 0.35591
+iter_dt 197.56ms; iter 21770: train loss 0.33950
+iter_dt 201.77ms; iter 21780: train loss 0.34639
+iter_dt 197.13ms; iter 21790: train loss 0.34370
+iter_dt 193.27ms; iter 21800: train loss 0.34112
+iter_dt 201.82ms; iter 21810: train loss 0.33449
+iter_dt 198.85ms; iter 21820: train loss 0.33345
+iter_dt 204.42ms; iter 21830: train loss 0.33294
+iter_dt 205.34ms; iter 21840: train loss 0.32232
+iter_dt 198.94ms; iter 21850: train loss 0.33661
+iter_dt 202.92ms; iter 21860: train loss 0.34122
+iter_dt 199.26ms; iter 21870: train loss 0.33934
+iter_dt 203.42ms; iter 21880: train loss 0.34934
+iter_dt 199.00ms; iter 21890: train loss 0.33572
+iter_dt 204.59ms; iter 21900: train loss 0.33300
+iter_dt 200.16ms; iter 21910: train loss 0.34769
+iter_dt 198.01ms; iter 21920: train loss 0.32629
+iter_dt 198.60ms; iter 21930: train loss 0.34391
+iter_dt 202.74ms; iter 21940: train loss 0.34418
+iter_dt 201.02ms; iter 21950: train loss 0.32553
+iter_dt 202.25ms; iter 21960: train loss 0.32563
+iter_dt 193.46ms; iter 21970: train loss 0.33618
+iter_dt 199.87ms; iter 21980: train loss 0.34670
+iter_dt 199.46ms; iter 21990: train loss 0.32930
+iter_dt 201.35ms; iter 22000: train loss 0.33632
+O God, O God! that e'er this tongue of my head
+Should buy some of holy wealthy and light
+By her, in all the power of the poor world's peace!
+The worm of conscience of royal bosom's rage
+Full of rose-ward fish'd soldiers: glass, gentle night.
+
+ROMEO:
+But that I'll figure it to be some sport in a sharper to
+a ballad child. The penries of this place of the foe
+Appear thus before the death.
+
+Second Servant:
+Sir, he may die.
+
+Third Citizen:
+Doth you hear, then, even with your age!
+
+JULIET:
+You know where to be sa
+saving model
+iter_dt 200.41ms; iter 22010: train loss 0.34332
+iter_dt 210.29ms; iter 22020: train loss 0.33803
+iter_dt 203.86ms; iter 22030: train loss 0.34827
+iter_dt 195.52ms; iter 22040: train loss 0.34286
+iter_dt 201.55ms; iter 22050: train loss 0.34246
+iter_dt 195.67ms; iter 22060: train loss 0.34232
+iter_dt 196.24ms; iter 22070: train loss 0.34124
+iter_dt 199.57ms; iter 22080: train loss 0.34459
+iter_dt 200.86ms; iter 22090: train loss 0.32574
+iter_dt 202.68ms; iter 22100: train loss 0.33102
+iter_dt 202.50ms; iter 22110: train loss 0.33563
+iter_dt 200.63ms; iter 22120: train loss 0.33967
+iter_dt 204.74ms; iter 22130: train loss 0.32774
+iter_dt 193.64ms; iter 22140: train loss 0.34201
+iter_dt 196.40ms; iter 22150: train loss 0.34925
+iter_dt 201.84ms; iter 22160: train loss 0.33050
+iter_dt 195.63ms; iter 22170: train loss 0.33861
+iter_dt 203.88ms; iter 22180: train loss 0.33515
+iter_dt 200.31ms; iter 22190: train loss 0.34216
+iter_dt 203.52ms; iter 22200: train loss 0.32727
+iter_dt 203.03ms; iter 22210: train loss 0.33424
+iter_dt 201.46ms; iter 22220: train loss 0.33130
+iter_dt 198.20ms; iter 22230: train loss 0.35608
+iter_dt 209.03ms; iter 22240: train loss 0.34503
+iter_dt 200.50ms; iter 22250: train loss 0.33114
+iter_dt 197.87ms; iter 22260: train loss 0.33692
+iter_dt 194.75ms; iter 22270: train loss 0.34549
+iter_dt 199.00ms; iter 22280: train loss 0.34495
+iter_dt 196.63ms; iter 22290: train loss 0.35105
+iter_dt 202.37ms; iter 22300: train loss 0.34630
+iter_dt 198.73ms; iter 22310: train loss 0.34124
+iter_dt 198.69ms; iter 22320: train loss 0.35505
+iter_dt 201.49ms; iter 22330: train loss 0.34888
+iter_dt 202.38ms; iter 22340: train loss 0.33115
+iter_dt 198.70ms; iter 22350: train loss 0.32918
+iter_dt 198.77ms; iter 22360: train loss 0.31539
+iter_dt 199.29ms; iter 22370: train loss 0.34028
+iter_dt 192.33ms; iter 22380: train loss 0.33385
+iter_dt 196.33ms; iter 22390: train loss 0.34055
+iter_dt 202.06ms; iter 22400: train loss 0.32443
+iter_dt 201.82ms; iter 22410: train loss 0.32730
+iter_dt 195.45ms; iter 22420: train loss 0.32141
+iter_dt 195.18ms; iter 22430: train loss 0.32698
+iter_dt 200.99ms; iter 22440: train loss 0.34114
+iter_dt 199.20ms; iter 22450: train loss 0.33755
+iter_dt 199.13ms; iter 22460: train loss 0.32745
+iter_dt 200.88ms; iter 22470: train loss 0.34419
+iter_dt 198.84ms; iter 22480: train loss 0.32773
+iter_dt 199.54ms; iter 22490: train loss 0.33374
+iter_dt 197.81ms; iter 22500: train loss 0.33280
+O God, O God! that e'er this tongue of my law!
+God will, thou live lewis foot! let me have it true:
+If he did but with her look into the papert
+To so much grief slaves in the truth. He doth
+is the time that is my husband now
+Came to my tent? Rather than element come?
+
+HASTINGS:
+Ye knows not
+That which I know told you, and sup me once again.
+
+QUEEN MARGARET:
+A little joy enjoys the queen thereof;
+For I am she, and altogether joyless.
+I can no longer hol talk of me, but, but quick away.
+
+LADY ANNE:
+And thou un
+saving model
+iter_dt 208.26ms; iter 22510: train loss 0.32348
+iter_dt 205.14ms; iter 22520: train loss 0.32039
+iter_dt 207.66ms; iter 22530: train loss 0.33582
+iter_dt 194.87ms; iter 22540: train loss 0.31985
+iter_dt 197.19ms; iter 22550: train loss 0.33828
+iter_dt 196.92ms; iter 22560: train loss 0.32223
+iter_dt 194.82ms; iter 22570: train loss 0.33444
+iter_dt 198.39ms; iter 22580: train loss 0.32896
+iter_dt 201.32ms; iter 22590: train loss 0.33692
+iter_dt 195.47ms; iter 22600: train loss 0.33512
+iter_dt 199.43ms; iter 22610: train loss 0.35234
+iter_dt 197.19ms; iter 22620: train loss 0.34680
+iter_dt 195.73ms; iter 22630: train loss 0.34054
+iter_dt 198.89ms; iter 22640: train loss 0.32613
+iter_dt 203.38ms; iter 22650: train loss 0.34245
+iter_dt 205.49ms; iter 22660: train loss 0.33686
+iter_dt 197.59ms; iter 22670: train loss 0.33688
+iter_dt 196.84ms; iter 22680: train loss 0.33533
+iter_dt 195.09ms; iter 22690: train loss 0.34386
+iter_dt 196.40ms; iter 22700: train loss 0.33745
+iter_dt 197.49ms; iter 22710: train loss 0.33292
+iter_dt 200.09ms; iter 22720: train loss 0.32079
+iter_dt 197.45ms; iter 22730: train loss 0.32791
+iter_dt 199.03ms; iter 22740: train loss 0.33270
+iter_dt 195.25ms; iter 22750: train loss 0.33541
+iter_dt 197.63ms; iter 22760: train loss 0.33903
+iter_dt 195.90ms; iter 22770: train loss 0.31705
+iter_dt 197.07ms; iter 22780: train loss 0.33534
+iter_dt 200.63ms; iter 22790: train loss 0.30143
+iter_dt 204.25ms; iter 22800: train loss 0.33201
+iter_dt 200.00ms; iter 22810: train loss 0.32974
+iter_dt 198.62ms; iter 22820: train loss 0.32563
+iter_dt 198.14ms; iter 22830: train loss 0.31716
+iter_dt 204.82ms; iter 22840: train loss 0.33235
+iter_dt 200.04ms; iter 22850: train loss 0.33297
+iter_dt 204.32ms; iter 22860: train loss 0.33485
+iter_dt 199.14ms; iter 22870: train loss 0.33625
+iter_dt 200.56ms; iter 22880: train loss 0.30849
+iter_dt 206.10ms; iter 22890: train loss 0.32768
+iter_dt 202.13ms; iter 22900: train loss 0.34550
+iter_dt 198.88ms; iter 22910: train loss 0.33300
+iter_dt 206.23ms; iter 22920: train loss 0.31745
+iter_dt 205.07ms; iter 22930: train loss 0.33301
+iter_dt 202.57ms; iter 22940: train loss 0.31944
+iter_dt 199.99ms; iter 22950: train loss 0.31443
+iter_dt 200.61ms; iter 22960: train loss 0.34099
+iter_dt 196.30ms; iter 22970: train loss 0.34426
+iter_dt 203.22ms; iter 22980: train loss 0.35106
+iter_dt 202.53ms; iter 22990: train loss 0.34046
+iter_dt 195.17ms; iter 23000: train loss 0.32579
+O God, O God! that e'er this tongue of mine own.
+As for my dear lord chamberlain!
+Well arms her with the kingdom for the war
+Let's sendled Richard. O prophecy
+Do gross I with thy gentle prince,
+And make thy adal as famous for a scolding tongue.
+
+PETRUCHIO:
+I know it well.
+How should you now? where comes the King of
+Forbids that he was coming, indeed in his face,
+Whose frown hath made thee faint and fly ere this!
+
+CLIFFORD:
+I will not bandy with thee word for word,
+But buckle with thee, but not thy beauteous 
+saving model
+iter_dt 204.55ms; iter 23010: train loss 0.31624
+iter_dt 207.69ms; iter 23020: train loss 0.33964
+iter_dt 204.70ms; iter 23030: train loss 0.34375
+iter_dt 203.29ms; iter 23040: train loss 0.34046
+iter_dt 203.03ms; iter 23050: train loss 0.34210
+iter_dt 196.64ms; iter 23060: train loss 0.32462
+iter_dt 200.21ms; iter 23070: train loss 0.34273
+iter_dt 204.85ms; iter 23080: train loss 0.33353
+iter_dt 200.31ms; iter 23090: train loss 0.32142
+iter_dt 195.00ms; iter 23100: train loss 0.32723
+iter_dt 194.82ms; iter 23110: train loss 0.33506
+iter_dt 196.96ms; iter 23120: train loss 0.33500
+iter_dt 200.67ms; iter 23130: train loss 0.32544
+iter_dt 202.09ms; iter 23140: train loss 0.34142
+iter_dt 202.89ms; iter 23150: train loss 0.31106
+iter_dt 200.63ms; iter 23160: train loss 0.31515
+iter_dt 194.18ms; iter 23170: train loss 0.33081
+iter_dt 200.80ms; iter 23180: train loss 0.32005
+iter_dt 196.27ms; iter 23190: train loss 0.33150
+iter_dt 204.01ms; iter 23200: train loss 0.33730
+iter_dt 197.24ms; iter 23210: train loss 0.30761
+iter_dt 200.67ms; iter 23220: train loss 0.33659
+iter_dt 198.82ms; iter 23230: train loss 0.33520
+iter_dt 200.58ms; iter 23240: train loss 0.35132
+iter_dt 197.05ms; iter 23250: train loss 0.34119
+iter_dt 200.87ms; iter 23260: train loss 0.32523
+iter_dt 200.28ms; iter 23270: train loss 0.32279
+iter_dt 196.17ms; iter 23280: train loss 0.30825
+iter_dt 196.71ms; iter 23290: train loss 0.32750
+iter_dt 197.91ms; iter 23300: train loss 0.32674
+iter_dt 199.31ms; iter 23310: train loss 0.33399
+iter_dt 202.17ms; iter 23320: train loss 0.31256
+iter_dt 198.79ms; iter 23330: train loss 0.31913
+iter_dt 202.44ms; iter 23340: train loss 0.34820
+iter_dt 203.67ms; iter 23350: train loss 0.32878
+iter_dt 202.49ms; iter 23360: train loss 0.32768
+iter_dt 199.99ms; iter 23370: train loss 0.32136
+iter_dt 198.99ms; iter 23380: train loss 0.33671
+iter_dt 200.34ms; iter 23390: train loss 0.32993
+iter_dt 202.25ms; iter 23400: train loss 0.31827
+iter_dt 194.20ms; iter 23410: train loss 0.34390
+iter_dt 203.48ms; iter 23420: train loss 0.33900
+iter_dt 202.31ms; iter 23430: train loss 0.31148
+iter_dt 196.79ms; iter 23440: train loss 0.32339
+iter_dt 198.26ms; iter 23450: train loss 0.33998
+iter_dt 195.36ms; iter 23460: train loss 0.33451
+iter_dt 200.07ms; iter 23470: train loss 0.32751
+iter_dt 199.14ms; iter 23480: train loss 0.31448
+iter_dt 198.84ms; iter 23490: train loss 0.31039
+iter_dt 200.05ms; iter 23500: train loss 0.34215
+O God, O God! she is spotless with the business place,
+without fto find the fury of England's chair,
+To have the hopeful look'd and rearts at table,
+Where your person shall not marry her:
+I saw a piece of her though she would bedray and
+fellow.
+
+First Gentleman:
+Who would be so hated?
+
+Second Gentleman:
+Ay, and the rest that ever means to stand.
+
+Second Murderer:
+Spoke like a tail fellow that respects his
+reputation. Come, follow us: we'll be thy
+good masters.
+
+LEONTES:
+O grave and good Paulina,
+For death, a
+saving model
+iter_dt 207.04ms; iter 23510: train loss 0.31304
+iter_dt 201.55ms; iter 23520: train loss 0.33525
+iter_dt 204.01ms; iter 23530: train loss 0.30704
+iter_dt 202.22ms; iter 23540: train loss 0.33375
+iter_dt 198.74ms; iter 23550: train loss 0.31592
+iter_dt 201.48ms; iter 23560: train loss 0.33045
+iter_dt 198.59ms; iter 23570: train loss 0.32948
+iter_dt 196.79ms; iter 23580: train loss 0.30685
+iter_dt 193.97ms; iter 23590: train loss 0.33212
+iter_dt 199.58ms; iter 23600: train loss 0.32519
+iter_dt 203.90ms; iter 23610: train loss 0.32033
+iter_dt 199.62ms; iter 23620: train loss 0.33838
+iter_dt 198.18ms; iter 23630: train loss 0.32829
+iter_dt 198.17ms; iter 23640: train loss 0.31443
+iter_dt 205.98ms; iter 23650: train loss 0.31960
+iter_dt 202.51ms; iter 23660: train loss 0.31901
+iter_dt 201.83ms; iter 23670: train loss 0.31366
+iter_dt 201.62ms; iter 23680: train loss 0.34491
+iter_dt 198.48ms; iter 23690: train loss 0.30789
+iter_dt 200.25ms; iter 23700: train loss 0.33101
+iter_dt 197.06ms; iter 23710: train loss 0.30413
+iter_dt 197.04ms; iter 23720: train loss 0.31501
+iter_dt 195.97ms; iter 23730: train loss 0.32388
+iter_dt 199.40ms; iter 23740: train loss 0.32881
+iter_dt 199.09ms; iter 23750: train loss 0.31405
+iter_dt 197.57ms; iter 23760: train loss 0.32607
+iter_dt 201.19ms; iter 23770: train loss 0.31311
+iter_dt 202.26ms; iter 23780: train loss 0.32482
+iter_dt 197.29ms; iter 23790: train loss 0.32688
+iter_dt 200.82ms; iter 23800: train loss 0.33751
+iter_dt 200.12ms; iter 23810: train loss 0.31031
+iter_dt 198.61ms; iter 23820: train loss 0.33069
+iter_dt 198.31ms; iter 23830: train loss 0.31899
+iter_dt 199.60ms; iter 23840: train loss 0.32204
+iter_dt 202.13ms; iter 23850: train loss 0.32082
+iter_dt 196.44ms; iter 23860: train loss 0.34702
+iter_dt 198.11ms; iter 23870: train loss 0.33513
+iter_dt 198.71ms; iter 23880: train loss 0.30734
+iter_dt 201.16ms; iter 23890: train loss 0.31851
+iter_dt 202.79ms; iter 23900: train loss 0.33949
+iter_dt 200.12ms; iter 23910: train loss 0.31895
+iter_dt 202.79ms; iter 23920: train loss 0.32978
+iter_dt 199.46ms; iter 23930: train loss 0.31800
+iter_dt 204.86ms; iter 23940: train loss 0.32462
+iter_dt 197.67ms; iter 23950: train loss 0.31962
+iter_dt 195.59ms; iter 23960: train loss 0.31543
+iter_dt 198.54ms; iter 23970: train loss 0.30579
+iter_dt 198.08ms; iter 23980: train loss 0.33553
+iter_dt 200.40ms; iter 23990: train loss 0.32270
+iter_dt 195.78ms; iter 24000: train loss 0.31456
+O God, O God! that e'er was fain
+For my patience here is come to me!
+O God! if my deep prevent for such love is hid,
+Yet I help to see it; and stand up, I able;
+I do beseech you, rather than you talk of a words.
+You promised knighthood to our forward son:
+Unsheathe your sword, that makes this man live!
+I tell you, faith, then I will acquaint her ever;
+The chokes thy day, and did confess to with heaven,
+If she be accused, painting an argosy
+The people, whose environes would call me unders.
+Yet, for a nature, 
+saving model
+iter_dt 205.83ms; iter 24010: train loss 0.33864
+iter_dt 205.07ms; iter 24020: train loss 0.32115
+iter_dt 205.14ms; iter 24030: train loss 0.31178
+iter_dt 201.71ms; iter 24040: train loss 0.32321
+iter_dt 194.68ms; iter 24050: train loss 0.32382
+iter_dt 199.52ms; iter 24060: train loss 0.31111
+iter_dt 197.35ms; iter 24070: train loss 0.30845
+iter_dt 197.65ms; iter 24080: train loss 0.30548
+iter_dt 202.62ms; iter 24090: train loss 0.32262
+iter_dt 200.00ms; iter 24100: train loss 0.33265
+iter_dt 201.64ms; iter 24110: train loss 0.30443
+iter_dt 201.50ms; iter 24120: train loss 0.29812
+iter_dt 196.62ms; iter 24130: train loss 0.30314
+iter_dt 199.13ms; iter 24140: train loss 0.31182
+iter_dt 198.27ms; iter 24150: train loss 0.31278
+iter_dt 206.84ms; iter 24160: train loss 0.32896
+iter_dt 204.12ms; iter 24170: train loss 0.33128
+iter_dt 197.77ms; iter 24180: train loss 0.32825
+iter_dt 197.23ms; iter 24190: train loss 0.30535
+iter_dt 201.75ms; iter 24200: train loss 0.32704
+iter_dt 201.85ms; iter 24210: train loss 0.32656
+iter_dt 201.85ms; iter 24220: train loss 0.33358
+iter_dt 198.02ms; iter 24230: train loss 0.33047
+iter_dt 204.49ms; iter 24240: train loss 0.32660
+iter_dt 203.70ms; iter 24250: train loss 0.30913
+iter_dt 201.83ms; iter 24260: train loss 0.30640
+iter_dt 204.66ms; iter 24270: train loss 0.31533
+iter_dt 196.67ms; iter 24280: train loss 0.32763
+iter_dt 197.79ms; iter 24290: train loss 0.32455
+iter_dt 193.43ms; iter 24300: train loss 0.31418
+iter_dt 195.66ms; iter 24310: train loss 0.33492
+iter_dt 199.68ms; iter 24320: train loss 0.31574
+iter_dt 199.32ms; iter 24330: train loss 0.32379
+iter_dt 200.07ms; iter 24340: train loss 0.32233
+iter_dt 194.43ms; iter 24350: train loss 0.32830
+iter_dt 196.30ms; iter 24360: train loss 0.33315
+iter_dt 205.29ms; iter 24370: train loss 0.31211
+iter_dt 194.69ms; iter 24380: train loss 0.32785
+iter_dt 199.24ms; iter 24390: train loss 0.31233
+iter_dt 196.69ms; iter 24400: train loss 0.31849
+iter_dt 200.14ms; iter 24410: train loss 0.33235
+iter_dt 198.79ms; iter 24420: train loss 0.31660
+iter_dt 202.69ms; iter 24430: train loss 0.30383
+iter_dt 203.69ms; iter 24440: train loss 0.30688
+iter_dt 199.41ms; iter 24450: train loss 0.32267
+iter_dt 199.11ms; iter 24460: train loss 0.30652
+iter_dt 201.01ms; iter 24470: train loss 0.30098
+iter_dt 200.55ms; iter 24480: train loss 0.32501
+iter_dt 203.41ms; iter 24490: train loss 0.30236
+iter_dt 200.52ms; iter 24500: train loss 0.33418
+O God, O God! methinks it the way
+To win our trade for o'clock.
+
+ANTIGONUS:
+I shall re, I know sit by your honour's
+leave. And, I beseech you, look into Master Froth
+here, sir; a man of four affairs it is, it may come to you, frame a strange.
+
+Pompey.
+
+POMPEY:
+Yonder blessed moon.
+
+ESCALUS:
+Come hither, sir: here, sir, did you see how, you'll never knock
+me to the gaol.
+
+BARNARDINARDINE:
+Why, in the benefit of silence, would thou wert so too!
+
+LUCIO:
+Well, my lord.
+
+DUKE VINCENTIO:
+Then a resemblance of this
+saving model
+iter_dt 204.65ms; iter 24510: train loss 0.32021
+iter_dt 205.31ms; iter 24520: train loss 0.32686
+iter_dt 199.90ms; iter 24530: train loss 0.32776
+iter_dt 204.52ms; iter 24540: train loss 0.33416
+iter_dt 203.11ms; iter 24550: train loss 0.32656
+iter_dt 195.88ms; iter 24560: train loss 0.32751
+iter_dt 200.23ms; iter 24570: train loss 0.30845
+iter_dt 198.05ms; iter 24580: train loss 0.33172
+iter_dt 200.96ms; iter 24590: train loss 0.32384
+iter_dt 198.79ms; iter 24600: train loss 0.31836
+iter_dt 197.73ms; iter 24610: train loss 0.30230
+iter_dt 201.53ms; iter 24620: train loss 0.32327
+iter_dt 196.41ms; iter 24630: train loss 0.33987
+iter_dt 199.32ms; iter 24640: train loss 0.33739
+iter_dt 202.10ms; iter 24650: train loss 0.32646
+iter_dt 198.77ms; iter 24660: train loss 0.33017
+iter_dt 201.97ms; iter 24670: train loss 0.33807
+iter_dt 203.44ms; iter 24680: train loss 0.31281
+iter_dt 201.98ms; iter 24690: train loss 0.31984
+iter_dt 200.67ms; iter 24700: train loss 0.31968
+iter_dt 200.76ms; iter 24710: train loss 0.34393
+iter_dt 198.93ms; iter 24720: train loss 0.29143
+iter_dt 197.08ms; iter 24730: train loss 0.30863
+iter_dt 199.42ms; iter 24740: train loss 0.32806
+iter_dt 203.09ms; iter 24750: train loss 0.31329
+iter_dt 200.86ms; iter 24760: train loss 0.30865
+iter_dt 202.73ms; iter 24770: train loss 0.33188
+iter_dt 200.92ms; iter 24780: train loss 0.32158
+iter_dt 198.94ms; iter 24790: train loss 0.31935
+iter_dt 199.49ms; iter 24800: train loss 0.31714
+iter_dt 202.90ms; iter 24810: train loss 0.31758
+iter_dt 199.47ms; iter 24820: train loss 0.31278
+iter_dt 200.52ms; iter 24830: train loss 0.31582
+iter_dt 200.83ms; iter 24840: train loss 0.32218
+iter_dt 201.01ms; iter 24850: train loss 0.34397
+iter_dt 203.23ms; iter 24860: train loss 0.29790
+iter_dt 204.64ms; iter 24870: train loss 0.31459
+iter_dt 202.76ms; iter 24880: train loss 0.33565
+iter_dt 197.01ms; iter 24890: train loss 0.31742
+iter_dt 201.88ms; iter 24900: train loss 0.31777
+iter_dt 197.99ms; iter 24910: train loss 0.30593
+iter_dt 197.36ms; iter 24920: train loss 0.31908
+iter_dt 197.74ms; iter 24930: train loss 0.31396
+iter_dt 196.87ms; iter 24940: train loss 0.31478
+iter_dt 201.83ms; iter 24950: train loss 0.31888
+iter_dt 199.48ms; iter 24960: train loss 0.30859
+iter_dt 201.63ms; iter 24970: train loss 0.32163
+iter_dt 197.37ms; iter 24980: train loss 0.33759
+iter_dt 198.13ms; iter 24990: train loss 0.33972
+iter_dt 200.74ms; iter 25000: train loss 0.32171
+O God, O God! that e'er a good whip to France,
+And dost the smalley o'er his half assurance
+They like not of care? Therefore, no jot
+With ship burning them. Stand, Aufidius,
+And trouble not the peace.
+
+CORIOLANUS:
+O that I had him,
+With six Aufidiuses, or more, whom
+I so much control'd to him.
+
+First Senator:
+There's no remedy;
+Unless, by not so green, so weak as subject,
+Profaners to the purpose hurried thence
+Me and there repent.
+
+First Huntsman:
+Believe me, sir, the house is all, sir, I say such as a
+chil
+saving model
+iter_dt 204.66ms; iter 25010: train loss 0.31098
+iter_dt 205.19ms; iter 25020: train loss 0.32365
+iter_dt 206.39ms; iter 25030: train loss 0.30583
+iter_dt 196.59ms; iter 25040: train loss 0.30953
+iter_dt 202.94ms; iter 25050: train loss 0.30670
+iter_dt 199.24ms; iter 25060: train loss 0.30270
+iter_dt 200.37ms; iter 25070: train loss 0.32210
+iter_dt 201.93ms; iter 25080: train loss 0.31494
+iter_dt 200.74ms; iter 25090: train loss 0.31855
+iter_dt 197.66ms; iter 25100: train loss 0.32614
+iter_dt 193.01ms; iter 25110: train loss 0.31070
+iter_dt 197.52ms; iter 25120: train loss 0.33579
+iter_dt 203.47ms; iter 25130: train loss 0.30618
+iter_dt 203.93ms; iter 25140: train loss 0.31781
+iter_dt 200.19ms; iter 25150: train loss 0.32357
+iter_dt 205.14ms; iter 25160: train loss 0.30781
+iter_dt 197.62ms; iter 25170: train loss 0.31573
+iter_dt 199.77ms; iter 25180: train loss 0.30901
+iter_dt 197.40ms; iter 25190: train loss 0.31805
+iter_dt 199.04ms; iter 25200: train loss 0.31720
+iter_dt 202.24ms; iter 25210: train loss 0.30573
+iter_dt 199.47ms; iter 25220: train loss 0.32174
+iter_dt 198.27ms; iter 25230: train loss 0.33498
+iter_dt 200.95ms; iter 25240: train loss 0.34156
+iter_dt 197.07ms; iter 25250: train loss 0.31496
+iter_dt 194.73ms; iter 25260: train loss 0.31766
+iter_dt 195.91ms; iter 25270: train loss 0.30555
+iter_dt 199.58ms; iter 25280: train loss 0.29192
+iter_dt 202.41ms; iter 25290: train loss 0.33159
+iter_dt 202.48ms; iter 25300: train loss 0.31629
+iter_dt 196.11ms; iter 25310: train loss 0.31203
+iter_dt 195.47ms; iter 25320: train loss 0.30264
+iter_dt 200.79ms; iter 25330: train loss 0.29027
+iter_dt 200.60ms; iter 25340: train loss 0.30308
+iter_dt 199.94ms; iter 25350: train loss 0.30357
+iter_dt 200.35ms; iter 25360: train loss 0.30970
+iter_dt 203.03ms; iter 25370: train loss 0.30810
+iter_dt 200.48ms; iter 25380: train loss 0.32349
+iter_dt 198.00ms; iter 25390: train loss 0.31196
+iter_dt 199.57ms; iter 25400: train loss 0.31113
+iter_dt 206.96ms; iter 25410: train loss 0.32288
+iter_dt 198.37ms; iter 25420: train loss 0.31967
+iter_dt 198.59ms; iter 25430: train loss 0.31660
+iter_dt 202.57ms; iter 25440: train loss 0.31274
+iter_dt 201.38ms; iter 25450: train loss 0.32541
+iter_dt 196.87ms; iter 25460: train loss 0.30079
+iter_dt 198.39ms; iter 25470: train loss 0.30622
+iter_dt 203.46ms; iter 25480: train loss 0.31304
+iter_dt 203.69ms; iter 25490: train loss 0.32155
+iter_dt 196.77ms; iter 25500: train loss 0.31939
+O God, O God! think of this maid:
+That's your device.
+
+LUCENTIO:
+It is: may it be done.
+
+TRANIO:
+Then it lies much in sunder, the like yet was sound.
+When you have vow'd, you must not speak with men
+But in my house where I serve alive.
+
+KING EDWARD IV:
+Yes, I would that woo her? What! must I call thee?
+
+CLARENCE:
+Now, our duteous lecture is made by the deed.
+
+GLOUCESTER:
+Madam, his majesty is to stand upon ere girl;
+We'll visit Caliban my slave, i' the open air,--
+The case is not the cocklet:
+This is a wolf 
+saving model
+iter_dt 202.68ms; iter 25510: train loss 0.32795
+iter_dt 208.09ms; iter 25520: train loss 0.32050
+iter_dt 201.10ms; iter 25530: train loss 0.31160
+iter_dt 197.46ms; iter 25540: train loss 0.32044
+iter_dt 197.12ms; iter 25550: train loss 0.33316
+iter_dt 203.44ms; iter 25560: train loss 0.31959
+iter_dt 200.76ms; iter 25570: train loss 0.31123
+iter_dt 200.00ms; iter 25580: train loss 0.33183
+iter_dt 197.92ms; iter 25590: train loss 0.30620
+iter_dt 204.24ms; iter 25600: train loss 0.30922
+iter_dt 197.21ms; iter 25610: train loss 0.30105
+iter_dt 200.43ms; iter 25620: train loss 0.32115
+iter_dt 202.14ms; iter 25630: train loss 0.28797
+iter_dt 199.40ms; iter 25640: train loss 0.31035
+iter_dt 200.38ms; iter 25650: train loss 0.31158
+iter_dt 200.81ms; iter 25660: train loss 0.30934
+iter_dt 204.57ms; iter 25670: train loss 0.30921
+iter_dt 195.49ms; iter 25680: train loss 0.31841
+iter_dt 201.43ms; iter 25690: train loss 0.30452
+iter_dt 198.96ms; iter 25700: train loss 0.30406
+iter_dt 205.22ms; iter 25710: train loss 0.31620
+iter_dt 201.62ms; iter 25720: train loss 0.31920
+iter_dt 200.54ms; iter 25730: train loss 0.30401
+iter_dt 197.02ms; iter 25740: train loss 0.31283
+iter_dt 200.18ms; iter 25750: train loss 0.32640
+iter_dt 202.22ms; iter 25760: train loss 0.30161
+iter_dt 201.71ms; iter 25770: train loss 0.31575
+iter_dt 200.78ms; iter 25780: train loss 0.32321
+iter_dt 195.45ms; iter 25790: train loss 0.30257
+iter_dt 197.78ms; iter 25800: train loss 0.30854
+iter_dt 200.28ms; iter 25810: train loss 0.29835
+iter_dt 199.01ms; iter 25820: train loss 0.32977
+iter_dt 194.38ms; iter 25830: train loss 0.30975
+iter_dt 199.73ms; iter 25840: train loss 0.32935
+iter_dt 203.70ms; iter 25850: train loss 0.31091
+iter_dt 198.38ms; iter 25860: train loss 0.32110
+iter_dt 199.53ms; iter 25870: train loss 0.29470
+iter_dt 203.55ms; iter 25880: train loss 0.30918
+iter_dt 197.35ms; iter 25890: train loss 0.30493
+iter_dt 200.49ms; iter 25900: train loss 0.30407
+iter_dt 198.88ms; iter 25910: train loss 0.31077
+iter_dt 201.03ms; iter 25920: train loss 0.30563
+iter_dt 192.99ms; iter 25930: train loss 0.30509
+iter_dt 202.69ms; iter 25940: train loss 0.29971
+iter_dt 198.12ms; iter 25950: train loss 0.31867
+iter_dt 195.29ms; iter 25960: train loss 0.30728
+iter_dt 197.74ms; iter 25970: train loss 0.32527
+iter_dt 200.13ms; iter 25980: train loss 0.30700
+iter_dt 200.88ms; iter 25990: train loss 0.31777
+iter_dt 203.10ms; iter 26000: train loss 0.29301
+O God, O God!
+O honey night, O God! that ever I was in
+To dash our noble brakes with like wealth base and all.
+
+NORTHUMBERLAND:
+The noble duke hath been too much heavy I cut;
+But in the balance of great Bolingbroke?
+Gardener, for telling me these news of woe,
+Pray God the plants thou graft'st may never grow.
+
+GARDENER:
+Poor key-cousin!
+
+KING RICHARD II:
+Know'st thou not so? For I have not deliver'd
+A gentleman of all temperance.
+
+NORTHUMBERLAND:
+The noble duke hath been too much abused.
+
+LORD ROSS:
+It stands
+saving model
+iter_dt 202.11ms; iter 26010: train loss 0.31374
+iter_dt 201.84ms; iter 26020: train loss 0.33594
+iter_dt 205.16ms; iter 26030: train loss 0.31959
+iter_dt 201.28ms; iter 26040: train loss 0.31157
+iter_dt 198.99ms; iter 26050: train loss 0.31400
+iter_dt 202.11ms; iter 26060: train loss 0.29567
+iter_dt 200.04ms; iter 26070: train loss 0.31997
+iter_dt 198.92ms; iter 26080: train loss 0.29991
+iter_dt 195.89ms; iter 26090: train loss 0.30603
+iter_dt 197.91ms; iter 26100: train loss 0.30670
+iter_dt 204.51ms; iter 26110: train loss 0.31030
+iter_dt 199.68ms; iter 26120: train loss 0.30206
+iter_dt 199.18ms; iter 26130: train loss 0.30704
+iter_dt 200.06ms; iter 26140: train loss 0.31075
+iter_dt 202.32ms; iter 26150: train loss 0.32136
+iter_dt 198.93ms; iter 26160: train loss 0.30072
+iter_dt 201.58ms; iter 26170: train loss 0.30600
+iter_dt 198.58ms; iter 26180: train loss 0.30529
+iter_dt 200.45ms; iter 26190: train loss 0.32022
+iter_dt 202.00ms; iter 26200: train loss 0.32169
+iter_dt 203.64ms; iter 26210: train loss 0.30128
+iter_dt 195.51ms; iter 26220: train loss 0.32591
+iter_dt 203.96ms; iter 26230: train loss 0.29490
+iter_dt 200.40ms; iter 26240: train loss 0.31482
+iter_dt 201.92ms; iter 26250: train loss 0.30976
+iter_dt 195.37ms; iter 26260: train loss 0.30472
+iter_dt 201.09ms; iter 26270: train loss 0.32655
+iter_dt 197.70ms; iter 26280: train loss 0.31033
+iter_dt 195.43ms; iter 26290: train loss 0.31818
+iter_dt 201.86ms; iter 26300: train loss 0.31934
+iter_dt 197.45ms; iter 26310: train loss 0.31158
+iter_dt 201.35ms; iter 26320: train loss 0.30838
+iter_dt 201.38ms; iter 26330: train loss 0.30990
+iter_dt 205.22ms; iter 26340: train loss 0.30119
+iter_dt 198.45ms; iter 26350: train loss 0.30429
+iter_dt 201.09ms; iter 26360: train loss 0.30172
+iter_dt 205.98ms; iter 26370: train loss 0.31938
+iter_dt 197.14ms; iter 26380: train loss 0.30739
+iter_dt 203.48ms; iter 26390: train loss 0.33475
+iter_dt 197.04ms; iter 26400: train loss 0.30242
+iter_dt 198.78ms; iter 26410: train loss 0.31162
+iter_dt 200.27ms; iter 26420: train loss 0.31312
+iter_dt 202.39ms; iter 26430: train loss 0.31897
+iter_dt 196.04ms; iter 26440: train loss 0.31265
+iter_dt 203.96ms; iter 26450: train loss 0.30471
+iter_dt 203.43ms; iter 26460: train loss 0.31640
+iter_dt 199.91ms; iter 26470: train loss 0.31135
+iter_dt 197.81ms; iter 26480: train loss 0.30302
+iter_dt 198.90ms; iter 26490: train loss 0.30775
+iter_dt 199.74ms; iter 26500: train loss 0.29989
+O God, O God! that e'er this tongue of mine,
+That laid the sentence of dread banishment
+On yon conceal'd sight.
+
+LEONTES:
+O grave and good Paulina, the great comfort
+That I have had of the world good night.
+Now, for this night, let's harbour here in York;
+And when the morning sun shall raise his car
+Above the envious mouth on part and look beggar:
+Ear your man, proud queen.
+
+Gaoler:
+My lord,--my heart of woe, and beseech you
+With bats and clubbirtals like a dance;
+Have no ado noon enough to be my heir.
+What 
+saving model
+iter_dt 207.97ms; iter 26510: train loss 0.33121
+iter_dt 202.42ms; iter 26520: train loss 0.30219
+iter_dt 204.20ms; iter 26530: train loss 0.30585
+iter_dt 195.46ms; iter 26540: train loss 0.33161
+iter_dt 198.16ms; iter 26550: train loss 0.31473
+iter_dt 197.95ms; iter 26560: train loss 0.30669
+iter_dt 201.89ms; iter 26570: train loss 0.30762
+iter_dt 197.01ms; iter 26580: train loss 0.30152
+iter_dt 198.87ms; iter 26590: train loss 0.30958
+iter_dt 198.59ms; iter 26600: train loss 0.31187
+iter_dt 198.07ms; iter 26610: train loss 0.30392
+iter_dt 196.35ms; iter 26620: train loss 0.32340
+iter_dt 201.78ms; iter 26630: train loss 0.29749
+iter_dt 201.05ms; iter 26640: train loss 0.30208
+iter_dt 196.09ms; iter 26650: train loss 0.30167
+iter_dt 198.71ms; iter 26660: train loss 0.31337
+iter_dt 201.01ms; iter 26670: train loss 0.29516
+iter_dt 204.76ms; iter 26680: train loss 0.31968
+iter_dt 197.86ms; iter 26690: train loss 0.30033
+iter_dt 201.45ms; iter 26700: train loss 0.30702
+iter_dt 197.27ms; iter 26710: train loss 0.31864
+iter_dt 195.40ms; iter 26720: train loss 0.30441
+iter_dt 204.13ms; iter 26730: train loss 0.31521
+iter_dt 200.78ms; iter 26740: train loss 0.31472
+iter_dt 201.93ms; iter 26750: train loss 0.32329
+iter_dt 197.52ms; iter 26760: train loss 0.31456
+iter_dt 198.16ms; iter 26770: train loss 0.28954
+iter_dt 203.81ms; iter 26780: train loss 0.32315
+iter_dt 204.08ms; iter 26790: train loss 0.30210
+iter_dt 198.49ms; iter 26800: train loss 0.30223
+iter_dt 197.14ms; iter 26810: train loss 0.31854
+iter_dt 196.29ms; iter 26820: train loss 0.31795
+iter_dt 198.27ms; iter 26830: train loss 0.29892
+iter_dt 204.43ms; iter 26840: train loss 0.30334
+iter_dt 204.49ms; iter 26850: train loss 0.29512
+iter_dt 198.98ms; iter 26860: train loss 0.30788
+iter_dt 204.47ms; iter 26870: train loss 0.30132
+iter_dt 198.52ms; iter 26880: train loss 0.31451
+iter_dt 204.33ms; iter 26890: train loss 0.31571
+iter_dt 200.00ms; iter 26900: train loss 0.32386
+iter_dt 196.42ms; iter 26910: train loss 0.31302
+iter_dt 198.09ms; iter 26920: train loss 0.31333
+iter_dt 197.98ms; iter 26930: train loss 0.29866
+iter_dt 191.92ms; iter 26940: train loss 0.31280
+iter_dt 208.49ms; iter 26950: train loss 0.29137
+iter_dt 197.71ms; iter 26960: train loss 0.30531
+iter_dt 197.78ms; iter 26970: train loss 0.32059
+iter_dt 198.60ms; iter 26980: train loss 0.29929
+iter_dt 200.96ms; iter 26990: train loss 0.32156
+iter_dt 203.46ms; iter 27000: train loss 0.30473
+O God, O God! that e'er this tongue of it makes
+Thy wives shall be done, in that disorance of the earth
+Of limping winter mays with some fearful broken laid of France.
+
+WARWICK:
+I came from Edward as ambassador,
+But I return his sworn and mortal foe:
+Merely heart is a wife.
+
+GLOUCESTER:
+
+KING EDWARD IV:
+Now, Warwick, tell me, even upon thy conscience,
+Or else deputy to see thy fotune ever;
+For dost of those that handed that set thy words in peace.
+Now put thy in thy bosom there lies dead;
+And Paris too. Come
+saving model
+iter_dt 209.10ms; iter 27010: train loss 0.30507
+iter_dt 201.31ms; iter 27020: train loss 0.31665
+iter_dt 203.37ms; iter 27030: train loss 0.31094
+iter_dt 197.52ms; iter 27040: train loss 0.30963
+iter_dt 201.48ms; iter 27050: train loss 0.30088
+iter_dt 204.99ms; iter 27060: train loss 0.29757
+iter_dt 200.86ms; iter 27070: train loss 0.29259
+iter_dt 201.91ms; iter 27080: train loss 0.29929
+iter_dt 203.99ms; iter 27090: train loss 0.30644
+iter_dt 204.89ms; iter 27100: train loss 0.28300
+iter_dt 199.66ms; iter 27110: train loss 0.30893
+iter_dt 200.91ms; iter 27120: train loss 0.31688
+iter_dt 202.93ms; iter 27130: train loss 0.30987
+iter_dt 199.81ms; iter 27140: train loss 0.32170
+iter_dt 201.18ms; iter 27150: train loss 0.30161
+iter_dt 201.68ms; iter 27160: train loss 0.29147
+iter_dt 204.49ms; iter 27170: train loss 0.32348
+iter_dt 202.22ms; iter 27180: train loss 0.31733
+iter_dt 199.49ms; iter 27190: train loss 0.29438
+iter_dt 201.52ms; iter 27200: train loss 0.30507
+iter_dt 196.37ms; iter 27210: train loss 0.30730
+iter_dt 202.41ms; iter 27220: train loss 0.31337
+iter_dt 203.00ms; iter 27230: train loss 0.29416
+iter_dt 197.98ms; iter 27240: train loss 0.29119
+iter_dt 198.01ms; iter 27250: train loss 0.29847
+iter_dt 196.99ms; iter 27260: train loss 0.30777
+iter_dt 193.14ms; iter 27270: train loss 0.30374
+iter_dt 194.61ms; iter 27280: train loss 0.29881
+iter_dt 203.51ms; iter 27290: train loss 0.29146
+iter_dt 197.26ms; iter 27300: train loss 0.29856
+iter_dt 200.35ms; iter 27310: train loss 0.29861
+iter_dt 200.11ms; iter 27320: train loss 0.30230
+iter_dt 198.44ms; iter 27330: train loss 0.30546
+iter_dt 198.63ms; iter 27340: train loss 0.31097
+iter_dt 197.07ms; iter 27350: train loss 0.30747
+iter_dt 200.21ms; iter 27360: train loss 0.31124
+iter_dt 204.90ms; iter 27370: train loss 0.32415
+iter_dt 195.81ms; iter 27380: train loss 0.30985
+iter_dt 202.47ms; iter 27390: train loss 0.29737
+iter_dt 199.73ms; iter 27400: train loss 0.29617
+iter_dt 197.02ms; iter 27410: train loss 0.30800
+iter_dt 201.04ms; iter 27420: train loss 0.30734
+iter_dt 197.51ms; iter 27430: train loss 0.31925
+iter_dt 203.93ms; iter 27440: train loss 0.29166
+iter_dt 195.70ms; iter 27450: train loss 0.31166
+iter_dt 196.89ms; iter 27460: train loss 0.29473
+iter_dt 196.70ms; iter 27470: train loss 0.30435
+iter_dt 200.21ms; iter 27480: train loss 0.29480
+iter_dt 198.57ms; iter 27490: train loss 0.30366
+iter_dt 203.60ms; iter 27500: train loss 0.30034
+O God, O God! for shame! let a buzzards
+With wondering eyes and ears? I must like the fire,
+For she is thus current in all this left,
+But such time may show best.
+
+ANGELO:
+She shall; ne'er shall not be advanced:
+And weep ye now, seeing she is advanced
+Above the clouds, as he can make him accuse
+Even such a pace which is the good with child
+Which shows like created from pantages,
+And he to delightful dumps so of the shout
+To the people, seeking of your purse to like
+With valour couch fover and kiss.
+
+First Mu
+saving model
+iter_dt 201.93ms; iter 27510: train loss 0.29833
+iter_dt 199.43ms; iter 27520: train loss 0.31059
+iter_dt 209.37ms; iter 27530: train loss 0.31078
+iter_dt 199.10ms; iter 27540: train loss 0.29887
+iter_dt 198.51ms; iter 27550: train loss 0.29930
+iter_dt 198.17ms; iter 27560: train loss 0.30102
+iter_dt 204.95ms; iter 27570: train loss 0.30057
+iter_dt 199.67ms; iter 27580: train loss 0.29787
+iter_dt 203.25ms; iter 27590: train loss 0.30387
+iter_dt 202.66ms; iter 27600: train loss 0.29373
+iter_dt 199.28ms; iter 27610: train loss 0.29782
+iter_dt 201.35ms; iter 27620: train loss 0.30318
+iter_dt 200.53ms; iter 27630: train loss 0.30247
+iter_dt 199.58ms; iter 27640: train loss 0.30118
+iter_dt 203.56ms; iter 27650: train loss 0.30110
+iter_dt 201.62ms; iter 27660: train loss 0.31417
+iter_dt 200.88ms; iter 27670: train loss 0.28983
+iter_dt 197.95ms; iter 27680: train loss 0.30265
+iter_dt 197.99ms; iter 27690: train loss 0.29954
+iter_dt 204.43ms; iter 27700: train loss 0.31062
+iter_dt 197.20ms; iter 27710: train loss 0.29581
+iter_dt 199.15ms; iter 27720: train loss 0.31054
+iter_dt 204.95ms; iter 27730: train loss 0.29795
+iter_dt 200.17ms; iter 27740: train loss 0.28146
+iter_dt 203.33ms; iter 27750: train loss 0.30924
+iter_dt 197.74ms; iter 27760: train loss 0.29907
+iter_dt 195.94ms; iter 27770: train loss 0.30757
+iter_dt 198.18ms; iter 27780: train loss 0.29137
+iter_dt 200.76ms; iter 27790: train loss 0.29348
+iter_dt 199.93ms; iter 27800: train loss 0.30821
+iter_dt 198.52ms; iter 27810: train loss 0.30371
+iter_dt 197.37ms; iter 27820: train loss 0.29516
+iter_dt 200.98ms; iter 27830: train loss 0.28126
+iter_dt 200.20ms; iter 27840: train loss 0.31018
+iter_dt 202.79ms; iter 27850: train loss 0.31418
+iter_dt 201.90ms; iter 27860: train loss 0.30445
+iter_dt 201.14ms; iter 27870: train loss 0.29170
+iter_dt 201.17ms; iter 27880: train loss 0.31521
+iter_dt 200.62ms; iter 27890: train loss 0.31325
+iter_dt 199.26ms; iter 27900: train loss 0.30822
+iter_dt 196.12ms; iter 27910: train loss 0.32814
+iter_dt 199.39ms; iter 27920: train loss 0.29865
+iter_dt 198.05ms; iter 27930: train loss 0.30501
+iter_dt 198.94ms; iter 27940: train loss 0.28933
+iter_dt 197.43ms; iter 27950: train loss 0.29062
+iter_dt 200.17ms; iter 27960: train loss 0.31699
+iter_dt 197.15ms; iter 27970: train loss 0.30688
+iter_dt 201.79ms; iter 27980: train loss 0.29633
+iter_dt 200.01ms; iter 27990: train loss 0.31020
+iter_dt 199.76ms; iter 28000: train loss 0.30338
+O God, O God! methinks in the breast!
+
+KING RICHARD II:
+Farewell, my Hector, and my blood.
+
+HENRY BOLINGBROKE:
+Can nice these eyes advancesary:
+My tongue cousin, my lord, and I have hearted
+Your royal ear abused. First, hath this woman
+Most wrongfully accused your substitute,
+Who is as free from touch or the virtue.
+That is the city sheeter: O, how may that never
+My house sty must be large and to melancholy,
+And on a since mine own comfort have saved?
+Ah, what a shame! ah, what a fault were this!
+Say Warwick
+saving model
+iter_dt 208.40ms; iter 28010: train loss 0.31120
+iter_dt 204.75ms; iter 28020: train loss 0.29292
+iter_dt 206.27ms; iter 28030: train loss 0.28856
+iter_dt 201.66ms; iter 28040: train loss 0.31165
+iter_dt 204.40ms; iter 28050: train loss 0.30044
+iter_dt 202.09ms; iter 28060: train loss 0.30800
+iter_dt 200.86ms; iter 28070: train loss 0.30523
+iter_dt 197.63ms; iter 28080: train loss 0.31450
+iter_dt 199.69ms; iter 28090: train loss 0.29753
+iter_dt 201.82ms; iter 28100: train loss 0.31247
+iter_dt 198.53ms; iter 28110: train loss 0.29744
+iter_dt 203.14ms; iter 28120: train loss 0.29724
+iter_dt 195.98ms; iter 28130: train loss 0.29585
+iter_dt 201.91ms; iter 28140: train loss 0.29895
+iter_dt 201.99ms; iter 28150: train loss 0.30112
+iter_dt 200.32ms; iter 28160: train loss 0.29472
+iter_dt 200.15ms; iter 28170: train loss 0.30937
+iter_dt 195.38ms; iter 28180: train loss 0.30070
+iter_dt 195.65ms; iter 28190: train loss 0.29440
+iter_dt 204.16ms; iter 28200: train loss 0.31092
+iter_dt 201.87ms; iter 28210: train loss 0.29376
+iter_dt 198.18ms; iter 28220: train loss 0.29998
+iter_dt 197.73ms; iter 28230: train loss 0.31053
+iter_dt 200.14ms; iter 28240: train loss 0.31737
+iter_dt 202.43ms; iter 28250: train loss 0.30920
+iter_dt 197.01ms; iter 28260: train loss 0.30187
+iter_dt 198.98ms; iter 28270: train loss 0.31580
+iter_dt 202.46ms; iter 28280: train loss 0.29106
+iter_dt 202.99ms; iter 28290: train loss 0.30195
+iter_dt 201.54ms; iter 28300: train loss 0.30000
+iter_dt 195.82ms; iter 28310: train loss 0.31749
+iter_dt 195.60ms; iter 28320: train loss 0.30867
+iter_dt 195.27ms; iter 28330: train loss 0.31514
+iter_dt 196.03ms; iter 28340: train loss 0.28264
+iter_dt 197.05ms; iter 28350: train loss 0.29382
+iter_dt 196.95ms; iter 28360: train loss 0.30449
+iter_dt 202.87ms; iter 28370: train loss 0.31107
+iter_dt 196.91ms; iter 28380: train loss 0.29601
+iter_dt 194.20ms; iter 28390: train loss 0.29210
+iter_dt 201.74ms; iter 28400: train loss 0.29494
+iter_dt 198.96ms; iter 28410: train loss 0.29883
+iter_dt 197.78ms; iter 28420: train loss 0.30136
+iter_dt 202.00ms; iter 28430: train loss 0.29212
+iter_dt 194.22ms; iter 28440: train loss 0.30963
+iter_dt 198.42ms; iter 28450: train loss 0.31310
+iter_dt 197.44ms; iter 28460: train loss 0.29238
+iter_dt 200.81ms; iter 28470: train loss 0.30238
+iter_dt 195.10ms; iter 28480: train loss 0.28819
+iter_dt 197.76ms; iter 28490: train loss 0.31212
+iter_dt 198.53ms; iter 28500: train loss 0.32013
+O God, O God!
+
+Commend me to my soul! O that I can do
+For what I have, your noble company, I loved my
+shoulder-benefit your cousin's death.
+
+ISABELLA:
+What, you have might thank you for yours,
+I should have let so good a good dis order,
+And you approhend for your malice.
+
+MARCIUS:
+See that the garland
+III:
+Thou wilt amend thy life; therefore follow me.
+
+GLOUCESTER:
+
+KING RICHARD III:
+Then we lie in Thine.
+
+QUEEN ELIZABETH:
+Long to me, then let him be set regarded
+I shall discharge to the dew.
+
+KING RICHARD I
+saving model
+iter_dt 205.87ms; iter 28510: train loss 0.29314
+iter_dt 209.31ms; iter 28520: train loss 0.29306
+iter_dt 204.20ms; iter 28530: train loss 0.29430
+iter_dt 200.04ms; iter 28540: train loss 0.30778
+iter_dt 198.07ms; iter 28550: train loss 0.27689
+iter_dt 198.42ms; iter 28560: train loss 0.30351
+iter_dt 205.99ms; iter 28570: train loss 0.30581
+iter_dt 198.67ms; iter 28580: train loss 0.28556
+iter_dt 201.57ms; iter 28590: train loss 0.27737
+iter_dt 199.60ms; iter 28600: train loss 0.30237
+iter_dt 203.38ms; iter 28610: train loss 0.30776
+iter_dt 198.23ms; iter 28620: train loss 0.30102
+iter_dt 195.10ms; iter 28630: train loss 0.28749
+iter_dt 196.89ms; iter 28640: train loss 0.29531
+iter_dt 198.05ms; iter 28650: train loss 0.28823
+iter_dt 199.90ms; iter 28660: train loss 0.30373
+iter_dt 197.11ms; iter 28670: train loss 0.30542
+iter_dt 200.31ms; iter 28680: train loss 0.28520
+iter_dt 198.53ms; iter 28690: train loss 0.30771
+iter_dt 200.06ms; iter 28700: train loss 0.29595
+iter_dt 201.08ms; iter 28710: train loss 0.29343
+iter_dt 200.58ms; iter 28720: train loss 0.29537
+iter_dt 196.60ms; iter 28730: train loss 0.31163
+iter_dt 194.88ms; iter 28740: train loss 0.31921
+iter_dt 200.46ms; iter 28750: train loss 0.31524
+iter_dt 205.75ms; iter 28760: train loss 0.29505
+iter_dt 197.78ms; iter 28770: train loss 0.30701
+iter_dt 199.60ms; iter 28780: train loss 0.30841
+iter_dt 200.39ms; iter 28790: train loss 0.29049
+iter_dt 200.11ms; iter 28800: train loss 0.31307
+iter_dt 200.39ms; iter 28810: train loss 0.31297
+iter_dt 201.18ms; iter 28820: train loss 0.29803
+iter_dt 202.80ms; iter 28830: train loss 0.29954
+iter_dt 197.13ms; iter 28840: train loss 0.31414
+iter_dt 196.65ms; iter 28850: train loss 0.30084
+iter_dt 197.97ms; iter 28860: train loss 0.30311
+iter_dt 198.29ms; iter 28870: train loss 0.29074
+iter_dt 200.14ms; iter 28880: train loss 0.29849
+iter_dt 198.35ms; iter 28890: train loss 0.30143
+iter_dt 197.29ms; iter 28900: train loss 0.31271
+iter_dt 205.85ms; iter 28910: train loss 0.29291
+iter_dt 201.91ms; iter 28920: train loss 0.28990
+iter_dt 196.55ms; iter 28930: train loss 0.30737
+iter_dt 200.79ms; iter 28940: train loss 0.30806
+iter_dt 199.20ms; iter 28950: train loss 0.28907
+iter_dt 200.99ms; iter 28960: train loss 0.29628
+iter_dt 196.95ms; iter 28970: train loss 0.29523
+iter_dt 200.79ms; iter 28980: train loss 0.29247
+iter_dt 201.26ms; iter 28990: train loss 0.29299
+iter_dt 201.69ms; iter 29000: train loss 0.30519
+O God, O God! that e'er this tongue of mine,
+That laid the sentence of dread banishment
+On yon proud man, set fornight-foes,
+And by the butchers of heartsics and grief.
+More than my danger and I more renowned,
+And remain thanks that can integrity.
+
+LADY ANNE:
+Vouchsafe, defused with evil,
+Here art of the enemy in of the people,
+Thus with the spleness of this land,--the vile conclusion
+I now begin with grief and shame to utter:
+Her and I intend to shore you would not so,
+Were you that Hector lives me not, nor
+saving model
+iter_dt 200.73ms; iter 29010: train loss 0.28678
+iter_dt 201.81ms; iter 29020: train loss 0.29499
+iter_dt 200.31ms; iter 29030: train loss 0.29300
+iter_dt 203.30ms; iter 29040: train loss 0.30152
+iter_dt 196.79ms; iter 29050: train loss 0.29840
+iter_dt 201.70ms; iter 29060: train loss 0.29265
+iter_dt 197.46ms; iter 29070: train loss 0.30434
+iter_dt 203.50ms; iter 29080: train loss 0.29959
+iter_dt 195.03ms; iter 29090: train loss 0.30964
+iter_dt 202.79ms; iter 29100: train loss 0.28065
+iter_dt 207.81ms; iter 29110: train loss 0.30797
+iter_dt 201.21ms; iter 29120: train loss 0.28496
+iter_dt 196.33ms; iter 29130: train loss 0.29739
+iter_dt 198.75ms; iter 29140: train loss 0.29174
+iter_dt 199.66ms; iter 29150: train loss 0.31729
+iter_dt 193.88ms; iter 29160: train loss 0.29920
+iter_dt 195.73ms; iter 29170: train loss 0.31955
+iter_dt 198.33ms; iter 29180: train loss 0.29304
+iter_dt 201.22ms; iter 29190: train loss 0.29075
+iter_dt 196.12ms; iter 29200: train loss 0.29915
+iter_dt 201.86ms; iter 29210: train loss 0.31537
+iter_dt 198.39ms; iter 29220: train loss 0.31712
+iter_dt 200.86ms; iter 29230: train loss 0.28636
+iter_dt 201.40ms; iter 29240: train loss 0.29639
+iter_dt 202.26ms; iter 29250: train loss 0.29614
+iter_dt 200.61ms; iter 29260: train loss 0.30945
+iter_dt 200.23ms; iter 29270: train loss 0.29549
+iter_dt 199.81ms; iter 29280: train loss 0.29247
+iter_dt 200.83ms; iter 29290: train loss 0.30727
+iter_dt 208.40ms; iter 29300: train loss 0.29802
+iter_dt 199.35ms; iter 29310: train loss 0.30341
+iter_dt 202.71ms; iter 29320: train loss 0.31442
+iter_dt 202.67ms; iter 29330: train loss 0.29617
+iter_dt 200.02ms; iter 29340: train loss 0.28859
+iter_dt 199.18ms; iter 29350: train loss 0.28111
+iter_dt 201.63ms; iter 29360: train loss 0.29569
+iter_dt 199.91ms; iter 29370: train loss 0.31189
+iter_dt 198.94ms; iter 29380: train loss 0.29463
+iter_dt 201.22ms; iter 29390: train loss 0.28532
+iter_dt 196.75ms; iter 29400: train loss 0.30183
+iter_dt 200.62ms; iter 29410: train loss 0.29285
+iter_dt 198.68ms; iter 29420: train loss 0.29256
+iter_dt 198.86ms; iter 29430: train loss 0.30231
+iter_dt 203.18ms; iter 29440: train loss 0.28897
+iter_dt 197.24ms; iter 29450: train loss 0.30241
+iter_dt 202.24ms; iter 29460: train loss 0.28493
+iter_dt 198.63ms; iter 29470: train loss 0.27877
+iter_dt 198.81ms; iter 29480: train loss 0.28568
+iter_dt 199.38ms; iter 29490: train loss 0.29674
+iter_dt 202.02ms; iter 29500: train loss 0.29044
+O God, O God! that e'er this twenty of times,
+Unto a many slaves to shrink down their shores,
+As if the world
+Were to limps of their wealth, and meet and one hate,
+Brought my passage for the tender princes.
+Daughter, well met.
+
+LADY ANNE:
+God give your graces both
+A happy and a joyful time of day!
+
+QUEEN ELIZABETH:
+As if they live, I hope I need not fear.
+But come, my lord; and so 'twill do
+With some men else, who think themselves as safe
+As thou and I; who, all now for the orchard,
+To the common people by n
+saving model
+iter_dt 205.57ms; iter 29510: train loss 0.30219
+iter_dt 210.88ms; iter 29520: train loss 0.28659
+iter_dt 198.50ms; iter 29530: train loss 0.29789
+iter_dt 197.79ms; iter 29540: train loss 0.30500
+iter_dt 196.01ms; iter 29550: train loss 0.29985
+iter_dt 198.63ms; iter 29560: train loss 0.27750
+iter_dt 195.82ms; iter 29570: train loss 0.30436
+iter_dt 202.72ms; iter 29580: train loss 0.29431
+iter_dt 196.50ms; iter 29590: train loss 0.30373
+iter_dt 196.16ms; iter 29600: train loss 0.29197
+iter_dt 197.28ms; iter 29610: train loss 0.30004
+iter_dt 195.41ms; iter 29620: train loss 0.29378
+iter_dt 194.80ms; iter 29630: train loss 0.29516
+iter_dt 200.10ms; iter 29640: train loss 0.28983
+iter_dt 203.12ms; iter 29650: train loss 0.27841
+iter_dt 191.93ms; iter 29660: train loss 0.28801
+iter_dt 200.55ms; iter 29670: train loss 0.29166
+iter_dt 203.39ms; iter 29680: train loss 0.28240
+iter_dt 204.38ms; iter 29690: train loss 0.28393
+iter_dt 196.44ms; iter 29700: train loss 0.29758
+iter_dt 199.78ms; iter 29710: train loss 0.29185
+iter_dt 196.57ms; iter 29720: train loss 0.28250
+iter_dt 197.37ms; iter 29730: train loss 0.29224
+iter_dt 195.27ms; iter 29740: train loss 0.31705
+iter_dt 201.06ms; iter 29750: train loss 0.28884
+iter_dt 203.19ms; iter 29760: train loss 0.30866
+iter_dt 198.30ms; iter 29770: train loss 0.30280
+iter_dt 200.29ms; iter 29780: train loss 0.28821
+iter_dt 201.09ms; iter 29790: train loss 0.28645
+iter_dt 200.57ms; iter 29800: train loss 0.28850
+iter_dt 198.40ms; iter 29810: train loss 0.28441
+iter_dt 197.80ms; iter 29820: train loss 0.28919
+iter_dt 198.10ms; iter 29830: train loss 0.28404
+iter_dt 197.31ms; iter 29840: train loss 0.28939
+iter_dt 202.69ms; iter 29850: train loss 0.28933
+iter_dt 199.74ms; iter 29860: train loss 0.32159
+iter_dt 203.18ms; iter 29870: train loss 0.28396
+iter_dt 203.47ms; iter 29880: train loss 0.29932
+iter_dt 197.79ms; iter 29890: train loss 0.29379
+iter_dt 197.60ms; iter 29900: train loss 0.28242
+iter_dt 201.56ms; iter 29910: train loss 0.29209
+iter_dt 201.56ms; iter 29920: train loss 0.29650
+iter_dt 198.23ms; iter 29930: train loss 0.30313
+iter_dt 201.84ms; iter 29940: train loss 0.30318
+iter_dt 197.04ms; iter 29950: train loss 0.29070
+iter_dt 196.26ms; iter 29960: train loss 0.28955
+iter_dt 204.53ms; iter 29970: train loss 0.28834
+iter_dt 198.72ms; iter 29980: train loss 0.30052
+iter_dt 195.31ms; iter 29990: train loss 0.28820
+iter_dt 204.64ms; iter 30000: train loss 0.28720
+O God, O God! that e'er this tongue of mine,
+That laid the sentence of dread banishment
+On yon proud man, should take it off again
+With words of courage, fair Saint George to Richard!'
+And thus I took the cause, and mock'd me some of noble
+But tiger me to thrice a wonder pearl or war.
+
+HENRY BOLINGBROKE:
+Whither?
+
+KING RICHARD II:
+Whither you will, so I were from yours?
+
+QUEEN ELIZABETH:
+If he were dead, what would betide of me?
+
+RIVERS:
+No other harm but loss of such a lord.
+
+QUEEN ELIZABETH:
+Though far mor
+saving model
