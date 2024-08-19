@@ -20,6 +20,9 @@ class SoftMoE(nn.Module):
     """
     
     # making state shared by all objects, it's hard to control individual within mingpt architecture
+    # Global state management: use global global state ('SoftMoE.nums' and 'SoftMoE.sparse') to manage
+    # the configuration across multiple instances of the 'SoftMoE' class. This approach simplifies the 
+    # control of expert selection and routing behavior across the entire model.
     moe_nums = None  # (total, active) number of experts
     sparse = None    # None for soft moe mode, means router and all experts are trained
                      # active number of experts for sparse mode
@@ -68,6 +71,9 @@ class SoftMoE(nn.Module):
         SoftMoE.moe_nums = moe_nums   # globalizing it
         
         self.num_experts = moe_nums[0]
+        # The router is a trainable linear layer that maps the input (token) to a set of weights, one for each expert,
+        # signifying how important that weight is for the input token.
+        # These weights determine how much influence each expert should have on the final output.
         self.router = nn.Linear(self.forward_in, self.num_experts)   # from token produces weights for each expert
         self.experts = nn.ModuleList([SoftMoE.Expert(expert_size, n_embd, self.forward_width) for _ in range(self.num_experts)])
         self.dropout = nn.Dropout(dropout)  # dropout at the end
@@ -75,6 +81,10 @@ class SoftMoE(nn.Module):
     def forward(self, x):
         sparse = SoftMoE.sparse  # global state for all objects
         # there is no separate call for it, changing here
+        # When sparse mode is enabled, the router is set to evaluation mode, and its gradients are frozen,
+        # meaning it is no longer trainable. The forward pass in sparse mode involves selecting the top-k experts based
+        # on the routing weights, computing the outputs for these experts, and summing them, weighted by the normalized 
+        # top-k weights.
         if sparse:
             self.router.eval()
             self.router.requires_grad_(False)
@@ -83,7 +93,9 @@ class SoftMoE(nn.Module):
             self.router.requires_grad_(True)
         
         weights = self.router(x)
-
+        # In soft mode, the weights are softmaxed and used to compute a weighted sum of the outputs of all experts.
+        # In sparse mode, the top-k experts (determined byt eh highest weights) are selected, and only these 
+        # experts' outputs are considered.
         if sparse == None or sparse==self.num_experts:
             # can be done more efficiently if we represent all experts as one matrix
             weights = F.softmax(weights, dim=-1) 
@@ -125,8 +137,13 @@ class SoftMoE(nn.Module):
 
                         # Scale outputs by weights and add them to the result tensor
                         out[mask] += expert_output * expert_weights
-        
+        # Dropout is applied to the final output of the MoE layer to prevent overfitting. The dropout probability
+        # is configurable and applied conditionally based on the 'dropout_ratio' parameter.
         if self.dropout_ratio:
             out = self.dropout(out)
         return out
 
+# Summary notes: This implementation of SoftMixture of Experts (SoftMoE) is a powerful extension to transformer-based models,
+# particularly for large-scale models where computational efficiency and flebility are critical.  By allowing dynamic selection of experts
+# this approach can improve both the training and inference efficiency while maintaining the model's performance. The 
+# ability to switch between soft and sparse modes provides a useful trade-off between model espressiveness and computational cost.
