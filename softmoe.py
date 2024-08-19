@@ -5,6 +5,10 @@ import torch
 import torch.nn as nn
 from torch.nn import functional as F
 
+# Notes:
+# Soft Mode: In this mode, the outputs from all experts are combined in a weighted sum, where the weights are determined by a routing mechanism (a trainable linear layer).
+# Sparse Mode: In this mode, only a subset of the experts (usually 2) is selected based on the highest weights.  This mode is more efficient as it reduces the number of experts that need to be 
+# called during the forward pass, leading to faster inference and potentially lower costs
 class SoftMoE(nn.Module):
     """ soft mixture of experts 
         the idea:  have a trainable routing table in front of N*FF experts.
@@ -26,13 +30,17 @@ class SoftMoE(nn.Module):
             SoftMoE.sparse = SoftMoE.moe_nums[1]
         else:
             SoftMoE.sparse = None
-    
+
+# Expert class defines a simplified feed-forward network which represents a single expert in the MoE. Consists of two linear
+# layers with a GELU activation function in between. This design allows each expert to process the input independently and contribute
+# to the final output based on the routing weights
+
     class Expert(nn.Module):
         """ simplified FF network, note: with no dropout"""
         def __init__(self, expert_size, n_embd, forward_width):
             super().__init__()
             self.n_embd = n_embd
-            self.forward_in = expert_size  # all experts work in paralles, have the same input
+            self.forward_in = expert_size  # all experts work in parallel, have the same input
             self.forward_width = forward_width 
             self.net = nn.Sequential(
                 nn.Linear(self.forward_in, forward_width),
